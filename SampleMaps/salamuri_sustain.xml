@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="" RRGroupAmount="3" MicPositions=";">
+  <sample Root="48" LoKey="48" HiKey="49" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_A4_v1_rr1.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="81" LoKey="81" HiKey="82" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_A4_v1_rr2.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="48" LoKey="48" HiKey="49" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_A4_v2_rr1.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="81" LoKey="81" HiKey="82" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_A4_v2_rr2.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="48" LoKey="48" HiKey="49" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_A4_v3_rr1.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="81" LoKey="81" HiKey="82" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_A4_v3_rr2.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="60" LoKey="60" HiKey="61" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_A5_v1_rr1.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="93" LoKey="93" HiKey="94" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_A5_v1_rr2.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="60" LoKey="60" HiKey="61" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_A5_v2_rr1.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="93" LoKey="93" HiKey="94" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_A5_v2_rr2.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="60" LoKey="60" HiKey="61" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_A5_v3_rr1.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="93" LoKey="93" HiKey="94" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_A5_v3_rr2.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="38" LoKey="36" HiKey="38" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_B3_v1_rr1.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="71" LoKey="69" HiKey="71" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_B3_v1_rr2.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="38" LoKey="36" HiKey="38" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_B3_v2_rr1.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="71" LoKey="69" HiKey="71" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_B3_v2_rr2.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="38" LoKey="36" HiKey="38" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_B3_v3_rr1.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="71" LoKey="69" HiKey="71" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_B3_v3_rr2.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_B4_v1_rr1.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="83" LoKey="83" HiKey="83" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_B4_v1_rr2.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_B4_v2_rr1.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="83" LoKey="83" HiKey="83" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_B4_v2_rr2.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_B4_v3_rr1.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="83" LoKey="83" HiKey="83" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_B4_v3_rr2.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_B5_v1_rr1.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="95" LoKey="95" HiKey="95" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_B5_v1_rr2.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_B5_v2_rr1.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="95" LoKey="95" HiKey="95" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_B5_v2_rr2.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_B5_v3_rr1.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="95" LoKey="95" HiKey="95" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_B5_v3_rr2.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="39" LoKey="39" HiKey="40" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_C4_v1_rr1.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="72" LoKey="72" HiKey="73" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_C4_v1_rr2.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="39" LoKey="39" HiKey="40" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_C4_v2_rr1.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="72" LoKey="72" HiKey="73" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_C4_v2_rr2.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="39" LoKey="39" HiKey="40" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_C4_v3_rr1.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="72" LoKey="72" HiKey="73" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_C4_v3_rr2.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="51" LoKey="51" HiKey="52" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_C5_v1_rr1.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="84" LoKey="84" HiKey="85" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_C5_v1_rr2.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="51" LoKey="51" HiKey="52" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_C5_v2_rr1.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="84" LoKey="84" HiKey="85" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_C5_v2_rr2.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="51" LoKey="51" HiKey="52" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_C5_v3_rr1.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="84" LoKey="84" HiKey="85" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_C5_v3_rr2.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="63" LoKey="63" HiKey="64" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_C6_v1_rr1.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="96" LoKey="96" HiKey="97" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_C6_v1_rr2.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="63" LoKey="63" HiKey="64" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_C6_v2_rr1.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="96" LoKey="96" HiKey="97" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_C6_v2_rr2.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="63" LoKey="63" HiKey="64" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_C6_v3_rr1.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="96" LoKey="96" HiKey="97" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_C6_v3_rr2.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="41" LoKey="41" HiKey="42" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_D4_v1_rr1.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="74" LoKey="74" HiKey="75" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_D4_v1_rr2.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="41" LoKey="41" HiKey="42" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_D4_v2_rr1.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="74" LoKey="74" HiKey="75" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_D4_v2_rr2.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="41" LoKey="41" HiKey="42" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_D4_v3_rr1.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="74" LoKey="74" HiKey="75" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_D4_v3_rr2.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="53" LoKey="53" HiKey="54" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_D5_v1_rr1.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="86" LoKey="86" HiKey="87" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_D5_v1_rr2.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="53" LoKey="53" HiKey="54" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_D5_v2_rr1.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="86" LoKey="86" HiKey="87" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_D5_v2_rr2.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="53" LoKey="53" HiKey="54" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_D5_v3_rr1.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="86" LoKey="86" HiKey="87" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_D5_v3_rr2.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="65" LoKey="65" HiKey="67" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_D6_v1_rr1.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="98" LoKey="98" HiKey="100" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_D6_v1_rr2.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="65" LoKey="65" HiKey="67" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_D6_v2_rr1.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="98" LoKey="98" HiKey="100" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_D6_v2_rr2.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="65" LoKey="65" HiKey="67" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_D6_v3_rr1.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="98" LoKey="98" HiKey="100" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_D6_v3_rr2.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="43" LoKey="43" HiKey="43" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_E4_v1_rr1.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_E4_v1_rr2.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="43" LoKey="43" HiKey="43" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_E4_v2_rr1.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_E4_v2_rr2.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="43" LoKey="43" HiKey="43" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_E4_v3_rr1.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_E4_v3_rr2.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_E5_v1_rr1.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="88" LoKey="88" HiKey="88" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_E5_v1_rr2.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_E5_v2_rr1.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="88" LoKey="88" HiKey="88" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_E5_v2_rr2.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_E5_v3_rr1.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="88" LoKey="88" HiKey="88" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_E5_v3_rr2.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="44" LoKey="44" HiKey="45" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_F4_v1_rr1.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="77" LoKey="77" HiKey="78" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_F4_v1_rr2.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="44" LoKey="44" HiKey="45" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_F4_v2_rr1.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="77" LoKey="77" HiKey="78" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_F4_v2_rr2.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="44" LoKey="44" HiKey="45" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_F4_v3_rr1.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="77" LoKey="77" HiKey="78" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_F4_v3_rr2.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="56" LoKey="56" HiKey="57" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_F5_v1_rr1.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="89" LoKey="89" HiKey="90" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_F5_v1_rr2.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="56" LoKey="56" HiKey="57" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_F5_v2_rr1.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="89" LoKey="89" HiKey="90" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_F5_v2_rr2.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="56" LoKey="56" HiKey="57" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_F5_v3_rr1.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="89" LoKey="89" HiKey="90" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_F5_v3_rr2.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="46" LoKey="46" HiKey="47" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_G4_v1_rr1.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="79" LoKey="79" HiKey="80" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_G4_v1_rr2.wav"
+          Duplicate="1" SampleStartMod="2000"/>
+  <sample Root="46" LoKey="46" HiKey="47" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_G4_v2_rr1.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="79" LoKey="79" HiKey="80" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_G4_v2_rr2.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="46" LoKey="46" HiKey="47" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_G4_v3_rr1.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="79" LoKey="79" HiKey="80" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_G4_v3_rr2.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="58" LoKey="58" HiKey="59" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_G5_v1_rr1.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="91" LoKey="91" HiKey="92" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_G5_v1_rr2.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="58" LoKey="58" HiKey="59" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_G5_v2_rr1.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="91" LoKey="91" HiKey="92" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_G5_v2_rr2.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="58" LoKey="58" HiKey="59" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_G5_v3_rr1.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+  <sample Root="91" LoKey="91" HiKey="92" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Sustains/Salamuri_Sus_G5_v3_rr2.wav"
+          Duplicate="0" SampleStartMod="2000"/>
+</samplemap>

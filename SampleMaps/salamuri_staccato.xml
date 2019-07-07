@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="" RRGroupAmount="3" MicPositions=";">
+  <sample Root="81" LoKey="81" HiKey="82" LoVel="0" HiVel="1" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_A4_v1_rr1.wav"
+          Duplicate="1" SampleStart="88" SampleEnd="11325" SampleStartMod="676"/>
+  <sample Root="81" LoKey="81" HiKey="82" LoVel="2" HiVel="3" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_A4_v1_rr2.wav"
+          Duplicate="1" SampleStart="133" SampleEnd="9421" SampleStartMod="1034"/>
+  <sample Root="81" LoKey="81" HiKey="82" LoVel="4" HiVel="5" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_A4_v1_rr3.wav"
+          Duplicate="1" SampleStart="113" SampleEnd="9601" SampleStartMod="619"/>
+  <sample Root="81" LoKey="81" HiKey="82" LoVel="6" HiVel="7" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_A4_v1_rr4.wav"
+          Duplicate="1" SampleStart="86" SampleEnd="11238" SampleStartMod="619"/>
+  <sample Root="81" LoKey="81" HiKey="82" LoVel="0" HiVel="1" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_A4_v2_rr1.wav"
+          Duplicate="1" SampleStart="221" SampleEnd="12152" SampleStartMod="1034"/>
+  <sample Root="81" LoKey="81" HiKey="82" LoVel="2" HiVel="3" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_A4_v2_rr2.wav"
+          Duplicate="1" SampleStart="153" SampleEnd="12176" SampleStartMod="1568"/>
+  <sample Root="81" LoKey="81" HiKey="82" LoVel="4" HiVel="5" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_A4_v2_rr3.wav"
+          Duplicate="1" SampleStart="222" SampleEnd="11012" SampleStartMod="740"/>
+  <sample Root="81" LoKey="81" HiKey="82" LoVel="6" HiVel="7" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_A4_v2_rr4.wav"
+          Duplicate="1" SampleStart="223" SampleEnd="11261" SampleStartMod="740"/>
+  <sample Root="81" LoKey="81" HiKey="82" LoVel="0" HiVel="1" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_A4_v3_rr1.wav"
+          Duplicate="1" SampleStart="162" SampleEnd="10467" SampleStartMod="740"/>
+  <sample Root="81" LoKey="81" HiKey="82" LoVel="2" HiVel="3" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_A4_v3_rr2.wav"
+          Duplicate="1" SampleStart="168" SampleEnd="10652" SampleStartMod="740"/>
+  <sample Root="81" LoKey="81" HiKey="82" LoVel="4" HiVel="5" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_A4_v3_rr3.wav"
+          Duplicate="1" SampleStart="175" SampleEnd="11304" SampleStartMod="740"/>
+  <sample Root="81" LoKey="81" HiKey="82" LoVel="6" HiVel="7" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_A4_v3_rr4.wav"
+          Duplicate="1" SampleStart="178" SampleEnd="11604" SampleStartMod="740"/>
+  <sample Root="93" LoKey="92" HiKey="94" LoVel="0" HiVel="1" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_A5_v1_rr1.wav"
+          Duplicate="1" SampleStart="98" SampleEnd="14943" SampleStartMod="1034"/>
+  <sample Root="93" LoKey="92" HiKey="94" LoVel="2" HiVel="3" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_A5_v1_rr2.wav"
+          Duplicate="1" SampleStart="84" SampleEnd="11640" SampleStartMod="1034"/>
+  <sample Root="93" LoKey="92" HiKey="94" LoVel="4" HiVel="5" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_A5_v1_rr3.wav"
+          Duplicate="1" SampleStart="85" SampleEnd="11688" SampleStartMod="1034"/>
+  <sample Root="93" LoKey="92" HiKey="94" LoVel="6" HiVel="7" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_A5_v1_rr4.wav"
+          Duplicate="1" SampleStart="74" SampleEnd="11871" SampleStartMod="1034"/>
+  <sample Root="93" LoKey="92" HiKey="94" LoVel="0" HiVel="1" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_A5_v2_rr1.wav"
+          Duplicate="1" SampleStart="172" SampleEnd="10006" SampleStartMod="3453"/>
+  <sample Root="93" LoKey="92" HiKey="94" LoVel="2" HiVel="3" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_A5_v2_rr2.wav"
+          Duplicate="1" SampleStart="88" SampleEnd="12200" SampleStartMod="1034"/>
+  <sample Root="93" LoKey="92" HiKey="94" LoVel="4" HiVel="5" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_A5_v2_rr3.wav"
+          Duplicate="1" SampleStart="100" SampleEnd="11988" SampleStartMod="1034"/>
+  <sample Root="93" LoKey="92" HiKey="94" LoVel="6" HiVel="7" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_A5_v2_rr4.wav"
+          Duplicate="1" SampleStart="107" SampleEnd="15372" SampleStartMod="1034"/>
+  <sample Root="93" LoKey="92" HiKey="94" LoVel="0" HiVel="1" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_A5_v3_rr1.wav"
+          Duplicate="1" SampleStart="125" SampleEnd="15732" SampleStartMod="1566"/>
+  <sample Root="93" LoKey="92" HiKey="94" LoVel="2" HiVel="3" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_A5_v3_rr2.wav"
+          Duplicate="1" SampleStart="158" SampleEnd="12751" SampleStartMod="1034"/>
+  <sample Root="93" LoKey="92" HiKey="94" LoVel="4" HiVel="5" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_A5_v3_rr3.wav"
+          Duplicate="1" SampleStart="161" SampleEnd="10107" SampleStartMod="1547"/>
+  <sample Root="93" LoKey="92" HiKey="94" LoVel="6" HiVel="7" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_A5_v3_rr4.wav"
+          Duplicate="1" SampleStart="268" SampleEnd="11577" SampleStartMod="1362"/>
+  <sample Root="71" LoKey="69" HiKey="71" LoVel="0" HiVel="1" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B3_v1_rr1.wav"
+          Duplicate="1" SampleStart="157" SampleEnd="12610" SampleStartMod="1916"/>
+  <sample Root="71" LoKey="69" HiKey="71" LoVel="2" HiVel="3" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B3_v1_rr2.wav"
+          Duplicate="1" SampleStart="117" SampleEnd="12488" SampleStartMod="2007"/>
+  <sample Root="71" LoKey="69" HiKey="71" LoVel="4" HiVel="5" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B3_v1_rr3.wav"
+          Duplicate="1" SampleStart="156" SampleEnd="12445" SampleStartMod="1623"/>
+  <sample Root="71" LoKey="69" HiKey="71" LoVel="6" HiVel="7" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B3_v1_rr4.wav"
+          Duplicate="1" SampleStart="131" SampleEnd="12300" SampleStartMod="1623"/>
+  <sample Root="71" LoKey="69" HiKey="71" LoVel="0" HiVel="1" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B3_v2_rr1.wav"
+          Duplicate="1" SampleStart="554" SampleEnd="13922" SampleStartMod="1623"/>
+  <sample Root="71" LoKey="69" HiKey="71" LoVel="2" HiVel="3" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B3_v2_rr2.wav"
+          Duplicate="1" SampleStart="878" SampleEnd="13964" SampleStartMod="1623"/>
+  <sample Root="71" LoKey="69" HiKey="71" LoVel="4" HiVel="5" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B3_v2_rr3.wav"
+          Duplicate="1" SampleStart="540" SampleEnd="11778" SampleStartMod="1623"/>
+  <sample Root="71" LoKey="69" HiKey="71" LoVel="6" HiVel="7" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B3_v2_rr4.wav"
+          Duplicate="1" SampleStart="723" SampleEnd="13870" SampleStartMod="1623"/>
+  <sample Root="71" LoKey="69" HiKey="71" LoVel="0" HiVel="1" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B3_v3_rr1.wav"
+          Duplicate="1" SampleStart="164" SampleEnd="10986" SampleStartMod="1034"/>
+  <sample Root="71" LoKey="69" HiKey="71" LoVel="2" HiVel="3" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B3_v3_rr2.wav"
+          Duplicate="1" SampleStart="148" SampleEnd="10976" SampleStartMod="3314"/>
+  <sample Root="71" LoKey="69" HiKey="71" LoVel="4" HiVel="5" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B3_v3_rr3.wav"
+          Duplicate="1" SampleStart="135" SampleEnd="12930" SampleStartMod="3338"/>
+  <sample Root="71" LoKey="69" HiKey="71" LoVel="6" HiVel="7" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B3_v3_rr4.wav"
+          Duplicate="1" SampleStart="169" SampleEnd="11017" SampleStartMod="1524"/>
+  <sample Root="83" LoKey="83" HiKey="84" LoVel="0" HiVel="1" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B4_v1_rr1.wav"
+          Duplicate="1" SampleStart="103" SampleEnd="11404" SampleStartMod="1034"/>
+  <sample Root="83" LoKey="83" HiKey="84" LoVel="2" HiVel="3" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B4_v1_rr2.wav"
+          Duplicate="1" SampleStart="112" SampleEnd="9614" SampleStartMod="1034"/>
+  <sample Root="83" LoKey="83" HiKey="84" LoVel="4" HiVel="5" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B4_v1_rr3.wav"
+          Duplicate="1" SampleStart="106" SampleEnd="11218" SampleStartMod="1034"/>
+  <sample Root="83" LoKey="83" HiKey="84" LoVel="6" HiVel="7" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B4_v1_rr4.wav"
+          Duplicate="1" SampleStart="125" SampleEnd="10274" SampleStartMod="1034"/>
+  <sample Root="83" LoKey="83" HiKey="84" LoVel="0" HiVel="1" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B4_v2_rr1.wav"
+          Duplicate="1" SampleStart="150" SampleEnd="10308" SampleStartMod="1034"/>
+  <sample Root="83" LoKey="83" HiKey="84" LoVel="2" HiVel="3" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B4_v2_rr2.wav"
+          Duplicate="1" SampleStart="195" SampleEnd="10897" SampleStartMod="1034"/>
+  <sample Root="83" LoKey="83" HiKey="84" LoVel="4" HiVel="5" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B4_v2_rr3.wav"
+          Duplicate="1" SampleStart="300" SampleEnd="8815" SampleStartMod="1034"/>
+  <sample Root="83" LoKey="83" HiKey="84" LoVel="6" HiVel="7" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B4_v2_rr4.wav"
+          Duplicate="1" SampleStart="165" SampleEnd="11791" SampleStartMod="1034"/>
+  <sample Root="83" LoKey="83" HiKey="84" LoVel="0" HiVel="1" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B4_v3_rr1.wav"
+          Duplicate="1" SampleStart="208" SampleEnd="13531" SampleStartMod="423"/>
+  <sample Root="83" LoKey="83" HiKey="84" LoVel="2" HiVel="3" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B4_v3_rr2.wav"
+          Duplicate="1" SampleStart="123" SampleEnd="11685" SampleStartMod="638"/>
+  <sample Root="83" LoKey="83" HiKey="84" LoVel="4" HiVel="5" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B4_v3_rr3.wav"
+          Duplicate="1" SampleStart="493" SampleEnd="12215" SampleStartMod="1034"/>
+  <sample Root="83" LoKey="83" HiKey="84" LoVel="6" HiVel="7" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B4_v3_rr4.wav"
+          Duplicate="1" SampleStart="213" SampleEnd="11159" SampleStartMod="1034"/>
+  <sample Root="95" LoKey="95" HiKey="95" LoVel="0" HiVel="1" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B5_v1_rr1.wav"
+          Duplicate="1" SampleStart="91" SampleEnd="12486" SampleStartMod="1034"/>
+  <sample Root="95" LoKey="95" HiKey="95" LoVel="2" HiVel="3" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B5_v1_rr2.wav"
+          Duplicate="1" SampleStart="81" SampleEnd="12435" SampleStartMod="1034"/>
+  <sample Root="95" LoKey="95" HiKey="95" LoVel="4" HiVel="5" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B5_v1_rr3.wav"
+          Duplicate="1" SampleStart="102" SampleEnd="13791" SampleStartMod="1034"/>
+  <sample Root="95" LoKey="95" HiKey="95" LoVel="6" HiVel="7" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B5_v1_rr4.wav"
+          Duplicate="1" SampleStart="107" SampleEnd="13633" SampleStartMod="1034"/>
+  <sample Root="95" LoKey="95" HiKey="95" LoVel="0" HiVel="1" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B5_v2_rr1.wav"
+          Duplicate="1" SampleStart="95" SampleEnd="12120" SampleStartMod="1034"/>
+  <sample Root="95" LoKey="95" HiKey="95" LoVel="2" HiVel="3" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B5_v2_rr2.wav"
+          Duplicate="1" SampleStart="120" SampleEnd="11986" SampleStartMod="1034"/>
+  <sample Root="95" LoKey="95" HiKey="95" LoVel="4" HiVel="5" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B5_v2_rr3.wav"
+          Duplicate="1" SampleStart="142" SampleEnd="13734" SampleStartMod="1034"/>
+  <sample Root="95" LoKey="95" HiKey="95" LoVel="6" HiVel="7" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B5_v2_rr4.wav"
+          Duplicate="1" SampleStart="97" SampleEnd="13639" SampleStartMod="1034"/>
+  <sample Root="95" LoKey="95" HiKey="95" LoVel="0" HiVel="1" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B5_v3_rr1.wav"
+          Duplicate="1" SampleStart="86" SampleEnd="13155" SampleStartMod="1034"/>
+  <sample Root="95" LoKey="95" HiKey="95" LoVel="2" HiVel="3" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B5_v3_rr2.wav"
+          Duplicate="1" SampleStart="107" SampleEnd="13850" SampleStartMod="1034"/>
+  <sample Root="95" LoKey="95" HiKey="95" LoVel="4" HiVel="5" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B5_v3_rr3.wav"
+          Duplicate="1" SampleStart="119" SampleEnd="12374" SampleStartMod="1034"/>
+  <sample Root="95" LoKey="95" HiKey="95" LoVel="6" HiVel="7" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B5_v3_rr4.wav"
+          Duplicate="1" SampleStart="106" SampleEnd="12136" SampleStartMod="1034"/>
+  <sample Root="72" LoKey="72" HiKey="73" LoVel="0" HiVel="1" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_C4_v1_rr1.wav"
+          Duplicate="1" SampleStart="604" SampleEnd="11393" SampleStartMod="1606"/>
+  <sample Root="72" LoKey="72" HiKey="73" LoVel="2" HiVel="3" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_C4_v1_rr2.wav"
+          Duplicate="1" SampleStart="106" SampleEnd="12134" SampleStartMod="1629"/>
+  <sample Root="72" LoKey="72" HiKey="73" LoVel="4" HiVel="5" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_C4_v1_rr3.wav"
+          Duplicate="1" SampleStart="185" SampleEnd="12852" SampleStartMod="1034"/>
+  <sample Root="72" LoKey="72" HiKey="73" LoVel="6" HiVel="7" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_C4_v1_rr4.wav"
+          Duplicate="1" SampleStart="610" SampleEnd="13763" SampleStartMod="2727"/>
+  <sample Root="72" LoKey="72" HiKey="73" LoVel="0" HiVel="1" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_C4_v2_rr1.wav"
+          Duplicate="1" SampleStart="574" SampleEnd="12688" SampleStartMod="1034"/>
+  <sample Root="72" LoKey="72" HiKey="73" LoVel="2" HiVel="3" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_C4_v2_rr2.wav"
+          Duplicate="1" SampleStart="498" SampleEnd="13475" SampleStartMod="1541"/>
+  <sample Root="72" LoKey="72" HiKey="73" LoVel="4" HiVel="5" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_C4_v2_rr3.wav"
+          Duplicate="1" SampleStart="773" SampleEnd="12170" SampleStartMod="1034"/>
+  <sample Root="72" LoKey="72" HiKey="73" LoVel="6" HiVel="7" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_C4_v2_rr4.wav"
+          Duplicate="1" SampleStart="595" SampleEnd="12599" SampleStartMod="1606"/>
+  <sample Root="72" LoKey="72" HiKey="73" LoVel="0" HiVel="1" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_C4_v3_rr1.wav"
+          Duplicate="1" SampleStart="681" SampleEnd="15298" SampleStartMod="2518"/>
+  <sample Root="72" LoKey="72" HiKey="73" LoVel="2" HiVel="3" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_C4_v3_rr2.wav"
+          Duplicate="1" SampleStart="76" SampleEnd="14110" SampleStartMod="2464"/>
+  <sample Root="72" LoKey="72" HiKey="73" LoVel="4" HiVel="5" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_C4_v3_rr3.wav"
+          Duplicate="1" SampleStart="773" SampleEnd="11890" SampleStartMod="1617"/>
+  <sample Root="72" LoKey="72" HiKey="73" LoVel="6" HiVel="7" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_C4_v3_rr4.wav"
+          Duplicate="1" SampleStart="773" SampleEnd="11159" SampleStartMod="1034"/>
+  <sample Root="96" LoKey="96" HiKey="97" LoVel="0" HiVel="1" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_C6_v1_rr1.wav"
+          Duplicate="1" SampleStart="72" SampleEnd="14441" SampleStartMod="1034"/>
+  <sample Root="96" LoKey="96" HiKey="97" LoVel="2" HiVel="3" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_C6_v1_rr2.wav"
+          Duplicate="1" SampleStart="68" SampleEnd="14847" SampleStartMod="1034"/>
+  <sample Root="96" LoKey="96" HiKey="97" LoVel="4" HiVel="5" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_C6_v1_rr3.wav"
+          Duplicate="1" SampleStart="163" SampleEnd="14813" SampleStartMod="1034"/>
+  <sample Root="96" LoKey="96" HiKey="97" LoVel="6" HiVel="7" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_C6_v1_rr4.wav"
+          Duplicate="1" SampleStart="138" SampleEnd="14889" SampleStartMod="1034"/>
+  <sample Root="96" LoKey="96" HiKey="97" LoVel="0" HiVel="1" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_C6_v2_rr1.wav"
+          Duplicate="1" SampleStart="97" SampleEnd="16312" SampleStartMod="1034"/>
+  <sample Root="96" LoKey="96" HiKey="97" LoVel="2" HiVel="3" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_C6_v2_rr2.wav"
+          Duplicate="1" SampleStart="121" SampleEnd="15791" SampleStartMod="550"/>
+  <sample Root="96" LoKey="96" HiKey="97" LoVel="4" HiVel="5" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_C6_v2_rr3.wav"
+          Duplicate="1" SampleStart="514" SampleEnd="14681" SampleStartMod="758"/>
+  <sample Root="96" LoKey="96" HiKey="97" LoVel="6" HiVel="7" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_C6_v2_rr4.wav"
+          Duplicate="1" SampleStart="158" SampleEnd="12167" SampleStartMod="1034"/>
+  <sample Root="96" LoKey="96" HiKey="97" LoVel="0" HiVel="1" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_C6_v3_rr1.wav"
+          Duplicate="1" SampleStart="524" SampleEnd="19573" SampleStartMod="1034"/>
+  <sample Root="96" LoKey="96" HiKey="97" LoVel="2" HiVel="3" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_C6_v3_rr2.wav"
+          Duplicate="1" SampleStart="148" SampleEnd="16034" SampleStartMod="691"/>
+  <sample Root="96" LoKey="96" HiKey="97" LoVel="4" HiVel="5" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_C6_v3_rr3.wav"
+          Duplicate="1" SampleStart="137" SampleEnd="14755" SampleStartMod="1034"/>
+  <sample Root="96" LoKey="96" HiKey="97" LoVel="6" HiVel="7" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_C6_v3_rr4.wav"
+          Duplicate="1" SampleStart="78" SampleEnd="14338" SampleStartMod="1034"/>
+  <sample Root="74" LoKey="74" HiKey="75" LoVel="0" HiVel="1" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D4_v1_rr1.wav"
+          Duplicate="1" SampleStart="773" SampleEnd="10744" SampleStartMod="2034"/>
+  <sample Root="74" LoKey="74" HiKey="75" LoVel="2" HiVel="3" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D4_v1_rr2.wav"
+          Duplicate="1" SampleStart="519" SampleEnd="10608" SampleStartMod="1805"/>
+  <sample Root="74" LoKey="74" HiKey="75" LoVel="4" HiVel="5" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D4_v1_rr3.wav"
+          Duplicate="1" SampleStart="773" SampleEnd="12451" SampleStartMod="1034"/>
+  <sample Root="74" LoKey="74" HiKey="75" LoVel="6" HiVel="7" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D4_v1_rr4.wav"
+          Duplicate="1" SampleStart="519" SampleEnd="10608" SampleStartMod="1805"/>
+  <sample Root="74" LoKey="74" HiKey="75" LoVel="0" HiVel="1" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D4_v2_rr1.wav"
+          Duplicate="1" SampleStart="514" SampleEnd="12027" SampleStartMod="1034"/>
+  <sample Root="74" LoKey="74" HiKey="75" LoVel="2" HiVel="3" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D4_v2_rr2.wav"
+          Duplicate="1" SampleStart="577" SampleEnd="11518" SampleStartMod="1034"/>
+  <sample Root="74" LoKey="74" HiKey="75" LoVel="4" HiVel="5" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D4_v2_rr3.wav"
+          Duplicate="1" SampleStart="544" SampleEnd="11966" SampleStartMod="1034"/>
+  <sample Root="74" LoKey="74" HiKey="75" LoVel="6" HiVel="7" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D4_v2_rr4.wav"
+          Duplicate="1" SampleStart="486" SampleEnd="11194" SampleStartMod="1034"/>
+  <sample Root="74" LoKey="74" HiKey="75" LoVel="0" HiVel="1" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D4_v3_rr1.wav"
+          Duplicate="1" SampleStart="773" SampleEnd="13154" SampleStartMod="1034"/>
+  <sample Root="74" LoKey="74" HiKey="75" LoVel="2" HiVel="3" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D4_v3_rr2.wav"
+          Duplicate="1" SampleStart="773" SampleEnd="11796" SampleStartMod="1034"/>
+  <sample Root="74" LoKey="74" HiKey="75" LoVel="4" HiVel="5" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D4_v3_rr3.wav"
+          Duplicate="1" SampleStart="773" SampleEnd="11047" SampleStartMod="1034"/>
+  <sample Root="74" LoKey="74" HiKey="75" LoVel="6" HiVel="7" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D4_v3_rr4.wav"
+          Duplicate="1" SampleStart="773" SampleEnd="11695" SampleStartMod="1034"/>
+  <sample Root="86" LoKey="85" HiKey="87" LoVel="0" HiVel="1" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D5_v1_rr1.wav"
+          Duplicate="1" SampleStart="215" SampleEnd="12127" SampleStartMod="1034"/>
+  <sample Root="86" LoKey="85" HiKey="87" LoVel="2" HiVel="3" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D5_v1_rr2.wav"
+          Duplicate="1" SampleStart="83" SampleEnd="11914" SampleStartMod="1034"/>
+  <sample Root="86" LoKey="85" HiKey="87" LoVel="4" HiVel="5" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D5_v1_rr3.wav"
+          Duplicate="1" SampleStart="326" SampleEnd="12230" SampleStartMod="1034"/>
+  <sample Root="86" LoKey="85" HiKey="87" LoVel="6" HiVel="7" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D5_v1_rr4.wav"
+          Duplicate="1" SampleStart="138" SampleEnd="11089" SampleStartMod="1034"/>
+  <sample Root="86" LoKey="85" HiKey="87" LoVel="0" HiVel="1" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D5_v2_rr1.wav"
+          Duplicate="1" SampleStart="100" SampleEnd="13547" SampleStartMod="1034"/>
+  <sample Root="86" LoKey="85" HiKey="87" LoVel="2" HiVel="3" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D5_v2_rr2.wav"
+          Duplicate="1" SampleStart="251" SampleEnd="13624" SampleStartMod="1034"/>
+  <sample Root="86" LoKey="85" HiKey="87" LoVel="4" HiVel="5" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D5_v2_rr3.wav"
+          Duplicate="1" SampleStart="126" SampleEnd="9769" SampleStartMod="1034"/>
+  <sample Root="86" LoKey="85" HiKey="87" LoVel="6" HiVel="7" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D5_v2_rr4.wav"
+          Duplicate="1" SampleStart="145" SampleEnd="10252" SampleStartMod="1034"/>
+  <sample Root="86" LoKey="85" HiKey="87" LoVel="0" HiVel="1" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D5_v3_rr1.wav"
+          Duplicate="1" SampleStart="94" SampleEnd="11057" SampleStartMod="1034"/>
+  <sample Root="86" LoKey="85" HiKey="87" LoVel="2" HiVel="3" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D5_v3_rr2.wav"
+          Duplicate="1" SampleStart="202" SampleEnd="9257" SampleStartMod="1034"/>
+  <sample Root="86" LoKey="85" HiKey="87" LoVel="4" HiVel="5" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D5_v3_rr3.wav"
+          Duplicate="1" SampleStart="435" SampleEnd="13124" SampleStartMod="1034"/>
+  <sample Root="86" LoKey="85" HiKey="87" LoVel="6" HiVel="7" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D5_v3_rr4.wav"
+          Duplicate="1" SampleStart="445" SampleEnd="13014" SampleStartMod="1034"/>
+  <sample Root="98" LoKey="98" HiKey="100" LoVel="0" HiVel="1" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D6_v1_rr1.wav"
+          Duplicate="1" SampleStart="70" SampleEnd="13683" SampleStartMod="1034"/>
+  <sample Root="98" LoKey="98" HiKey="100" LoVel="2" HiVel="3" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D6_v1_rr2.wav"
+          Duplicate="1" SampleStart="112" SampleEnd="14020" SampleStartMod="1034"/>
+  <sample Root="98" LoKey="98" HiKey="100" LoVel="4" HiVel="5" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D6_v1_rr3.wav"
+          Duplicate="1" SampleStart="117" SampleEnd="14072" SampleStartMod="1034"/>
+  <sample Root="98" LoKey="98" HiKey="100" LoVel="6" HiVel="7" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D6_v1_rr4.wav"
+          Duplicate="1" SampleStart="103" SampleEnd="14007" SampleStartMod="1034"/>
+  <sample Root="98" LoKey="98" HiKey="100" LoVel="0" HiVel="1" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D6_v2_rr1.wav"
+          Duplicate="1" SampleStart="165" SampleEnd="11290" SampleStartMod="1034"/>
+  <sample Root="98" LoKey="98" HiKey="100" LoVel="2" HiVel="3" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D6_v2_rr2.wav"
+          Duplicate="1" SampleStart="131" SampleEnd="11752" SampleStartMod="1034"/>
+  <sample Root="98" LoKey="98" HiKey="100" LoVel="4" HiVel="5" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D6_v2_rr3.wav"
+          Duplicate="1" SampleStart="161" SampleEnd="10865" SampleStartMod="1034"/>
+  <sample Root="98" LoKey="98" HiKey="100" LoVel="6" HiVel="7" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D6_v2_rr4.wav"
+          Duplicate="1" SampleStart="111" SampleEnd="14006" SampleStartMod="1034"/>
+  <sample Root="98" LoKey="98" HiKey="100" LoVel="0" HiVel="1" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D6_v3_rr1.wav"
+          Duplicate="1" SampleStart="109" SampleEnd="17491" SampleStartMod="1034"/>
+  <sample Root="98" LoKey="98" HiKey="100" LoVel="2" HiVel="3" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D6_v3_rr2.wav"
+          Duplicate="1" SampleStart="115" SampleEnd="16800" SampleStartMod="1034"/>
+  <sample Root="98" LoKey="98" HiKey="100" LoVel="4" HiVel="5" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D6_v3_rr3.wav"
+          Duplicate="1" SampleStart="126" SampleEnd="16881" SampleStartMod="1034"/>
+  <sample Root="98" LoKey="98" HiKey="100" LoVel="6" HiVel="7" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D6_v3_rr4.wav"
+          Duplicate="1" SampleStart="111" SampleEnd="17112" SampleStartMod="1034"/>
+  <sample Root="88" LoKey="88" HiKey="88" LoVel="0" HiVel="1" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_E5_v1_rr1.wav"
+          Duplicate="1" SampleStart="203" SampleEnd="11173" SampleStartMod="1034"/>
+  <sample Root="88" LoKey="88" HiKey="88" LoVel="2" HiVel="3" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_E5_v1_rr2.wav"
+          Duplicate="1" SampleStart="746" SampleEnd="10416" SampleStartMod="1034"/>
+  <sample Root="88" LoKey="88" HiKey="88" LoVel="4" HiVel="5" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_E5_v1_rr3.wav"
+          Duplicate="1" SampleStart="461" SampleEnd="11046" SampleStartMod="1034"/>
+  <sample Root="88" LoKey="88" HiKey="88" LoVel="6" HiVel="7" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_E5_v1_rr4.wav"
+          Duplicate="1" SampleStart="205" SampleEnd="11167" SampleStartMod="1034"/>
+  <sample Root="88" LoKey="88" HiKey="88" LoVel="0" HiVel="1" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_E5_v2_rr1.wav"
+          Duplicate="1" SampleStart="127" SampleEnd="9139" SampleStartMod="1034"/>
+  <sample Root="88" LoKey="88" HiKey="88" LoVel="2" HiVel="3" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_E5_v2_rr2.wav"
+          Duplicate="1" SampleStart="149" SampleEnd="9083" SampleStartMod="1034"/>
+  <sample Root="88" LoKey="88" HiKey="88" LoVel="4" HiVel="5" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_E5_v2_rr3.wav"
+          Duplicate="1" SampleStart="75" SampleEnd="8443" SampleStartMod="1034"/>
+  <sample Root="88" LoKey="88" HiKey="88" LoVel="6" HiVel="7" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_E5_v2_rr4.wav"
+          Duplicate="1" SampleStart="126" SampleEnd="9114" SampleStartMod="1034"/>
+  <sample Root="88" LoKey="88" HiKey="88" LoVel="0" HiVel="1" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_E5_v3_rr1.wav"
+          Duplicate="1" SampleStart="218" SampleEnd="12943" SampleStartMod="1034"/>
+  <sample Root="88" LoKey="88" HiKey="88" LoVel="2" HiVel="3" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_E5_v3_rr2.wav"
+          Duplicate="1" SampleStart="249" SampleEnd="13212" SampleStartMod="1034"/>
+  <sample Root="88" LoKey="88" HiKey="88" LoVel="4" HiVel="5" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_E5_v3_rr3.wav"
+          Duplicate="1" SampleStart="192" SampleEnd="13192" SampleStartMod="1034"/>
+  <sample Root="88" LoKey="88" HiKey="88" LoVel="6" HiVel="7" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_E5_v3_rr4.wav"
+          Duplicate="1" SampleStart="210" SampleEnd="13042" SampleStartMod="1034"/>
+  <sample Root="77" LoKey="77" HiKey="78" LoVel="0" HiVel="1" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_F4_v1_rr1.wav"
+          Duplicate="1" SampleStart="485" SampleEnd="11811" SampleStartMod="1034"/>
+  <sample Root="77" LoKey="77" HiKey="78" LoVel="2" HiVel="3" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_F4_v1_rr2.wav"
+          Duplicate="1" SampleStart="401" SampleEnd="11827" SampleStartMod="1034"/>
+  <sample Root="77" LoKey="77" HiKey="78" LoVel="4" HiVel="5" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_F4_v1_rr3.wav"
+          Duplicate="1" SampleStart="519" SampleEnd="10836" SampleStartMod="1034"/>
+  <sample Root="77" LoKey="77" HiKey="78" LoVel="6" HiVel="7" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_F4_v1_rr4.wav"
+          Duplicate="1" SampleStart="400" SampleEnd="10999" SampleStartMod="1034"/>
+  <sample Root="77" LoKey="77" HiKey="78" LoVel="0" HiVel="1" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_F4_v2_rr1.wav"
+          Duplicate="1" SampleStart="540" SampleEnd="10624" SampleStartMod="1034"/>
+  <sample Root="77" LoKey="77" HiKey="78" LoVel="2" HiVel="3" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_F4_v2_rr2.wav"
+          Duplicate="1" SampleStart="364" SampleEnd="12552" SampleStartMod="1034"/>
+  <sample Root="77" LoKey="77" HiKey="78" LoVel="4" HiVel="5" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_F4_v2_rr3.wav"
+          Duplicate="1" SampleStart="137" SampleEnd="12220" SampleStartMod="1034"/>
+  <sample Root="77" LoKey="77" HiKey="78" LoVel="6" HiVel="7" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_F4_v2_rr4.wav"
+          Duplicate="1" SampleStart="381" SampleEnd="12549" SampleStartMod="1034"/>
+  <sample Root="77" LoKey="77" HiKey="78" LoVel="0" HiVel="1" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_F4_v3_rr1.wav"
+          Duplicate="1" SampleStart="490" SampleEnd="13801" SampleStartMod="1034"/>
+  <sample Root="77" LoKey="77" HiKey="78" LoVel="2" HiVel="3" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_F4_v3_rr2.wav"
+          Duplicate="1" SampleStart="613" SampleEnd="13840" SampleStartMod="1034"/>
+  <sample Root="77" LoKey="77" HiKey="78" LoVel="4" HiVel="5" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_F4_v3_rr3.wav"
+          Duplicate="1" SampleStart="505" SampleEnd="12865" SampleStartMod="1034"/>
+  <sample Root="77" LoKey="77" HiKey="78" LoVel="6" HiVel="7" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_F4_v3_rr4.wav"
+          Duplicate="1" SampleStart="437" SampleEnd="13561" SampleStartMod="1034"/>
+  <sample Root="89" LoKey="89" HiKey="91" LoVel="0" HiVel="1" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_F5_v1_rr1.wav"
+          Duplicate="1" SampleStart="100" SampleEnd="11878" SampleStartMod="1034"/>
+  <sample Root="89" LoKey="89" HiKey="91" LoVel="2" HiVel="3" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_F5_v1_rr2.wav"
+          Duplicate="1" SampleStart="66" SampleEnd="12013" SampleStartMod="1034"/>
+  <sample Root="89" LoKey="89" HiKey="91" LoVel="4" HiVel="5" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_F5_v1_rr3.wav"
+          Duplicate="1" SampleStart="192" SampleEnd="11065" SampleStartMod="1034"/>
+  <sample Root="89" LoKey="89" HiKey="91" LoVel="6" HiVel="7" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_F5_v1_rr4.wav"
+          Duplicate="1" SampleStart="194" SampleEnd="11095" SampleStartMod="1034"/>
+  <sample Root="89" LoKey="89" HiKey="91" LoVel="0" HiVel="1" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_F5_v2_rr1.wav"
+          Duplicate="1" SampleStart="145" SampleEnd="12190" SampleStartMod="1034"/>
+  <sample Root="89" LoKey="89" HiKey="91" LoVel="2" HiVel="3" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_F5_v2_rr2.wav"
+          Duplicate="1" SampleStart="112" SampleEnd="10460" SampleStartMod="1034"/>
+  <sample Root="89" LoKey="89" HiKey="91" LoVel="4" HiVel="5" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_F5_v2_rr3.wav"
+          Duplicate="1" SampleStart="165" SampleEnd="11420" SampleStartMod="1034"/>
+  <sample Root="89" LoKey="89" HiKey="91" LoVel="6" HiVel="7" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_F5_v2_rr4.wav"
+          Duplicate="1" SampleStart="156" SampleEnd="12766" SampleStartMod="1034"/>
+  <sample Root="89" LoKey="89" HiKey="91" LoVel="0" HiVel="1" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_F5_v3_rr1.wav"
+          Duplicate="1" SampleStart="469" SampleEnd="12167" SampleStartMod="1034"/>
+  <sample Root="89" LoKey="89" HiKey="91" LoVel="2" HiVel="3" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_F5_v3_rr2.wav"
+          Duplicate="1" SampleStart="171" SampleEnd="11979" SampleStartMod="1034"/>
+  <sample Root="89" LoKey="89" HiKey="91" LoVel="4" HiVel="5" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_F5_v3_rr3.wav"
+          Duplicate="1" SampleStart="113" SampleEnd="16189" SampleStartMod="1034"/>
+  <sample Root="89" LoKey="89" HiKey="91" LoVel="6" HiVel="7" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_F5_v3_rr4.wav"
+          Duplicate="1" SampleStart="198" SampleEnd="15251" SampleStartMod="1034"/>
+  <sample Root="79" LoKey="79" HiKey="80" LoVel="0" HiVel="1" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_G4_v1_rr1.wav"
+          Duplicate="1" SampleStart="535" SampleEnd="10950" SampleStartMod="1034"/>
+  <sample Root="79" LoKey="79" HiKey="80" LoVel="2" HiVel="3" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_G4_v1_rr2.wav"
+          Duplicate="1" SampleStart="471" SampleEnd="11006" SampleStartMod="1034"/>
+  <sample Root="79" LoKey="79" HiKey="80" LoVel="4" HiVel="5" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_G4_v1_rr3.wav"
+          Duplicate="1" SampleStart="409" SampleEnd="10981" SampleStartMod="1034"/>
+  <sample Root="79" LoKey="79" HiKey="80" LoVel="6" HiVel="7" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_G4_v1_rr4.wav"
+          Duplicate="1" SampleStart="472" SampleEnd="10855" SampleStartMod="1034"/>
+  <sample Root="79" LoKey="79" HiKey="80" LoVel="0" HiVel="1" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_G4_v2_rr1.wav"
+          Duplicate="1" SampleStart="540" SampleEnd="11799" SampleStartMod="1034"/>
+  <sample Root="79" LoKey="79" HiKey="80" LoVel="2" HiVel="3" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_G4_v2_rr2.wav"
+          Duplicate="1" SampleStart="472" SampleEnd="11470" SampleStartMod="1034"/>
+  <sample Root="79" LoKey="79" HiKey="80" LoVel="4" HiVel="5" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_G4_v2_rr3.wav"
+          Duplicate="1" SampleStart="182" SampleEnd="11649" SampleStartMod="1034"/>
+  <sample Root="79" LoKey="79" HiKey="80" LoVel="6" HiVel="7" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_G4_v2_rr4.wav"
+          Duplicate="1" SampleStart="406" SampleEnd="11431" SampleStartMod="1034"/>
+  <sample Root="79" LoKey="79" HiKey="80" LoVel="0" HiVel="1" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_G4_v3_rr1.wav"
+          Duplicate="1" SampleStart="510" SampleEnd="11559" SampleStartMod="1034"/>
+  <sample Root="79" LoKey="79" HiKey="80" LoVel="2" HiVel="3" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_G4_v3_rr2.wav"
+          Duplicate="1" SampleStart="186" SampleEnd="11283" SampleStartMod="1034"/>
+  <sample Root="79" LoKey="79" HiKey="80" LoVel="4" HiVel="5" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_G4_v3_rr3.wav"
+          Duplicate="1" SampleStart="561" SampleEnd="11353" SampleStartMod="1034"/>
+  <sample Root="79" LoKey="79" HiKey="80" LoVel="6" HiVel="7" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_G4_v3_rr4.wav"
+          Duplicate="1" SampleStart="205" SampleEnd="11324" SampleStartMod="1034"/>
+  <sample Root="91" LoKey="91" HiKey="92" LoVel="-32" HiVel="-1" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_G5_v1_rr5.wav"
+          Duplicate="1" SampleStart="71" SampleEnd="11863" SampleStartMod="1034"/>
+  <sample Root="91" LoKey="91" HiKey="92" LoVel="-32" HiVel="-1" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_G5_v1_rr6.wav"
+          Duplicate="1" SampleStart="89" SampleEnd="11593" SampleStartMod="1034"/>
+  <sample Root="91" LoKey="91" HiKey="92" LoVel="-32" HiVel="-1" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_G5_v1_rr7.wav"
+          Duplicate="1" SampleStart="122" SampleEnd="12915" SampleStartMod="1034"/>
+  <sample Root="91" LoKey="91" HiKey="92" LoVel="-32" HiVel="-1" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_G5_v1_rr8.wav"
+          Duplicate="1" SampleStart="172" SampleEnd="10703" SampleStartMod="1034"/>
+  <sample Root="91" LoKey="90" HiKey="92" LoVel="-32" HiVel="-1" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_G5_v2_rr5.wav"
+          Duplicate="1" SampleStart="162" SampleEnd="10141" SampleStartMod="1034"/>
+  <sample Root="91" LoKey="90" HiKey="92" LoVel="-32" HiVel="-1" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_G5_v2_rr6.wav"
+          Duplicate="1" SampleStart="193" SampleEnd="10501" SampleStartMod="1034"/>
+  <sample Root="91" LoKey="90" HiKey="92" LoVel="-32" HiVel="-1" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_G5_v2_rr7.wav"
+          Duplicate="1" SampleStart="162" SampleEnd="10645" SampleStartMod="1034"/>
+  <sample Root="91" LoKey="90" HiKey="92" LoVel="-32" HiVel="-1" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_G5_v2_rr8.wav"
+          Duplicate="1" SampleStart="153" SampleEnd="10561" SampleStartMod="1034"/>
+  <sample Root="91" LoKey="91" HiKey="92" LoVel="-32" HiVel="-1" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_G5_v3_rr5.wav"
+          Duplicate="1" SampleStart="169" SampleEnd="10181" SampleStartMod="1034"/>
+  <sample Root="91" LoKey="91" HiKey="92" LoVel="-32" HiVel="-1" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_G5_v3_rr6.wav"
+          Duplicate="1" SampleStart="220" SampleEnd="11615" SampleStartMod="1034"/>
+  <sample Root="91" LoKey="91" HiKey="92" LoVel="-32" HiVel="-1" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_G5_v3_rr7.wav"
+          Duplicate="1" SampleStart="161" SampleEnd="11467" SampleStartMod="1034"/>
+  <sample Root="91" LoKey="91" HiKey="92" LoVel="-32" HiVel="-1" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_G5_v3_rr8.wav"
+          Duplicate="1" SampleStart="155" SampleEnd="12139" SampleStartMod="1034"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="0" HiVel="1" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_E4_v1_rr1.wav"
+          Duplicate="1" SampleStart="773" SampleEnd="10865" SampleStartMod="1034"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="2" HiVel="3" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_E4_v1_rr2.wav"
+          Duplicate="1" SampleStart="773" SampleEnd="12509" SampleStartMod="1034"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="4" HiVel="5" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_E4_v1_rr3.wav"
+          Duplicate="1" SampleStart="773" SampleEnd="12509" SampleStartMod="1034"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="6" HiVel="7" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_E4_v1_rr4.wav"
+          Duplicate="1" SampleStart="457" SampleEnd="12321" SampleStartMod="1034"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="0" HiVel="1" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_E4_v2_rr1.wav"
+          Duplicate="1" SampleStart="773" SampleEnd="11159" SampleStartMod="1034"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="2" HiVel="3" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_E4_v2_rr2.wav"
+          Duplicate="1" SampleStart="522" SampleEnd="10398" SampleStartMod="1034"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="4" HiVel="5" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_E4_v2_rr3.wav"
+          Duplicate="1" SampleStart="616" SampleEnd="11819" SampleStartMod="1034"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="6" HiVel="7" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_E4_v2_rr4.wav"
+          Duplicate="1" SampleStart="542" SampleEnd="11100" SampleStartMod="1034"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="0" HiVel="1" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_E4_v3_rr1.wav"
+          Duplicate="1" SampleStart="544" SampleEnd="11681" SampleStartMod="1034"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="2" HiVel="3" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_E4_v3_rr2.wav"
+          Duplicate="1" SampleStart="496" SampleEnd="11098" SampleStartMod="1034"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="4" HiVel="5" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_E4_v3_rr3.wav"
+          Duplicate="1" SampleStart="528" SampleEnd="9949" SampleStartMod="1034"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="6" HiVel="7" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_E4_v3_rr4.wav"
+          Duplicate="1" SampleStart="377" SampleEnd="10249" SampleStartMod="1034"/>
+</samplemap>
