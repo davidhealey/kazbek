@@ -192,10 +192,23 @@
                     </Processor>
                   </ChildProcessors>
                 </Processor>
+                <Processor Type="Random" ID="Random Modulator1" Bypassed="0" Intensity="0.25"
+                           UseTable="0">
+                  <ChildProcessors/>
+                </Processor>
               </ChildProcessors>
             </Processor>
             <Processor Type="ModulatorChain" ID="PitchModulation" Bypassed="0" Intensity="0">
-              <ChildProcessors/>
+              <ChildProcessors>
+                <Processor Type="Random" ID="Random Modulator1" Bypassed="0" Intensity="0.0041666669"
+                           Bipolar="1" UseTable="0">
+                  <ChildProcessors/>
+                </Processor>
+                <Processor Type="PitchWheel" ID="Pitch Wheel Modulator1" Bypassed="0" Intensity="0.083333336"
+                           Bipolar="1" UseTable="0" Inverted="0" SmoothTime="200">
+                  <ChildProcessors/>
+                </Processor>
+              </ChildProcessors>
             </Processor>
             <Processor Type="EffectChain" ID="FX" Bypassed="0">
               <ChildProcessors/>
@@ -208,6 +221,10 @@
                 <Processor Type="GlobalTimeVariantModulator" ID="Global Time Variant Modulator1"
                            Bypassed="0" Intensity="1" UseTable="1" Inverted="0" TableData="24...............vO...f+....9C..PrO"
                            Connection="Global Modulator Container:dynamicsCC">
+                  <ChildProcessors/>
+                </Processor>
+                <Processor Type="Random" ID="Random Modulator3" Bypassed="0" Intensity="0.15000001"
+                           UseTable="0">
                   <ChildProcessors/>
                 </Processor>
               </ChildProcessors>
