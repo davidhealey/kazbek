@@ -8,7 +8,9 @@
       <ChildProcessors>
         <Processor Type="ScriptProcessor" ID="Interface" Bypassed="0">
           <ChildProcessors/>
-          <Content/>
+          <Content>
+            <Control type="ScriptComboBox" id="cmbPatches" value="1"/>
+          </Content>
           <UIData Source="DesertWindsUIData"/>
         </Processor>
       </ChildProcessors>
@@ -69,8 +71,8 @@
             <Processor Type="ScriptProcessor" ID="playableRange" Bypassed="0" Script="{EXTERNAL_SCRIPT}{PROJECT_FOLDER}HISE-Scripting-Framework/modules/limitPlayableRange.js">
               <ChildProcessors/>
               <Content>
-                <Control type="ScriptSlider" id="Low Note" value="69"/>
-                <Control type="ScriptSlider" id="High Note" value="100"/>
+                <Control type="ScriptSlider" id="Low Note" value="57"/>
+                <Control type="ScriptSlider" id="High Note" value="72"/>
               </Content>
               <UIData>
                 <ContentProperties DeviceType="Desktop">
@@ -105,7 +107,7 @@
                    Group1Table="60...............vOl3Te9....7C..3rO....+....9C..HyOEm5O+....7C..3rO...f+........jwO"
                    Group2Table="48...............vO2wJ.+.........vOIN0O+....7C..3rO...f+....9C..LxO"
                    Group3Table="" Group4Table="" Group5Table="" Group6Table="" Group7Table=""
-                   SampleMapID="salamuri_sustain">
+                   SampleMapID="duduk_sustain">
           <ChildProcessors>
             <Processor Type="MidiProcessorChain" ID="Midi Processor" Bypassed="0">
               <ChildProcessors>
@@ -263,7 +265,7 @@
                    Group1Table="36...............vOSbp+9....9C...vO...f+.........vO"
                    Group2Table="36...............vO6XE.+.........vO...f+....9C...vO"
                    Group3Table="" Group4Table="" Group5Table="" Group6Table="" Group7Table=""
-                   SampleMapID="salamuri_staccato">
+                   SampleMapID="duduk_staccato">
           <ChildProcessors>
             <Processor Type="MidiProcessorChain" ID="Midi Processor" Bypassed="0">
               <ChildProcessors>
@@ -339,7 +341,7 @@
                    Group1Table="36...............vOxJP.+....9C...vO...f+.........vO"
                    Group2Table="36...............vOxJP.+.........vO...f+....9C...vO"
                    Group3Table="" Group4Table="" Group5Table="" Group6Table="" Group7Table=""
-                   SampleMapID="salamuri_staccato">
+                   SampleMapID="duduk_staccato">
           <ChildProcessors>
             <Processor Type="MidiProcessorChain" ID="Midi Processor" Bypassed="0">
               <ChildProcessors>
@@ -464,17 +466,10 @@
                    RRGroupAmount="1" PitchTracking="1" OneShot="0" CrossfadeGroups="0"
                    Purged="0" Reversed="0" NumChannels="1" UseStaticMatrix="0" Group0Table=""
                    Group1Table="" Group2Table="" Group3Table="" Group4Table="" Group5Table=""
-                   Group6Table="" Group7Table="" SampleMapID="salamuri_ornaments">
+                   Group6Table="" Group7Table="" SampleMapID="duduk_ornaments">
           <ChildProcessors>
             <Processor Type="MidiProcessorChain" ID="Midi Processor" Bypassed="0">
               <ChildProcessors>
-                <Processor Type="MidiMuter" ID="ornamentsMidiMuter2" Bypassed="0">
-                  <ChildProcessors/>
-                  <Content>
-                    <Control type="ScriptButton" id="ignoreButton" value="0"/>
-                    <Control type="ScriptButton" id="fixStuckNotes" value="1"/>
-                  </Content>
-                </Processor>
                 <Processor Type="ScriptProcessor" ID="ornamentsRoundRobin" Bypassed="0"
                            Script="{EXTERNAL_SCRIPT}{PROJECT_FOLDER}HISE-Scripting-Framework/modules/velocityMappedRoundRobin.js">
                   <ChildProcessors/>
@@ -485,13 +480,11 @@
                   </Content>
                   <UIData>
                     <ContentProperties DeviceType="Desktop">
-                      <Component type="ScriptSlider" id="knbRRLock" x="0" y="0" style="Knob" middlePosition="-1"
-                                 stepSize="1" max="50" suffix="" filmstripImage="Use default skin"
-                                 linkedTo="" text="Lock to RR"/>
+                      <Component type="ScriptSlider" id="knbRRLock" x="0" y="0" stepSize="1" max="50"
+                                 text="Lock to RR"/>
                       <Component type="ScriptButton" id="btnRandom" x="150" y="10" text="Random"/>
-                      <Component type="ScriptSlider" id="knbNumRR" x="300" y="0" style="Knob"
-                                 middlePosition="-1" stepSize="1" min="1" max="50" suffix="" filmstripImage="Use default skin"
-                                 linkedTo="" text="Num RR"/>
+                      <Component type="ScriptSlider" id="knbNumRR" x="300" y="0" stepSize="1"
+                                 min="1" max="50" text="Num RR"/>
                     </ContentProperties>
                   </UIData>
                 </Processor>
