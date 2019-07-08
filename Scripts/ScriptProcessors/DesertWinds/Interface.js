@@ -24,6 +24,11 @@ const var legato = Synth.getMidiProcessor("legato");
 const var playableRange = Synth.getMidiProcessor("playableRange");
 const var sustainRoundRobin = Synth.getMidiProcessor("sustainRoundRobin");
 
+//Modulators
+const var vibratoIntensity = Synth.getModulator("vibratoIntensity");
+const var randIntensity = Synth.getModulator("randIntensity");
+const var dynamicsCC = Synth.getModulator("dynamicsCC");
+
 //Get samplers as child synths
 const var samplerIds = Synth.getIdList("Sampler");
 const var childSynths = {};
@@ -34,8 +39,6 @@ for (id in samplerIds)
 }  
 
 //Dynamics && breath control
-const var dynamicsCC = Synth.getModulator("dynamicsCC");
-
 inline function onknbDynamicsControl(component, value)
 {
     dynamicsCC.setAttribute(dynamicsCC.DefaultValue, value);
@@ -43,6 +46,16 @@ inline function onknbDynamicsControl(component, value)
 }
 
 Content.getComponent("knbDynamics").setControlCallback(onknbDynamicsControl);
+
+//Vibrato intensity
+
+inline function onknbVibratoIntensityControl(component, value)
+{
+	vibratoIntensity.setAttribute(vibratoIntensity.DefaultValue, value);
+	randIntensity.setAttribute(randIntensity.DefaultValue, value);
+};
+
+Content.getComponent("knbVibratoIntensity").setControlCallback(onknbVibratoIntensityControl);
 
 //CC buttons and tables
 const var tblVelocity = Content.getComponent("tblVelocity");

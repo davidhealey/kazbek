@@ -18,7 +18,7 @@
             <Control type="ScriptSlider" id="knbTransition" value="-6"/>
             <Control type="ScriptSlider" id="knbExpression" value="127"/>
             <Control type="ScriptSlider" id="knbDynamics" value="44"/>
-            <Control type="ScriptSlider" id="knbVibratoIntensity" value="0"/>
+            <Control type="ScriptSlider" id="knbVibratoIntensity" value="127"/>
             <Control type="ScriptSlider" id="knbVibratoRate" value="90"/>
             <Control type="ScriptButton" id="btnCC0" value="0"/>
             <Control type="ScriptButton" id="btnCC1" value="0"/>
@@ -26,10 +26,9 @@
             <Control type="ScriptButton" id="btnCC3" value="0"/>
             <Control type="ScriptTable" id="tblVelocity" value="0" data="24...............vO...f+....9C..nvO"/>
             <Control type="ScriptTable" id="tblCC0" value="0" data=""/>
-            <Control type="ScriptTable" id="tblCC1" value="0" data="24...............vO...f+....9C..LxO"/>
+            <Control type="ScriptTable" id="tblCC1" value="0" data="24...............vO...f+....9C..zxO"/>
             <Control type="ScriptTable" id="tblCC2" value="0" data=""/>
             <Control type="ScriptTable" id="tblCC3" value="0" data=""/>
-            <Control type="ScriptSlider" id="knbRandLFO" value="0"/>
             <Control type="ScriptComboBox" id="cmbPatches" value="1"/>
           </Content>
           <UIData Source="DesertWindsUIData"/>
@@ -53,7 +52,7 @@
           <ChildProcessors/>
           <Content>
             <Control type="ScriptButton" id="btnDynamics" value="0"/>
-            <Control type="ScriptTable" id="tblVel" value="33" data="24...............vO...f+....9C..nvO"/>
+            <Control type="ScriptTable" id="tblVel" value="16" data="24...............vO...f+....9C..nvO"/>
           </Content>
           <UIData>
             <ContentProperties DeviceType="Desktop">
@@ -113,18 +112,18 @@
             </Processor>
             <Processor Type="MidiController" ID="dynamicsCC" Bypassed="0" Intensity="1"
                        UseTable="1" Inverted="0" ControllerNumber="94" SmoothTime="1000"
-                       DefaultValue="44" ControllerTableData="24...............vO...f+....9C..LxO">
+                       DefaultValue="44" ControllerTableData="24...............vO...f+....9C..zxO">
               <ChildProcessors/>
             </Processor>
             <Processor Type="LFO" ID="vibratoLFO" Bypassed="0" Intensity="1" Frequency="6"
-                       FadeIn="1000" WaveformType="4" Legato="1" TempoSync="0" SmoothingTime="20"
+                       FadeIn="1000" WaveformType="2" Legato="1" TempoSync="0" SmoothingTime="20"
                        LoopEnabled="1" CustomWaveform="" StepData="64....f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+.">
               <ChildProcessors>
                 <Processor Type="ModulatorChain" ID="LFO Intensity Mod" Bypassed="0" Intensity="1">
                   <ChildProcessors>
                     <Processor Type="MidiController" ID="vibratoIntensity" Bypassed="0" Intensity="1"
                                UseTable="1" Inverted="0" ControllerNumber="94" SmoothTime="500"
-                               DefaultValue="0" ControllerTableData="">
+                               DefaultValue="127" ControllerTableData="">
                       <ChildProcessors/>
                     </Processor>
                   </ChildProcessors>
@@ -140,15 +139,15 @@
                 </Processor>
               </ChildProcessors>
             </Processor>
-            <Processor Type="LFO" ID="randomLFO" Bypassed="0" Intensity="1" Frequency="3"
-                       FadeIn="1000" WaveformType="5" Legato="0" TempoSync="0" SmoothingTime="500"
+            <Processor Type="LFO" ID="randomLFO" Bypassed="0" Intensity="1" Frequency="6"
+                       FadeIn="1000" WaveformType="5" Legato="0" TempoSync="0" SmoothingTime="250"
                        LoopEnabled="0" CustomWaveform="" StepData="64....f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+.">
               <ChildProcessors>
                 <Processor Type="ModulatorChain" ID="LFO Intensity Mod" Bypassed="0" Intensity="1">
                   <ChildProcessors>
-                    <Processor Type="MidiController" ID="randIntensity" Bypassed="0" Intensity="127"
-                               UseTable="1" Inverted="0" ControllerNumber="94" SmoothTime="200"
-                               DefaultValue="0" ControllerTableData="">
+                    <Processor Type="MidiController" ID="randIntensity" Bypassed="0" Intensity="1"
+                               UseTable="0" Inverted="0" ControllerNumber="94" SmoothTime="200"
+                               DefaultValue="127">
                       <ChildProcessors/>
                     </Processor>
                   </ChildProcessors>
@@ -334,6 +333,16 @@
                            UseTable="0">
                   <ChildProcessors/>
                 </Processor>
+                <Processor Type="GlobalTimeVariantModulator" ID="Global Time Variant Modulator2"
+                           Bypassed="0" Intensity="0.34999999" UseTable="1" Inverted="0"
+                           TableData="" Connection="Global Modulator Container:vibratoLFO">
+                  <ChildProcessors/>
+                </Processor>
+                <Processor Type="GlobalTimeVariantModulator" ID="Global Time Variant Modulator3"
+                           Bypassed="0" Intensity="0.2" UseTable="0" Inverted="0" TableData=""
+                           Connection="Global Modulator Container:randomLFO">
+                  <ChildProcessors/>
+                </Processor>
               </ChildProcessors>
             </Processor>
             <Processor Type="ModulatorChain" ID="PitchModulation" Bypassed="0" Intensity="0">
@@ -344,6 +353,20 @@
                 </Processor>
                 <Processor Type="PitchWheel" ID="Pitch Wheel Modulator1" Bypassed="0" Intensity="0.083333336"
                            Bipolar="1" UseTable="0" Inverted="0" SmoothTime="200">
+                  <ChildProcessors/>
+                </Processor>
+                <Processor Type="GlobalTimeVariantModulator" ID="Global Time Variant Modulator3"
+                           Bypassed="0" Intensity="0.0083333338" Bipolar="0" UseTable="0"
+                           Inverted="0" TableData="" Connection="Global Modulator Container:vibratoLFO">
+                  <ChildProcessors/>
+                </Processor>
+                <Processor Type="Constant" ID="Constant1" Bypassed="0" Intensity="-0.0125"
+                           Bipolar="0">
+                  <ChildProcessors/>
+                </Processor>
+                <Processor Type="GlobalTimeVariantModulator" ID="Global Time Variant Modulator5"
+                           Bypassed="0" Intensity="0.0041666669" Bipolar="0" UseTable="0"
+                           Inverted="0" TableData="" Connection="Global Modulator Container:randomLFO">
                   <ChildProcessors/>
                 </Processor>
               </ChildProcessors>
@@ -363,6 +386,16 @@
                 </Processor>
                 <Processor Type="Random" ID="Random Modulator3" Bypassed="0" Intensity="0.15000001"
                            UseTable="0">
+                  <ChildProcessors/>
+                </Processor>
+                <Processor Type="GlobalTimeVariantModulator" ID="Global Time Variant Modulator4"
+                           Bypassed="0" Intensity="0.15000001" UseTable="0" Inverted="0"
+                           TableData="" Connection="Global Modulator Container:vibratoLFO">
+                  <ChildProcessors/>
+                </Processor>
+                <Processor Type="GlobalTimeVariantModulator" ID="Global Time Variant Modulator7"
+                           Bypassed="0" Intensity="0.1" UseTable="0" Inverted="0" TableData=""
+                           Connection="Global Modulator Container:randomLFO">
                   <ChildProcessors/>
                 </Processor>
               </ChildProcessors>
@@ -439,12 +472,10 @@
                   </Content>
                   <UIData>
                     <ContentProperties DeviceType="Desktop">
-                      <Component type="ScriptSlider" id="Gain" x="0" y="0" style="Knob" middlePosition="-18"
-                                 stepSize="0.1" min="-100" max="3" suffix=" dB" filmstripImage="Use default skin"
-                                 linkedTo="" mode="Decibel"/>
-                      <Component type="ScriptSlider" id="Smoothing" x="150" y="0" style="Knob"
-                                 middlePosition="500" stepSize="1" max="1000" suffix=" ms" filmstripImage="Use default skin"
-                                 linkedTo="" mode="Time"/>
+                      <Component type="ScriptSlider" id="Gain" x="0" y="0" middlePosition="-18"
+                                 stepSize="0.1" min="-100" max="3" suffix=" dB" mode="Decibel"/>
+                      <Component type="ScriptSlider" id="Smoothing" x="150" y="0" middlePosition="500"
+                                 stepSize="1" max="1000" suffix=" ms" mode="Time"/>
                     </ContentProperties>
                   </UIData>
                 </Processor>

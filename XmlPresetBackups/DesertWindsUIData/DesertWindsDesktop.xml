@@ -37,8 +37,8 @@
              max="127" stepSize="1" middlePosition="64" defaultValue="64"
              isPluginParameter="1" pluginParameterName="Dynamics"/>
   <Component type="ScriptSlider" id="knbVibratoIntensity" x="296" y="46" text="Vibrato Intensity"
-             max="127" stepSize="1" middlePosition="64" processorId="vibratoIntensity"
-             parameterId="DefaultValue" isPluginParameter="1" pluginParameterName="Vibrato Intensity"/>
+             max="127" stepSize="1" middlePosition="64" isPluginParameter="1"
+             pluginParameterName="Vibrato Intensity"/>
   <Component type="ScriptSlider" id="knbVibratoRate" x="292" y="95" text="Vibrato Rate"
              max="127" stepSize="1" middlePosition="64" defaultValue="90"
              processorId="vibratoRate" parameterId="DefaultValue" isPluginParameter="1"
@@ -57,9 +57,6 @@
              customColours="1" processorId="vibratoIntensity" visible="0"/>
   <Component type="ScriptTable" id="tblCC3" x="32" y="259" width="201" height="148"
              customColours="1" processorId="vibratoRate" visible="0"/>
-  <Component type="ScriptSlider" id="knbRandLFO" x="263" y="314" text="Random LFO Intensity"
-             max="127" middlePosition="64" stepSize="1" processorId="randIntensity"
-             parameterId="DefaultValue"/>
   <Component type="ScriptPanel" id="Admin" x="14" y="21" width="165" height="71">
     <Component type="ScriptComboBox" id="cmbPatches" x="17" y="15" max="2" items="duduk&#10;salamuri"
                parentComponent="Admin"/>
