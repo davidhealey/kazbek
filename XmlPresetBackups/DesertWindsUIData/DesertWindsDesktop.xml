@@ -29,18 +29,17 @@
              processorId="transitionGain" parameterId="Gain" mode="Decibel"
              min="-100" max="3" stepSize="0.1" suffix=" dB" middlePosition="-18"
              defaultValue="-9"/>
-  <Component type="ScriptSlider" id="knbCC0" x="8" y="109" text="Expression"
+  <Component type="ScriptSlider" id="knbExpression" x="8" y="109" text="Expression"
              max="127" stepSize="1" middlePosition="64" defaultValue="127"
              processorId="expression" parameterId="DefaultValue" isPluginParameter="1"
              pluginParameterName="Expression"/>
-  <Component type="ScriptSlider" id="knbCC1" x="153" y="111" text="Dynamics"
+  <Component type="ScriptSlider" id="knbDynamics" x="153" y="111" text="Dynamics"
              max="127" stepSize="1" middlePosition="64" defaultValue="64"
-             processorId="dynamicsCC" parameterId="DefaultValue" isPluginParameter="1"
-             pluginParameterName="Dynamics"/>
-  <Component type="ScriptSlider" id="knbCC2" x="296" y="46" text="Vibrato Intensity"
+             isPluginParameter="1" pluginParameterName="Dynamics"/>
+  <Component type="ScriptSlider" id="knbVibratoIntensity" x="296" y="46" text="Vibrato Intensity"
              max="127" stepSize="1" middlePosition="64" processorId="vibratoIntensity"
              parameterId="DefaultValue" isPluginParameter="1" pluginParameterName="Vibrato Intensity"/>
-  <Component type="ScriptSlider" id="knbCC3" x="292" y="95" text="Vibrato Rate"
+  <Component type="ScriptSlider" id="knbVibratoRate" x="292" y="95" text="Vibrato Rate"
              max="127" stepSize="1" middlePosition="64" defaultValue="90"
              processorId="vibratoRate" parameterId="DefaultValue" isPluginParameter="1"
              pluginParameterName="Vibrato Rate"/>

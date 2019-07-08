@@ -20,6 +20,7 @@ Content.makeFrontInterface(600, 500);
 include("manifest.js");
 
 //Script processors
+const var legato = Synth.getMidiProcessor("legato");
 const var playableRange = Synth.getMidiProcessor("playableRange");
 const var sustainRoundRobin = Synth.getMidiProcessor("sustainRoundRobin");
 
@@ -31,7 +32,18 @@ for (id in samplerIds)
 {
     childSynths[id] = Synth.getChildSynth(id);
 }  
-    
+
+//Dynamics && breath control
+const var dynamicsCC = Synth.getModulator("dynamicsCC");
+
+inline function onknbDynamicsControl(component, value)
+{
+    dynamicsCC.setAttribute(dynamicsCC.DefaultValue, value);
+    legato.setAttribute(legato.knbBreath, value);
+}
+
+Content.getComponent("knbDynamics").setControlCallback(onknbDynamicsControl);
+
 //CC buttons and tables
 const var tblVelocity = Content.getComponent("tblVelocity");
 const var btnCC = [];

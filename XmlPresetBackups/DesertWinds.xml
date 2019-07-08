@@ -16,10 +16,10 @@
             <Control type="ScriptButton" id="btnBreath" value="0"/>
             <Control type="ScriptButton" id="btnVelDynamics" value="0"/>
             <Control type="ScriptSlider" id="knbTransition" value="-6"/>
-            <Control type="ScriptSlider" id="knbCC0" value="127"/>
-            <Control type="ScriptSlider" id="knbCC1" value="22"/>
-            <Control type="ScriptSlider" id="knbCC2" value="0"/>
-            <Control type="ScriptSlider" id="knbCC3" value="0"/>
+            <Control type="ScriptSlider" id="knbExpression" value="127"/>
+            <Control type="ScriptSlider" id="knbDynamics" value="44"/>
+            <Control type="ScriptSlider" id="knbVibratoIntensity" value="0"/>
+            <Control type="ScriptSlider" id="knbVibratoRate" value="90"/>
             <Control type="ScriptButton" id="btnCC0" value="0"/>
             <Control type="ScriptButton" id="btnCC1" value="0"/>
             <Control type="ScriptButton" id="btnCC2" value="0"/>
@@ -113,7 +113,7 @@
             </Processor>
             <Processor Type="MidiController" ID="dynamicsCC" Bypassed="0" Intensity="1"
                        UseTable="1" Inverted="0" ControllerNumber="94" SmoothTime="1000"
-                       DefaultValue="22" ControllerTableData="24...............vO...f+....9C..LxO">
+                       DefaultValue="44" ControllerTableData="24...............vO...f+....9C..LxO">
               <ChildProcessors/>
             </Processor>
             <Processor Type="LFO" ID="vibratoLFO" Bypassed="0" Intensity="1" Frequency="6"
@@ -133,7 +133,7 @@
                   <ChildProcessors>
                     <Processor Type="MidiController" ID="vibratoRate" Bypassed="0" Intensity="1"
                                UseTable="1" Inverted="0" ControllerNumber="94" SmoothTime="200"
-                               DefaultValue="0" ControllerTableData="">
+                               DefaultValue="90" ControllerTableData="">
                       <ChildProcessors/>
                     </Processor>
                   </ChildProcessors>
@@ -249,7 +249,7 @@
                     <Control type="ScriptButton" id="btnWholeStep" value="0"/>
                     <Control type="ScriptSlider" id="knbMaxGlide" value="0"/>
                     <Control type="ScriptButton" id="btnBc" value="0"/>
-                    <Control type="ScriptSlider" id="knbBreath" value="0"/>
+                    <Control type="ScriptSlider" id="knbBreath" value="44"/>
                     <Control type="ScriptSlider" id="knbThreshold" value="10"/>
                     <Control type="ScriptButton" id="btnBreathVel" value="0"/>
                   </Content>
