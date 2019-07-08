@@ -32,6 +32,33 @@ for (id in samplerIds)
     childSynths[id] = Synth.getChildSynth(id);
 }  
     
+//CC buttons and tables
+const var tblVelocity = Content.getComponent("tblVelocity");
+const var btnCC = [];
+const var tblCC = [];
+
+for (i = 0; i < 4; i++)
+{
+    btnCC[i] = Content.getComponent("btnCC"+i);
+    tblCC[i] = Content.getComponent("tblCC"+i);
+    btnCC[i].setControlCallback(onbtnCCControl);
+}
+
+inline function onbtnCCControl(component, value)
+{
+    local idx = btnCC.indexOf(component);
+    
+    //Toggle buttons and show/hide selected table
+    for (i = 0; i < tblCC.length; i++)
+    {
+        btnCC[i].setValue(i == idx && value == 1);
+        tblCC[i].showControl(i == idx && value == 1);
+    }        
+    
+    //If no button enabled show velocity table
+    tblVelocity.showControl(1-value);
+}
+
 //Patch selector
 reg patch;
 

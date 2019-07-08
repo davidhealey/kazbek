@@ -21,14 +21,45 @@
              min="-100" max="100" suffix=" ct" text="Fine Tuning" isPluginParameter="1"
              pluginParameterName="Fine Tuning" processorId="coarseFineTune"
              parameterId="knbFine" stepSize="1" showValuePopup="Above"/>
-  <Component type="ScriptPanel" id="Controllers" x="16" y="108" width="393"
-             height="289" borderSize="0" bgColour="0" itemColour="0" itemColour2="0"
-             textColour="0">
-    <Component type="ScriptTable" id="tblVelocity" x="55" y="96" parentComponent="Controllers"
-               width="201" height="148" customColours="1"/>
-    <Component type="ScriptTable" id="tblDynamics" x="55" y="95" parentComponent="Controllers"
-               width="201" height="148" customColours="1"/>
-  </Component>
+  <Component type="ScriptButton" id="btnBreath" x="456" y="286" text="Breath"
+             processorId="legato" parameterId="btnBc"/>
+  <Component type="ScriptButton" id="btnVelDynamics" x="455" y="337" text="Velocity Dynamics"/>
+  <Component type="ScriptSlider" id="knbTransition" x="455" y="370" text="Transition Gain"
+             processorId="transitionGain" parameterId="Gain" mode="Decibel"
+             min="-100" max="3" stepSize="0.1" suffix=" dB" middlePosition="-18"
+             defaultValue="-9"/>
+  <Component type="ScriptSlider" id="knbCC0" x="8" y="109" text="Expression"
+             max="127" stepSize="1" middlePosition="64" defaultValue="127"
+             processorId="expression" parameterId="DefaultValue" isPluginParameter="1"
+             pluginParameterName="Expression"/>
+  <Component type="ScriptSlider" id="knbCC1" x="153" y="111" text="Dynamics"
+             max="127" stepSize="1" middlePosition="64" defaultValue="64"
+             processorId="dynamicsCC" parameterId="DefaultValue" isPluginParameter="1"
+             pluginParameterName="Dynamics"/>
+  <Component type="ScriptSlider" id="knbCC2" x="296" y="46" text="Vibrato Intensity"
+             max="127" stepSize="1" middlePosition="64" processorId="vibratoIntensity"
+             parameterId="DefaultValue" isPluginParameter="1" pluginParameterName="Vibrato Intensity"/>
+  <Component type="ScriptSlider" id="knbCC3" x="292" y="95" text="Vibrato Rate"
+             max="127" stepSize="1" middlePosition="64" defaultValue="90"
+             processorId="vibratoRate" parameterId="DefaultValue" isPluginParameter="1"
+             pluginParameterName="Vibrato Rate"/>
+  <Component type="ScriptButton" id="btnCC0" x="13" y="170"/>
+  <Component type="ScriptButton" id="btnCC1" x="160" y="173"/>
+  <Component type="ScriptButton" id="btnCC2" x="299" y="174"/>
+  <Component type="ScriptButton" id="btnCC3" x="13" y="213"/>
+  <Component type="ScriptTable" id="tblVelocity" x="32" y="259" width="201"
+             height="148" customColours="1" processorId="globalVelocity"/>
+  <Component type="ScriptTable" id="tblCC0" x="32" y="259" width="201" height="148"
+             customColours="1" processorId="expression" visible="0"/>
+  <Component type="ScriptTable" id="tblCC1" x="32" y="259" width="201" height="148"
+             customColours="1" processorId="dynamicsCC" visible="0"/>
+  <Component type="ScriptTable" id="tblCC2" x="32" y="259" width="201" height="148"
+             customColours="1" processorId="vibratoIntensity" visible="0"/>
+  <Component type="ScriptTable" id="tblCC3" x="32" y="259" width="201" height="148"
+             customColours="1" processorId="vibratoRate" visible="0"/>
+  <Component type="ScriptSlider" id="knbRandLFO" x="263" y="314" text="Random LFO Intensity"
+             max="127" middlePosition="64" stepSize="1" processorId="randIntensity"
+             parameterId="DefaultValue"/>
   <Component type="ScriptPanel" id="Admin" x="14" y="21" width="165" height="71">
     <Component type="ScriptComboBox" id="cmbPatches" x="17" y="15" max="2" items="duduk&#10;salamuri"
                parentComponent="Admin"/>
