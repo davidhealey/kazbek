@@ -5,5 +5,32 @@
              bgColour="4284769380" itemColour="436207615" itemColour2="4294967295"
              textColour="4294951115" Data="{&#13;&#10;  &quot;KeyWidth&quot;: 14,&#13;&#10;  &quot;DisplayOctaveNumber&quot;: true,&#13;&#10;  &quot;LowKey&quot;: 36,&#13;&#10;  &quot;HiKey&quot;: 127,&#13;&#10;  &quot;CustomGraphics&quot;: false,&#13;&#10;  &quot;DefaultAppearance&quot;: true,&#13;&#10;  &quot;BlackKeyRatio&quot;: 0.69999999,&#13;&#10;  &quot;ToggleMode&quot;: false,&#13;&#10;  &quot;MidiChannel&quot;: 1,&#13;&#10;  &quot;UseVectorGraphics&quot;: true,&#13;&#10;  &quot;UseFlatStyle&quot;: false,&#13;&#10;  &quot;MPEKeyboard&quot;: false,&#13;&#10;  &quot;MPEStartChannel&quot;: 2,&#13;&#10;  &quot;MPEEndChannel&quot;: 16&#13;&#10;}"
              width="600" height="72"/>
-  <Component type="ScriptComboBox" id="cmbPatches" x="71" y="45" max="2" items="duduk&#10;salamuri"/>
+  <Component type="ScriptSlider" id="knbGain" x="442" y="25" middlePosition="-18"
+             stepSize="0.1" min="-100" max="3" suffix=" dB" mode="Decibel"
+             isPluginParameter="1" pluginParameterName="Gain" text="Gain"
+             processorId="Simple Gain1" parameterId="Gain" showValuePopup="Above"/>
+  <Component type="ScriptSlider" id="knbPan" x="447" y="86" mode="Pan" min="-100"
+             max="100" stepSize="1" suffix="L" middlePosition="0" isPluginParameter="1"
+             pluginParameterName="Pan" text="Pan" processorId="Simple Gain1"
+             parameterId="Balance" showValuePopup="Above"/>
+  <Component type="ScriptSlider" id="knbCoarse" x="455" y="214" middlePosition="0"
+             min="-12" max="12" suffix=" st" text="Coarse Tuning" isPluginParameter="1"
+             pluginParameterName="Coarse Tuning" processorId="coarseFineTune"
+             parameterId="knbCoarse" stepSize="1" showValuePopup="Above"/>
+  <Component type="ScriptSlider" id="knbFine" x="447" y="147" middlePosition="0"
+             min="-100" max="100" suffix=" ct" text="Fine Tuning" isPluginParameter="1"
+             pluginParameterName="Fine Tuning" processorId="coarseFineTune"
+             parameterId="knbFine" stepSize="1" showValuePopup="Above"/>
+  <Component type="ScriptPanel" id="Controllers" x="16" y="108" width="393"
+             height="289" borderSize="0" bgColour="0" itemColour="0" itemColour2="0"
+             textColour="0">
+    <Component type="ScriptTable" id="tblVelocity" x="55" y="96" parentComponent="Controllers"
+               width="201" height="148" customColours="1"/>
+    <Component type="ScriptTable" id="tblDynamics" x="55" y="95" parentComponent="Controllers"
+               width="201" height="148" customColours="1"/>
+  </Component>
+  <Component type="ScriptPanel" id="Admin" x="14" y="21" width="165" height="71">
+    <Component type="ScriptComboBox" id="cmbPatches" x="17" y="15" max="2" items="duduk&#10;salamuri"
+               parentComponent="Admin"/>
+  </Component>
 </ContentProperties>

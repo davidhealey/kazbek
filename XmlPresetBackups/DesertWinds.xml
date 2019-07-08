@@ -9,9 +9,30 @@
         <Processor Type="ScriptProcessor" ID="Interface" Bypassed="0">
           <ChildProcessors/>
           <Content>
+            <Control type="ScriptSlider" id="knbGain" value="5.5511151e-15"/>
+            <Control type="ScriptSlider" id="knbPan" value="0"/>
+            <Control type="ScriptSlider" id="knbCoarse" value="0"/>
+            <Control type="ScriptSlider" id="knbFine" value="0"/>
+            <Control type="ScriptTable" id="tblVelocity" value="0" data=""/>
+            <Control type="ScriptTable" id="tblDynamics" value="0" data=""/>
             <Control type="ScriptComboBox" id="cmbPatches" value="1"/>
           </Content>
           <UIData Source="DesertWindsUIData"/>
+        </Processor>
+        <Processor Type="ScriptProcessor" ID="coarseFineTune" Bypassed="0" Script="{EXTERNAL_SCRIPT}{PROJECT_FOLDER}HISE-Scripting-Framework/modules/coarseFineTuner.js">
+          <ChildProcessors/>
+          <Content>
+            <Control type="ScriptSlider" id="knbFine" value="0"/>
+            <Control type="ScriptSlider" id="knbCoarse" value="0"/>
+          </Content>
+          <UIData>
+            <ContentProperties DeviceType="Desktop">
+              <Component type="ScriptSlider" id="knbFine" x="0" y="0" middlePosition="0"
+                         stepSize="1" min="-100" max="100" suffix="ct" text="Fine Tune"/>
+              <Component type="ScriptSlider" id="knbCoarse" x="150" y="0" middlePosition="0"
+                         stepSize="1" min="-12" max="12" suffix="st" text="Coarse Tune"/>
+            </ContentProperties>
+          </UIData>
         </Processor>
       </ChildProcessors>
     </Processor>
@@ -23,10 +44,22 @@
     </Processor>
     <Processor Type="EffectChain" ID="FX" Bypassed="0">
       <ChildProcessors>
-        <Processor Type="SimpleReverb" ID="Simple Reverb1" Bypassed="0" RoomSize="0.80000001"
-                   Damping="0.60000002" WetLevel="0.2" DryLevel="0.80000001" Width="0.80000001"
-                   FreezeMode="0.1">
-          <ChildProcessors/>
+        <Processor Type="SimpleGain" ID="Simple Gain1" Bypassed="0" Gain="0" Delay="0"
+                   Width="100" Balance="0">
+          <ChildProcessors>
+            <Processor Type="ModulatorChain" ID="Gain Modulation" Bypassed="0" Intensity="1">
+              <ChildProcessors/>
+            </Processor>
+            <Processor Type="ModulatorChain" ID="Delay Modulation" Bypassed="0" Intensity="1">
+              <ChildProcessors/>
+            </Processor>
+            <Processor Type="ModulatorChain" ID="Width Modulation" Bypassed="0" Intensity="1">
+              <ChildProcessors/>
+            </Processor>
+            <Processor Type="ModulatorChain" ID="Pan Modulation" Bypassed="0" Intensity="1">
+              <ChildProcessors/>
+            </Processor>
+          </ChildProcessors>
           <RoutingMatrix NumSourceChannels="2" Channel0="0" Send0="-1" Channel1="1" Send1="-1"/>
         </Processor>
       </ChildProcessors>
@@ -71,14 +104,15 @@
             <Processor Type="ScriptProcessor" ID="playableRange" Bypassed="0" Script="{EXTERNAL_SCRIPT}{PROJECT_FOLDER}HISE-Scripting-Framework/modules/limitPlayableRange.js">
               <ChildProcessors/>
               <Content>
-                <Control type="ScriptSlider" id="Low Note" value="57"/>
-                <Control type="ScriptSlider" id="High Note" value="72"/>
+                <Control type="ScriptSlider" id="knbLow" value="57"/>
+                <Control type="ScriptSlider" id="knbHigh" value="72"/>
               </Content>
               <UIData>
                 <ContentProperties DeviceType="Desktop">
-                  <Component type="ScriptSlider" id="Low Note" x="0" y="0" stepSize="1" max="127"/>
-                  <Component type="ScriptSlider" id="High Note" x="150" y="0" stepSize="1"
-                             max="127" defaultValue="127"/>
+                  <Component type="ScriptSlider" id="knbLow" x="0" y="0" stepSize="1" max="127"
+                             text="Low Note"/>
+                  <Component type="ScriptSlider" id="knbHigh" x="150" y="0" stepSize="1" max="127"
+                             text="High Note" defaultValue="127"/>
                 </ContentProperties>
               </UIData>
             </Processor>
@@ -121,7 +155,7 @@
                 <Processor Type="ScriptProcessor" ID="legato" Bypassed="0" Script="{EXTERNAL_SCRIPT}{PROJECT_FOLDER}HISE-Scripting-Framework/modules/legato.js">
                   <ChildProcessors/>
                   <Content>
-                    <Control type="ScriptButton" id="btnMute" value="0"/>
+                    <Control type="ScriptButton" id="btnMute" value="1"/>
                     <Control type="ScriptSlider" id="knbOffset" value="20"/>
                     <Control type="ScriptButton" id="btnRetrigger" value="0"/>
                     <Control type="ScriptSlider" id="knbFadeMin" value="20"/>
@@ -179,20 +213,21 @@
                 <Processor Type="ScriptProcessor" ID="sustainRoundRobin" Bypassed="0">
                   <ChildProcessors/>
                   <Content>
-                    <Control type="ScriptSlider" id="Num RR" value="2"/>
-                    <Control type="ScriptSlider" id="Low Note" value="69"/>
-                    <Control type="ScriptSlider" id="High Note" value="100"/>
-                    <Control type="ScriptSlider" id="Offset" value="-33"/>
+                    <Control type="ScriptSlider" id="knbRRs" value="2"/>
+                    <Control type="ScriptSlider" id="knbOffset" value="17"/>
+                    <Control type="ScriptSlider" id="knbLow" value="57"/>
+                    <Control type="ScriptSlider" id="knbHigh" value="72"/>
                   </Content>
                   <UIData>
                     <ContentProperties DeviceType="Desktop">
-                      <Component type="ScriptSlider" id="Num RR" x="0" y="0" stepSize="1" max="8"/>
-                      <Component type="ScriptSlider" id="Low Note" x="150" y="0" stepSize="1"
-                                 max="127"/>
-                      <Component type="ScriptSlider" id="High Note" x="300" y="0" stepSize="1"
-                                 max="127" defaultValue="127"/>
-                      <Component type="ScriptSlider" id="Offset" x="450" y="0" stepSize="1" min="-127"
-                                 max="127"/>
+                      <Component type="ScriptSlider" id="knbRRs" x="0" y="0" stepSize="1" max="8"
+                                 text="Num RRs"/>
+                      <Component type="ScriptSlider" id="knbOffset" x="450" y="0" stepSize="1"
+                                 min="-127" max="127" text="Offset"/>
+                      <Component type="ScriptSlider" id="knbLow" x="150" y="0" stepSize="1" max="127"
+                                 text="Low Note"/>
+                      <Component type="ScriptSlider" id="knbHigh" x="300" y="0" stepSize="1" max="127"
+                                 text="High Note" defaultValue="127"/>
                     </ContentProperties>
                   </UIData>
                 </Processor>
