@@ -17,14 +17,14 @@
             <Control type="ScriptButton" id="btnVelDynamics" value="0"/>
             <Control type="ScriptSlider" id="knbTransition" value="-6"/>
             <Control type="ScriptSlider" id="knbCC0" value="127"/>
-            <Control type="ScriptSlider" id="knbCC1" value="0"/>
+            <Control type="ScriptSlider" id="knbCC1" value="22"/>
             <Control type="ScriptSlider" id="knbCC2" value="0"/>
             <Control type="ScriptSlider" id="knbCC3" value="0"/>
             <Control type="ScriptButton" id="btnCC0" value="0"/>
             <Control type="ScriptButton" id="btnCC1" value="0"/>
             <Control type="ScriptButton" id="btnCC2" value="0"/>
             <Control type="ScriptButton" id="btnCC3" value="0"/>
-            <Control type="ScriptTable" id="tblVelocity" value="0" data="24...............vO...f+....9C..PwO"/>
+            <Control type="ScriptTable" id="tblVelocity" value="0" data="24...............vO...f+....9C..nvO"/>
             <Control type="ScriptTable" id="tblCC0" value="0" data=""/>
             <Control type="ScriptTable" id="tblCC1" value="0" data="24...............vO...f+....9C..LxO"/>
             <Control type="ScriptTable" id="tblCC2" value="0" data=""/>
@@ -46,6 +46,19 @@
                          stepSize="1" min="-100" max="100" suffix="ct" text="Fine Tune"/>
               <Component type="ScriptSlider" id="knbCoarse" x="150" y="0" middlePosition="0"
                          stepSize="1" min="-12" max="12" suffix="st" text="Coarse Tune"/>
+            </ContentProperties>
+          </UIData>
+        </Processor>
+        <Processor Type="ScriptProcessor" ID="velocityShaper" Bypassed="0">
+          <ChildProcessors/>
+          <Content>
+            <Control type="ScriptButton" id="btnDynamics" value="0"/>
+            <Control type="ScriptTable" id="tblVel" value="33" data="24...............vO...f+....9C..nvO"/>
+          </Content>
+          <UIData>
+            <ContentProperties DeviceType="Desktop">
+              <Component type="ScriptButton" id="btnDynamics" x="0" y="10" text="Vel = Dynamics"/>
+              <Component type="ScriptTable" id="tblVel" x="150" y="0" height="95" width="200"/>
             </ContentProperties>
           </UIData>
         </Processor>
@@ -95,12 +108,12 @@
         <Processor Type="ModulatorChain" ID="Global Modulators" Bypassed="0" Intensity="1">
           <ChildProcessors>
             <Processor Type="Velocity" ID="globalVelocity" Bypassed="0" Intensity="1"
-                       UseTable="1" Inverted="0" DecibelMode="0" VelocityTableData="24...............vO...f+....9C..PwO">
+                       UseTable="1" Inverted="0" DecibelMode="0" VelocityTableData="24...............vO...f+....9C..nvO">
               <ChildProcessors/>
             </Processor>
             <Processor Type="MidiController" ID="dynamicsCC" Bypassed="0" Intensity="1"
                        UseTable="1" Inverted="0" ControllerNumber="94" SmoothTime="1000"
-                       DefaultValue="0" ControllerTableData="24...............vO...f+....9C..LxO">
+                       DefaultValue="22" ControllerTableData="24...............vO...f+....9C..LxO">
               <ChildProcessors/>
             </Processor>
             <Processor Type="LFO" ID="vibratoLFO" Bypassed="0" Intensity="1" Frequency="6"

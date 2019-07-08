@@ -23,7 +23,8 @@
              parameterId="knbFine" stepSize="1" showValuePopup="Above"/>
   <Component type="ScriptButton" id="btnBreath" x="456" y="286" text="Breath"
              processorId="legato" parameterId="btnBc"/>
-  <Component type="ScriptButton" id="btnVelDynamics" x="455" y="337" text="Velocity Dynamics"/>
+  <Component type="ScriptButton" id="btnVelDynamics" x="455" y="337" text="Velocity Dynamics"
+             processorId="velocityShaper" parameterId="btnDynamics"/>
   <Component type="ScriptSlider" id="knbTransition" x="455" y="370" text="Transition Gain"
              processorId="transitionGain" parameterId="Gain" mode="Decibel"
              min="-100" max="3" stepSize="0.1" suffix=" dB" middlePosition="-18"
