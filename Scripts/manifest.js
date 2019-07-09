@@ -21,12 +21,12 @@ namespace Manifest
 {
     const var patches = {
         "duduk": {
-            range:[57, 72],
+            range:[[57, 72], [33, 48]],
             rrOffset:17,
         },
         "salamuri": {
-            range:[69, 100],
-            rrOffset:-33
+            range:[[71, 98], [29, 33], [35, 62], [64, 69]],
+            rrOffset:-33,
         }
     };
 }

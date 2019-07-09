@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <ContentProperties DeviceType="Desktop">
-  <Component type="ScriptFloatingTile" id="fltKeyboard" x="2" y="428" ContentType="Keyboard"
-             bgColour="4284769380" itemColour="436207615" itemColour2="4294967295"
-             textColour="4294951115" Data="{&#13;&#10;  &quot;KeyWidth&quot;: 14,&#13;&#10;  &quot;DisplayOctaveNumber&quot;: true,&#13;&#10;  &quot;LowKey&quot;: 36,&#13;&#10;  &quot;HiKey&quot;: 127,&#13;&#10;  &quot;CustomGraphics&quot;: false,&#13;&#10;  &quot;DefaultAppearance&quot;: true,&#13;&#10;  &quot;BlackKeyRatio&quot;: 0.69999999,&#13;&#10;  &quot;ToggleMode&quot;: false,&#13;&#10;  &quot;MidiChannel&quot;: 1,&#13;&#10;  &quot;UseVectorGraphics&quot;: true,&#13;&#10;  &quot;UseFlatStyle&quot;: false,&#13;&#10;  &quot;MPEKeyboard&quot;: false,&#13;&#10;  &quot;MPEStartChannel&quot;: 2,&#13;&#10;  &quot;MPEEndChannel&quot;: 16&#13;&#10;}"
-             width="600" height="72"/>
+  <Component type="ScriptPanel" id="Admin" x="14" y="21" width="165" height="71">
+    <Component type="ScriptComboBox" id="cmbPatches" x="17" y="15" max="2" items="duduk&#10;salamuri"
+               parentComponent="Admin"/>
+  </Component>
   <Component type="ScriptSlider" id="knbGain" x="442" y="25" middlePosition="-18"
              stepSize="0.1" min="-100" max="3" suffix=" dB" mode="Decibel"
              isPluginParameter="1" pluginParameterName="Gain" text="Gain"
@@ -57,8 +57,8 @@
              customColours="1" processorId="vibratoIntensity" visible="0"/>
   <Component type="ScriptTable" id="tblCC3" x="32" y="259" width="201" height="148"
              customColours="1" processorId="vibratoRate" visible="0"/>
-  <Component type="ScriptPanel" id="Admin" x="14" y="21" width="165" height="71">
-    <Component type="ScriptComboBox" id="cmbPatches" x="17" y="15" max="2" items="duduk&#10;salamuri"
-               parentComponent="Admin"/>
-  </Component>
+  <Component type="ScriptFloatingTile" id="fltKeyboard" x="2" y="428" ContentType="Keyboard"
+             bgColour="4284769380" itemColour="436207615" itemColour2="4294967295"
+             textColour="4294951115" Data="{&#13;&#10;  &quot;KeyWidth&quot;: 14,&#13;&#10;  &quot;DisplayOctaveNumber&quot;: true,&#13;&#10;  &quot;LowKey&quot;: 29,&#13;&#10;  &quot;HiKey&quot;: 127,&#13;&#10;  &quot;CustomGraphics&quot;: false,&#13;&#10;  &quot;DefaultAppearance&quot;: true,&#13;&#10;  &quot;BlackKeyRatio&quot;: 0.69999999,&#13;&#10;  &quot;ToggleMode&quot;: false,&#13;&#10;  &quot;MidiChannel&quot;: 1,&#13;&#10;  &quot;UseVectorGraphics&quot;: true,&#13;&#10;  &quot;UseFlatStyle&quot;: false,&#13;&#10;  &quot;MPEKeyboard&quot;: false,&#13;&#10;  &quot;MPEStartChannel&quot;: 2,&#13;&#10;  &quot;MPEEndChannel&quot;: 16&#13;&#10;}"
+             width="600" height="72"/>
 </ContentProperties>

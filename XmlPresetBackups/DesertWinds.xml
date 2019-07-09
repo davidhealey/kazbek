@@ -9,6 +9,7 @@
         <Processor Type="ScriptProcessor" ID="Interface" Bypassed="0">
           <ChildProcessors/>
           <Content>
+            <Control type="ScriptComboBox" id="cmbPatches" value="1"/>
             <Control type="ScriptSlider" id="knbGain" value="5.5511151e-15"/>
             <Control type="ScriptSlider" id="knbPan" value="0"/>
             <Control type="ScriptSlider" id="knbCoarse" value="0"/>
@@ -18,7 +19,7 @@
             <Control type="ScriptSlider" id="knbTransition" value="-6"/>
             <Control type="ScriptSlider" id="knbExpression" value="127"/>
             <Control type="ScriptSlider" id="knbDynamics" value="44"/>
-            <Control type="ScriptSlider" id="knbVibratoIntensity" value="127"/>
+            <Control type="ScriptSlider" id="knbVibratoIntensity" value="0"/>
             <Control type="ScriptSlider" id="knbVibratoRate" value="90"/>
             <Control type="ScriptButton" id="btnCC0" value="0"/>
             <Control type="ScriptButton" id="btnCC1" value="0"/>
@@ -29,7 +30,6 @@
             <Control type="ScriptTable" id="tblCC1" value="0" data="24...............vO...f+....9C..zxO"/>
             <Control type="ScriptTable" id="tblCC2" value="0" data=""/>
             <Control type="ScriptTable" id="tblCC3" value="0" data=""/>
-            <Control type="ScriptComboBox" id="cmbPatches" value="1"/>
           </Content>
           <UIData Source="DesertWindsUIData"/>
         </Processor>
@@ -52,7 +52,7 @@
           <ChildProcessors/>
           <Content>
             <Control type="ScriptButton" id="btnDynamics" value="0"/>
-            <Control type="ScriptTable" id="tblVel" value="16" data="24...............vO...f+....9C..nvO"/>
+            <Control type="ScriptTable" id="tblVel" value="66" data="24...............vO...f+....9C..nvO"/>
           </Content>
           <UIData>
             <ContentProperties DeviceType="Desktop">
@@ -123,7 +123,7 @@
                   <ChildProcessors>
                     <Processor Type="MidiController" ID="vibratoIntensity" Bypassed="0" Intensity="1"
                                UseTable="1" Inverted="0" ControllerNumber="94" SmoothTime="500"
-                               DefaultValue="127" ControllerTableData="">
+                               DefaultValue="0" ControllerTableData="">
                       <ChildProcessors/>
                     </Processor>
                   </ChildProcessors>
@@ -147,7 +147,7 @@
                   <ChildProcessors>
                     <Processor Type="MidiController" ID="randIntensity" Bypassed="0" Intensity="1"
                                UseTable="0" Inverted="0" ControllerNumber="94" SmoothTime="200"
-                               DefaultValue="127">
+                               DefaultValue="0">
                       <ChildProcessors/>
                     </Processor>
                   </ChildProcessors>
@@ -173,13 +173,6 @@
       <ChildProcessors>
         <Processor Type="MidiProcessorChain" ID="Midi Processor" Bypassed="0">
           <ChildProcessors>
-            <Processor Type="MidiMuter" ID="mainMidiMuter" Bypassed="0">
-              <ChildProcessors/>
-              <Content>
-                <Control type="ScriptButton" id="ignoreButton" value="0"/>
-                <Control type="ScriptButton" id="fixStuckNotes" value="1"/>
-              </Content>
-            </Processor>
             <Processor Type="ScriptProcessor" ID="playableRange" Bypassed="0" Script="{EXTERNAL_SCRIPT}{PROJECT_FOLDER}HISE-Scripting-Framework/modules/limitPlayableRange.js">
               <ChildProcessors/>
               <Content>
@@ -231,7 +224,7 @@
                     <ContentProperties DeviceType="Desktop"/>
                   </UIData>
                 </Processor>
-                <Processor Type="ScriptProcessor" ID="legato" Bypassed="0" Script="{EXTERNAL_SCRIPT}{PROJECT_FOLDER}HISE-Scripting-Framework/modules/legato.js">
+                <Processor Type="ScriptProcessor" ID="legato" Bypassed="1" Script="{EXTERNAL_SCRIPT}{PROJECT_FOLDER}HISE-Scripting-Framework/modules/legato.js">
                   <ChildProcessors/>
                   <Content>
                     <Control type="ScriptButton" id="btnMute" value="0"/>
@@ -601,15 +594,7 @@
                VoiceLimit="256" KillFadeTime="20" IconColour="0">
       <ChildProcessors>
         <Processor Type="MidiProcessorChain" ID="Midi Processor" Bypassed="0">
-          <ChildProcessors>
-            <Processor Type="MidiMuter" ID="effectsMidiMuter" Bypassed="0">
-              <ChildProcessors/>
-              <Content>
-                <Control type="ScriptButton" id="ignoreButton" value="1"/>
-                <Control type="ScriptButton" id="fixStuckNotes" value="1"/>
-              </Content>
-            </Processor>
-          </ChildProcessors>
+          <ChildProcessors/>
         </Processor>
         <Processor Type="ModulatorChain" ID="GainModulation" Bypassed="0" Intensity="1">
           <ChildProcessors>

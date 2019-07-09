@@ -98,15 +98,21 @@ inline function oncmbPatchesControl(component, value)
 
 //Set keyboard colours
 inline function colourKeys()
-{
-    local range = Manifest.patches[patch].range;
+{    
+    local ranges = Manifest.patches[patch].range;
     
     for (i = 0; i < 128; i++)
     {
-        if (i < range[0] || i > range[1])
-            Engine.setKeyColour(i, Colours.withAlpha(Colours.black, 0.5));
+        if (i >= ranges[0][0] && i <= ranges[0][1])
+            Engine.setKeyColour(i, Colours.withAlpha(Colours.white, 0.0));
+        else if (i >= ranges[1][0] && i <= ranges[1][1])
+            Engine.setKeyColour(i, Colours.withAlpha(Colours.yellow, 0.1));
+        else if (i >= ranges[2][0] && i <= ranges[2][1])
+            Engine.setKeyColour(i, Colours.withAlpha(Colours.green, 0.1));
+        else if (i >= ranges[3][0] && i <= ranges[3][1])
+            Engine.setKeyColour(i, Colours.withAlpha(Colours.red, 0.1));
         else
-            Engine.setKeyColour(i, Colours.withAlpha(Colours.white, 0.0));    
+            Engine.setKeyColour(i, Colours.withAlpha(Colours.black, 0.5));            
     }   
 }
 
@@ -137,7 +143,7 @@ inline function loadSampleMaps()
 //Set playable range for main samplers
 inline function setPlayableRange()
 {
-    local range = Manifest.patches[patch].range;
+    local range = Manifest.patches[patch].range[0];
     local rrOffset = Manifest.patches[patch].rrOffset;
     
     playableRange.setAttribute(playableRange.knbLow, range[0]);
