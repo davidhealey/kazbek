@@ -1,256 +1,256 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <samplemap ID="" RRGroupAmount="1" MicPositions=";">
-  <sample Root="81" LoKey="81" HiKey="82" LoVel="0" HiVel="1" RRGroup="1"
+  <sample Root="45" LoKey="45" HiKey="46" LoVel="0" HiVel="1" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_A4_rr1.wav"
-          Duplicate="1"/>
-  <sample Root="81" LoKey="81" HiKey="82" LoVel="2" HiVel="3" RRGroup="1"
+          Duplicate="0"/>
+  <sample Root="45" LoKey="45" HiKey="46" LoVel="2" HiVel="3" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_A4_rr2.wav"
-          Duplicate="1"/>
-  <sample Root="93" LoKey="93" HiKey="94" LoVel="0" HiVel="1" RRGroup="1"
+          Duplicate="0"/>
+  <sample Root="57" LoKey="57" HiKey="58" LoVel="0" HiVel="1" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_A5_rr1.wav"
-          Duplicate="1"/>
-  <sample Root="93" LoKey="93" HiKey="94" LoVel="2" HiVel="3" RRGroup="1"
+          Duplicate="0"/>
+  <sample Root="57" LoKey="57" HiKey="58" LoVel="2" HiVel="3" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_A5_rr2.wav"
-          Duplicate="1"/>
-  <sample Root="83" LoKey="83" HiKey="83" LoVel="0" HiVel="1" RRGroup="1"
+          Duplicate="0"/>
+  <sample Root="47" LoKey="47" HiKey="47" LoVel="0" HiVel="1" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_B4_rr1.wav"
-          Duplicate="1"/>
-  <sample Root="83" LoKey="83" HiKey="83" LoVel="2" HiVel="3" RRGroup="1"
+          Duplicate="0"/>
+  <sample Root="47" LoKey="47" HiKey="47" LoVel="2" HiVel="3" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_B4_rr2.wav"
-          Duplicate="1"/>
-  <sample Root="95" LoKey="95" HiKey="95" LoVel="0" HiVel="1" RRGroup="1"
+          Duplicate="0"/>
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="0" HiVel="1" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_B5_rr1.wav"
-          Duplicate="1"/>
-  <sample Root="95" LoKey="95" HiKey="95" LoVel="2" HiVel="3" RRGroup="1"
+          Duplicate="0"/>
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="2" HiVel="3" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_B5_rr2.wav"
-          Duplicate="1"/>
-  <sample Root="72" LoKey="72" HiKey="73" LoVel="0" HiVel="1" RRGroup="1"
+          Duplicate="0"/>
+  <sample Root="36" LoKey="35" HiKey="37" LoVel="0" HiVel="1" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_C4_rr1.wav"
-          Duplicate="1"/>
-  <sample Root="72" LoKey="72" HiKey="73" LoVel="2" HiVel="3" RRGroup="1"
+          Duplicate="0"/>
+  <sample Root="36" LoKey="35" HiKey="37" LoVel="2" HiVel="3" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_C4_rr2.wav"
-          Duplicate="1"/>
-  <sample Root="84" LoKey="84" HiKey="85" LoVel="0" HiVel="1" RRGroup="1"
+          Duplicate="0"/>
+  <sample Root="48" LoKey="48" HiKey="49" LoVel="0" HiVel="1" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_C5_rr1.wav"
-          Duplicate="1"/>
-  <sample Root="84" LoKey="84" HiKey="85" LoVel="2" HiVel="3" RRGroup="1"
+          Duplicate="0"/>
+  <sample Root="48" LoKey="48" HiKey="49" LoVel="2" HiVel="3" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_C5_rr2.wav"
-          Duplicate="1"/>
-  <sample Root="96" LoKey="96" HiKey="97" LoVel="0" HiVel="1" RRGroup="1"
+          Duplicate="0"/>
+  <sample Root="60" LoKey="60" HiKey="62" LoVel="0" HiVel="1" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_C6_rr1.wav"
-          Duplicate="1"/>
-  <sample Root="96" LoKey="96" HiKey="97" LoVel="2" HiVel="3" RRGroup="1"
+          Duplicate="0"/>
+  <sample Root="60" LoKey="60" HiKey="62" LoVel="2" HiVel="3" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_C6_rr2.wav"
-          Duplicate="1"/>
-  <sample Root="74" LoKey="74" HiKey="75" LoVel="0" HiVel="1" RRGroup="1"
+          Duplicate="0"/>
+  <sample Root="38" LoKey="38" HiKey="39" LoVel="0" HiVel="1" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_D4_rr1.wav"
-          Duplicate="1"/>
-  <sample Root="74" LoKey="74" HiKey="75" LoVel="2" HiVel="3" RRGroup="1"
+          Duplicate="0"/>
+  <sample Root="38" LoKey="38" HiKey="39" LoVel="2" HiVel="3" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_D4_rr2.wav"
-          Duplicate="1"/>
-  <sample Root="86" LoKey="86" HiKey="87" LoVel="0" HiVel="1" RRGroup="1"
+          Duplicate="0"/>
+  <sample Root="50" LoKey="50" HiKey="51" LoVel="0" HiVel="1" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_D5_rr1.wav"
-          Duplicate="1"/>
-  <sample Root="86" LoKey="86" HiKey="87" LoVel="2" HiVel="3" RRGroup="1"
+          Duplicate="0"/>
+  <sample Root="50" LoKey="50" HiKey="51" LoVel="2" HiVel="3" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_D5_rr2.wav"
-          Duplicate="1"/>
-  <sample Root="76" LoKey="76" HiKey="76" LoVel="0" HiVel="1" RRGroup="1"
+          Duplicate="0"/>
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="0" HiVel="1" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_E4_rr1.wav"
-          Duplicate="1"/>
-  <sample Root="76" LoKey="76" HiKey="76" LoVel="2" HiVel="3" RRGroup="1"
+          Duplicate="0"/>
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="2" HiVel="3" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_E4_rr2.wav"
-          Duplicate="1"/>
-  <sample Root="88" LoKey="88" HiKey="88" LoVel="0" HiVel="1" RRGroup="1"
+          Duplicate="0"/>
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="0" HiVel="1" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_E5_rr1.wav"
-          Duplicate="1"/>
-  <sample Root="88" LoKey="88" HiKey="88" LoVel="2" HiVel="3" RRGroup="1"
+          Duplicate="0"/>
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="2" HiVel="3" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_E5_rr2.wav"
-          Duplicate="1"/>
-  <sample Root="77" LoKey="77" HiKey="78" LoVel="0" HiVel="1" RRGroup="1"
+          Duplicate="0"/>
+  <sample Root="41" LoKey="41" HiKey="42" LoVel="0" HiVel="1" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_F4_rr1.wav"
-          Duplicate="1"/>
-  <sample Root="77" LoKey="77" HiKey="78" LoVel="2" HiVel="3" RRGroup="1"
+          Duplicate="0"/>
+  <sample Root="41" LoKey="41" HiKey="42" LoVel="2" HiVel="3" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_F4_rr2.wav"
-          Duplicate="1"/>
-  <sample Root="89" LoKey="89" HiKey="90" LoVel="0" HiVel="1" RRGroup="1"
+          Duplicate="0"/>
+  <sample Root="53" LoKey="53" HiKey="54" LoVel="0" HiVel="1" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_F5_rr1.wav"
-          Duplicate="1"/>
-  <sample Root="89" LoKey="89" HiKey="90" LoVel="2" HiVel="3" RRGroup="1"
+          Duplicate="0"/>
+  <sample Root="53" LoKey="53" HiKey="54" LoVel="2" HiVel="3" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_F5_rr2.wav"
-          Duplicate="1"/>
-  <sample Root="79" LoKey="79" HiKey="80" LoVel="0" HiVel="1" RRGroup="1"
+          Duplicate="0"/>
+  <sample Root="43" LoKey="43" HiKey="44" LoVel="0" HiVel="1" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_G4_rr1.wav"
-          Duplicate="1"/>
-  <sample Root="79" LoKey="79" HiKey="80" LoVel="2" HiVel="3" RRGroup="1"
+          Duplicate="0"/>
+  <sample Root="43" LoKey="43" HiKey="44" LoVel="2" HiVel="3" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_G4_rr2.wav"
-          Duplicate="1"/>
-  <sample Root="91" LoKey="91" HiKey="92" LoVel="0" HiVel="1" RRGroup="1"
+          Duplicate="0"/>
+  <sample Root="55" LoKey="55" HiKey="56" LoVel="0" HiVel="1" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_G5_rr1.wav"
-          Duplicate="1"/>
-  <sample Root="91" LoKey="91" HiKey="92" LoVel="2" HiVel="3" RRGroup="1"
+          Duplicate="0"/>
+  <sample Root="55" LoKey="55" HiKey="56" LoVel="2" HiVel="3" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_G5_rr2.wav"
-          Duplicate="1"/>
-  <sample Root="48" LoKey="47" HiKey="48" LoVel="0" HiVel="1" RRGroup="1"
+          Duplicate="0"/>
+  <sample Root="65" LoKey="64" HiKey="66" LoVel="0" HiVel="1" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Runs/Salamuri_Runs_rr1.wav"
-          Duplicate="1"/>
-  <sample Root="48" LoKey="47" HiKey="48" LoVel="2" HiVel="3" RRGroup="1"
+          Duplicate="0"/>
+  <sample Root="65" LoKey="64" HiKey="66" LoVel="2" HiVel="3" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Runs/Salamuri_Runs_rr2.wav"
-          Duplicate="1"/>
-  <sample Root="48" LoKey="47" HiKey="48" LoVel="4" HiVel="5" RRGroup="1"
+          Duplicate="0"/>
+  <sample Root="65" LoKey="64" HiKey="66" LoVel="4" HiVel="5" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Runs/Salamuri_Runs_rr3.wav"
-          Duplicate="1"/>
-  <sample Root="49" LoKey="49" HiKey="50" LoVel="0" HiVel="1" RRGroup="1"
+          Duplicate="0"/>
+  <sample Root="68" LoKey="67" HiKey="69" LoVel="0" HiVel="1" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Runs/Salamuri_Runs_rr4.wav"
-          Duplicate="1"/>
-  <sample Root="49" LoKey="49" HiKey="50" LoVel="2" HiVel="3" RRGroup="1"
+          Duplicate="0"/>
+  <sample Root="68" LoKey="67" HiKey="69" LoVel="2" HiVel="3" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Runs/Salamuri_Runs_rr5.wav"
-          Duplicate="1"/>
-  <sample Root="49" LoKey="49" HiKey="50" LoVel="4" HiVel="5" RRGroup="1"
+          Duplicate="0"/>
+  <sample Root="68" LoKey="67" HiKey="69" LoVel="4" HiVel="5" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Runs/Salamuri_Runs_rr6.wav"
-          Duplicate="1"/>
-  <sample Root="64" LoKey="64" HiKey="65" LoVel="0" HiVel="1" RRGroup="1"
+          Duplicate="0"/>
+  <sample Root="33" LoKey="33" HiKey="33" LoVel="0" HiVel="1" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Rips/Salamuri_Rips_Up_High_rr1.wav"
-          Duplicate="1"/>
-  <sample Root="64" LoKey="64" HiKey="65" LoVel="2" HiVel="3" RRGroup="1"
+          Duplicate="0"/>
+  <sample Root="33" LoKey="33" HiKey="33" LoVel="2" HiVel="3" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Rips/Salamuri_Rips_Up_High_rr2.wav"
-          Duplicate="1"/>
-  <sample Root="64" LoKey="64" HiKey="65" LoVel="4" HiVel="5" RRGroup="1"
+          Duplicate="0"/>
+  <sample Root="33" LoKey="33" HiKey="33" LoVel="4" HiVel="5" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Rips/Salamuri_Rips_Up_High_rr3.wav"
-          Duplicate="1"/>
-  <sample Root="64" LoKey="64" HiKey="65" LoVel="6" HiVel="7" RRGroup="1"
+          Duplicate="0"/>
+  <sample Root="33" LoKey="33" HiKey="33" LoVel="6" HiVel="7" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Rips/Salamuri_Rips_Up_High_rr4.wav"
-          Duplicate="1"/>
-  <sample Root="62" LoKey="62" HiKey="63" LoVel="0" HiVel="1" RRGroup="1"
+          Duplicate="0"/>
+  <sample Root="32" LoKey="32" HiKey="32" LoVel="0" HiVel="1" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Rips/Salamuri_Rips_Up_Low_rr1.wav"
-          Duplicate="1"/>
-  <sample Root="62" LoKey="62" HiKey="63" LoVel="2" HiVel="3" RRGroup="1"
+          Duplicate="0"/>
+  <sample Root="32" LoKey="32" HiKey="32" LoVel="2" HiVel="3" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Rips/Salamuri_Rips_Up_Low_rr2.wav"
-          Duplicate="1"/>
-  <sample Root="62" LoKey="62" HiKey="63" LoVel="4" HiVel="5" RRGroup="1"
+          Duplicate="0"/>
+  <sample Root="32" LoKey="32" HiKey="32" LoVel="4" HiVel="5" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Rips/Salamuri_Rips_Up_Low_rr3.wav"
-          Duplicate="1"/>
-  <sample Root="62" LoKey="62" HiKey="63" LoVel="6" HiVel="7" RRGroup="1"
+          Duplicate="0"/>
+  <sample Root="32" LoKey="32" HiKey="32" LoVel="6" HiVel="7" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Rips/Salamuri_Rips_Up_Low_rr4.wav"
-          Duplicate="1"/>
-  <sample Root="60" LoKey="60" HiKey="61" LoVel="0" HiVel="1" RRGroup="1"
+          Duplicate="0"/>
+  <sample Root="31" LoKey="31" HiKey="31" LoVel="0" HiVel="1" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Rips/Salamuri_Rirps_Down_High_rr1.wav"
-          Duplicate="1"/>
-  <sample Root="60" LoKey="60" HiKey="61" LoVel="2" HiVel="3" RRGroup="1"
+          Duplicate="0"/>
+  <sample Root="31" LoKey="31" HiKey="31" LoVel="2" HiVel="3" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Rips/Salamuri_Rirps_Down_High_rr2.wav"
-          Duplicate="1"/>
-  <sample Root="60" LoKey="60" HiKey="61" LoVel="4" HiVel="5" RRGroup="1"
+          Duplicate="0"/>
+  <sample Root="31" LoKey="31" HiKey="31" LoVel="4" HiVel="5" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Rips/Salamuri_Rirps_Down_High_rr3.wav"
-          Duplicate="1"/>
-  <sample Root="60" LoKey="60" HiKey="61" LoVel="6" HiVel="7" RRGroup="1"
+          Duplicate="0"/>
+  <sample Root="31" LoKey="31" HiKey="31" LoVel="6" HiVel="7" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Rips/Salamuri_Rirps_Down_High_rr4.wav"
-          Duplicate="1"/>
-  <sample Root="59" LoKey="58" HiKey="59" LoVel="0" HiVel="1" RRGroup="1"
+          Duplicate="0"/>
+  <sample Root="30" LoKey="29" HiKey="30" LoVel="0" HiVel="1" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Rips/Salamuri_Rirps_Down_Low_rr1.wav"
-          Duplicate="1"/>
-  <sample Root="59" LoKey="58" HiKey="59" LoVel="2" HiVel="3" RRGroup="1"
+          Duplicate="0"/>
+  <sample Root="30" LoKey="29" HiKey="30" LoVel="2" HiVel="3" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Rips/Salamuri_Rirps_Down_Low_rr2.wav"
-          Duplicate="1"/>
-  <sample Root="59" LoKey="58" HiKey="59" LoVel="4" HiVel="5" RRGroup="1"
+          Duplicate="0"/>
+  <sample Root="30" LoKey="29" HiKey="30" LoVel="4" HiVel="5" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Rips/Salamuri_Rirps_Down_Low_rr3.wav"
-          Duplicate="1"/>
-  <sample Root="59" LoKey="58" HiKey="59" LoVel="6" HiVel="7" RRGroup="1"
+          Duplicate="0"/>
+  <sample Root="30" LoKey="29" HiKey="30" LoVel="6" HiVel="7" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Rips/Salamuri_Rirps_Down_Low_rr4.wav"
-          Duplicate="1"/>
-  <sample Root="81" LoKey="81" HiKey="82" LoVel="4" HiVel="5" RRGroup="1"
+          Duplicate="0"/>
+  <sample Root="45" LoKey="45" HiKey="46" LoVel="4" HiVel="5" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_A4_rr1.wav"
           Duplicate="1"/>
-  <sample Root="81" LoKey="81" HiKey="82" LoVel="6" HiVel="7" RRGroup="1"
+  <sample Root="45" LoKey="45" HiKey="46" LoVel="6" HiVel="7" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_A4_rr2.wav"
           Duplicate="1"/>
-  <sample Root="93" LoKey="93" HiKey="94" LoVel="4" HiVel="5" RRGroup="1"
+  <sample Root="57" LoKey="57" HiKey="58" LoVel="4" HiVel="5" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_A5_rr1.wav"
           Duplicate="1"/>
-  <sample Root="93" LoKey="93" HiKey="94" LoVel="6" HiVel="7" RRGroup="1"
+  <sample Root="57" LoKey="57" HiKey="58" LoVel="6" HiVel="7" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_A5_rr2.wav"
           Duplicate="1"/>
-  <sample Root="83" LoKey="83" HiKey="83" LoVel="4" HiVel="5" RRGroup="1"
+  <sample Root="47" LoKey="47" HiKey="47" LoVel="4" HiVel="5" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_B4_rr1.wav"
           Duplicate="1"/>
-  <sample Root="83" LoKey="83" HiKey="83" LoVel="6" HiVel="7" RRGroup="1"
+  <sample Root="47" LoKey="47" HiKey="47" LoVel="6" HiVel="7" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_B4_rr2.wav"
           Duplicate="1"/>
-  <sample Root="95" LoKey="95" HiKey="95" LoVel="4" HiVel="5" RRGroup="1"
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="4" HiVel="5" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_B5_rr1.wav"
           Duplicate="1"/>
-  <sample Root="95" LoKey="95" HiKey="95" LoVel="6" HiVel="7" RRGroup="1"
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="6" HiVel="7" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_B5_rr2.wav"
           Duplicate="1"/>
-  <sample Root="72" LoKey="72" HiKey="73" LoVel="4" HiVel="5" RRGroup="1"
+  <sample Root="36" LoKey="35" HiKey="37" LoVel="4" HiVel="5" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_C4_rr1.wav"
           Duplicate="1"/>
-  <sample Root="72" LoKey="72" HiKey="73" LoVel="6" HiVel="7" RRGroup="1"
+  <sample Root="36" LoKey="35" HiKey="37" LoVel="6" HiVel="7" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_C4_rr2.wav"
           Duplicate="1"/>
-  <sample Root="84" LoKey="84" HiKey="85" LoVel="4" HiVel="5" RRGroup="1"
+  <sample Root="48" LoKey="48" HiKey="49" LoVel="4" HiVel="5" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_C5_rr1.wav"
           Duplicate="1"/>
-  <sample Root="84" LoKey="84" HiKey="85" LoVel="6" HiVel="7" RRGroup="1"
+  <sample Root="48" LoKey="48" HiKey="49" LoVel="6" HiVel="7" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_C5_rr2.wav"
           Duplicate="1"/>
-  <sample Root="96" LoKey="96" HiKey="97" LoVel="4" HiVel="5" RRGroup="1"
+  <sample Root="60" LoKey="60" HiKey="62" LoVel="4" HiVel="5" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_C6_rr1.wav"
           Duplicate="1"/>
-  <sample Root="96" LoKey="96" HiKey="97" LoVel="6" HiVel="7" RRGroup="1"
+  <sample Root="60" LoKey="60" HiKey="62" LoVel="6" HiVel="7" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_C6_rr2.wav"
           Duplicate="1"/>
-  <sample Root="74" LoKey="74" HiKey="75" LoVel="4" HiVel="5" RRGroup="1"
+  <sample Root="38" LoKey="38" HiKey="39" LoVel="4" HiVel="5" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_D4_rr1.wav"
           Duplicate="1"/>
-  <sample Root="74" LoKey="74" HiKey="75" LoVel="6" HiVel="7" RRGroup="1"
+  <sample Root="38" LoKey="38" HiKey="39" LoVel="6" HiVel="7" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_D4_rr2.wav"
           Duplicate="1"/>
-  <sample Root="86" LoKey="86" HiKey="87" LoVel="4" HiVel="5" RRGroup="1"
+  <sample Root="50" LoKey="50" HiKey="51" LoVel="4" HiVel="5" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_D5_rr1.wav"
           Duplicate="1"/>
-  <sample Root="86" LoKey="86" HiKey="87" LoVel="6" HiVel="7" RRGroup="1"
+  <sample Root="50" LoKey="50" HiKey="51" LoVel="6" HiVel="7" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_D5_rr2.wav"
           Duplicate="1"/>
-  <sample Root="76" LoKey="76" HiKey="76" LoVel="4" HiVel="5" RRGroup="1"
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="4" HiVel="5" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_E4_rr1.wav"
           Duplicate="1"/>
-  <sample Root="76" LoKey="76" HiKey="76" LoVel="6" HiVel="7" RRGroup="1"
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="6" HiVel="7" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_E4_rr2.wav"
           Duplicate="1"/>
-  <sample Root="88" LoKey="88" HiKey="88" LoVel="4" HiVel="5" RRGroup="1"
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="4" HiVel="5" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_E5_rr1.wav"
           Duplicate="1"/>
-  <sample Root="88" LoKey="88" HiKey="88" LoVel="6" HiVel="7" RRGroup="1"
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="6" HiVel="7" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_E5_rr2.wav"
           Duplicate="1"/>
-  <sample Root="77" LoKey="77" HiKey="78" LoVel="4" HiVel="5" RRGroup="1"
+  <sample Root="41" LoKey="41" HiKey="42" LoVel="4" HiVel="5" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_F4_rr1.wav"
           Duplicate="1"/>
-  <sample Root="77" LoKey="77" HiKey="78" LoVel="6" HiVel="7" RRGroup="1"
+  <sample Root="41" LoKey="41" HiKey="42" LoVel="6" HiVel="7" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_F4_rr2.wav"
           Duplicate="1"/>
-  <sample Root="89" LoKey="89" HiKey="90" LoVel="4" HiVel="5" RRGroup="1"
+  <sample Root="53" LoKey="53" HiKey="54" LoVel="4" HiVel="5" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_F5_rr1.wav"
           Duplicate="1"/>
-  <sample Root="89" LoKey="89" HiKey="90" LoVel="6" HiVel="7" RRGroup="1"
+  <sample Root="53" LoKey="53" HiKey="54" LoVel="6" HiVel="7" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_F5_rr2.wav"
           Duplicate="1"/>
-  <sample Root="79" LoKey="79" HiKey="80" LoVel="4" HiVel="5" RRGroup="1"
+  <sample Root="43" LoKey="43" HiKey="44" LoVel="4" HiVel="5" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_G4_rr1.wav"
           Duplicate="1"/>
-  <sample Root="79" LoKey="79" HiKey="80" LoVel="6" HiVel="7" RRGroup="1"
+  <sample Root="43" LoKey="43" HiKey="44" LoVel="6" HiVel="7" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_G4_rr2.wav"
           Duplicate="1"/>
-  <sample Root="91" LoKey="91" HiKey="92" LoVel="4" HiVel="5" RRGroup="1"
+  <sample Root="55" LoKey="55" HiKey="56" LoVel="4" HiVel="5" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_G5_rr1.wav"
           Duplicate="1"/>
-  <sample Root="91" LoKey="91" HiKey="92" LoVel="6" HiVel="7" RRGroup="1"
+  <sample Root="55" LoKey="55" HiKey="56" LoVel="6" HiVel="7" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_G5_rr2.wav"
           Duplicate="1"/>
-  <sample Root="48" LoKey="47" HiKey="48" LoVel="6" HiVel="7" RRGroup="1"
+  <sample Root="65" LoKey="64" HiKey="66" LoVel="6" HiVel="7" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Runs/Salamuri_Runs_rr2.wav"
           Duplicate="1"/>
-  <sample Root="49" LoKey="49" HiKey="50" LoVel="6" HiVel="7" RRGroup="1"
+  <sample Root="68" LoKey="67" HiKey="69" LoVel="6" HiVel="7" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Runs/Salamuri_Runs_rr5.wav"
           Duplicate="1"/>
 </samplemap>

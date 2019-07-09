@@ -1,88 +1,88 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <samplemap ID="" RRGroupAmount="1" MicPositions=";">
-  <sample Root="69" LoKey="69" HiKey="72" LoVel="0" HiVel="1" RRGroup="1"
+  <sample Root="45" LoKey="45" HiKey="48" LoVel="0" HiVel="1" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Trills/Trills Take 1/Duduk_Trills_A_A3_rr1.wav"
           Duplicate="0" SampleStart="0" SampleEnd="24226"/>
-  <sample Root="69" LoKey="69" HiKey="72" LoVel="2" HiVel="3" RRGroup="1"
+  <sample Root="45" LoKey="45" HiKey="48" LoVel="2" HiVel="3" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Trills/Trills Take 1/Duduk_Trills_A_A3_rr2.wav"
           Duplicate="0" SampleStart="0" SampleEnd="22012"/>
-  <sample Root="59" LoKey="57" HiKey="59" LoVel="0" HiVel="1" RRGroup="1"
+  <sample Root="35" LoKey="33" HiKey="35" LoVel="0" HiVel="1" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Trills/Trills Take 1/Duduk_Trills_A_B2_rr1.wav"
           Duplicate="0" SampleStart="0" SampleEnd="24688"/>
-  <sample Root="59" LoKey="57" HiKey="59" LoVel="2" HiVel="3" RRGroup="1"
+  <sample Root="35" LoKey="33" HiKey="35" LoVel="2" HiVel="3" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Trills/Trills Take 1/Duduk_Trills_A_B2_rr2.wav"
           Duplicate="0" SampleStart="0" SampleEnd="24894"/>
-  <sample Root="60" LoKey="60" HiKey="61" LoVel="0" HiVel="1" RRGroup="1"
+  <sample Root="36" LoKey="36" HiKey="37" LoVel="0" HiVel="1" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Trills/Trills Take 1/Duduk_Trills_A_C3_rr1.wav"
           Duplicate="0" SampleStart="0" SampleEnd="27573"/>
-  <sample Root="60" LoKey="60" HiKey="61" LoVel="2" HiVel="3" RRGroup="1"
+  <sample Root="36" LoKey="36" HiKey="37" LoVel="2" HiVel="3" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Trills/Trills Take 1/Duduk_Trills_A_C3_rr2.wav"
           Duplicate="0" SampleStart="0" SampleEnd="27167"/>
-  <sample Root="62" LoKey="62" HiKey="63" LoVel="0" HiVel="1" RRGroup="1"
+  <sample Root="38" LoKey="38" HiKey="39" LoVel="0" HiVel="1" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Trills/Trills Take 1/Duduk_Trills_A_D3_rr1.wav"
           Duplicate="0" SampleStart="0" SampleEnd="30197"/>
-  <sample Root="62" LoKey="62" HiKey="63" LoVel="2" HiVel="3" RRGroup="1"
+  <sample Root="38" LoKey="38" HiKey="39" LoVel="2" HiVel="3" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Trills/Trills Take 1/Duduk_Trills_A_D3_rr2.wav"
           Duplicate="0" SampleStart="0" SampleEnd="27928"/>
-  <sample Root="64" LoKey="64" HiKey="64" LoVel="0" HiVel="1" RRGroup="1"
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="0" HiVel="1" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Trills/Trills Take 1/Duduk_Trills_A_E3_rr1.wav"
           Duplicate="0" SampleStart="0" SampleEnd="37510"/>
-  <sample Root="64" LoKey="64" HiKey="64" LoVel="2" HiVel="3" RRGroup="1"
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="2" HiVel="3" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Trills/Trills Take 1/Duduk_Trills_A_E3_rr2.wav"
           Duplicate="0" SampleStart="0" SampleEnd="29115"/>
-  <sample Root="65" LoKey="65" HiKey="66" LoVel="0" HiVel="1" RRGroup="1"
+  <sample Root="41" LoKey="41" HiKey="42" LoVel="0" HiVel="1" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Trills/Trills Take 1/Duduk_Trills_A_F3_rr1.wav"
           Duplicate="0" SampleStart="0" SampleEnd="26563"/>
-  <sample Root="65" LoKey="65" HiKey="66" LoVel="2" HiVel="3" RRGroup="1"
+  <sample Root="41" LoKey="41" HiKey="42" LoVel="2" HiVel="3" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Trills/Trills Take 1/Duduk_Trills_A_F3_rr2.wav"
           Duplicate="0" SampleStart="0" SampleEnd="28794"/>
-  <sample Root="67" LoKey="67" HiKey="68" LoVel="0" HiVel="1" RRGroup="1"
+  <sample Root="43" LoKey="43" HiKey="44" LoVel="0" HiVel="1" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Trills/Trills Take 1/Duduk_Trills_A_G3_rr1.wav"
           Duplicate="0" SampleStart="0" SampleEnd="21819"/>
-  <sample Root="67" LoKey="67" HiKey="68" LoVel="2" HiVel="3" RRGroup="1"
+  <sample Root="43" LoKey="43" HiKey="44" LoVel="2" HiVel="3" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Trills/Trills Take 1/Duduk_Trills_A_G3_rr2.wav"
           Duplicate="0" SampleStart="0" SampleEnd="28539"/>
-  <sample Root="69" LoKey="69" HiKey="72" LoVel="4" HiVel="5" RRGroup="1"
+  <sample Root="45" LoKey="45" HiKey="48" LoVel="4" HiVel="5" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Trills/Trills Take 1/Duduk_Trills_A_A3_rr1.wav"
           Duplicate="1" SampleStart="0" SampleEnd="24226"/>
-  <sample Root="69" LoKey="69" HiKey="72" LoVel="6" HiVel="7" RRGroup="1"
+  <sample Root="45" LoKey="45" HiKey="48" LoVel="6" HiVel="7" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Trills/Trills Take 1/Duduk_Trills_A_A3_rr2.wav"
           Duplicate="1" SampleStart="0" SampleEnd="22012"/>
-  <sample Root="59" LoKey="57" HiKey="59" LoVel="4" HiVel="5" RRGroup="1"
+  <sample Root="35" LoKey="33" HiKey="35" LoVel="4" HiVel="5" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Trills/Trills Take 1/Duduk_Trills_A_B2_rr1.wav"
           Duplicate="1" SampleStart="0" SampleEnd="24688"/>
-  <sample Root="59" LoKey="57" HiKey="59" LoVel="6" HiVel="7" RRGroup="1"
+  <sample Root="35" LoKey="33" HiKey="35" LoVel="6" HiVel="7" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Trills/Trills Take 1/Duduk_Trills_A_B2_rr2.wav"
           Duplicate="1" SampleStart="0" SampleEnd="24894"/>
-  <sample Root="60" LoKey="60" HiKey="61" LoVel="4" HiVel="5" RRGroup="1"
+  <sample Root="36" LoKey="36" HiKey="37" LoVel="4" HiVel="5" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Trills/Trills Take 1/Duduk_Trills_A_C3_rr1.wav"
           Duplicate="1" SampleStart="0" SampleEnd="27573"/>
-  <sample Root="60" LoKey="60" HiKey="61" LoVel="6" HiVel="7" RRGroup="1"
+  <sample Root="36" LoKey="36" HiKey="37" LoVel="6" HiVel="7" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Trills/Trills Take 1/Duduk_Trills_A_C3_rr2.wav"
           Duplicate="1" SampleStart="0" SampleEnd="27167"/>
-  <sample Root="62" LoKey="62" HiKey="63" LoVel="4" HiVel="5" RRGroup="1"
+  <sample Root="38" LoKey="38" HiKey="39" LoVel="4" HiVel="5" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Trills/Trills Take 1/Duduk_Trills_A_D3_rr1.wav"
           Duplicate="1" SampleStart="0" SampleEnd="30197"/>
-  <sample Root="62" LoKey="62" HiKey="63" LoVel="6" HiVel="7" RRGroup="1"
+  <sample Root="38" LoKey="38" HiKey="39" LoVel="6" HiVel="7" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Trills/Trills Take 1/Duduk_Trills_A_D3_rr2.wav"
           Duplicate="1" SampleStart="0" SampleEnd="27928"/>
-  <sample Root="64" LoKey="64" HiKey="64" LoVel="4" HiVel="5" RRGroup="1"
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="4" HiVel="5" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Trills/Trills Take 1/Duduk_Trills_A_E3_rr1.wav"
           Duplicate="1" SampleStart="0" SampleEnd="37510"/>
-  <sample Root="64" LoKey="64" HiKey="64" LoVel="6" HiVel="7" RRGroup="1"
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="6" HiVel="7" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Trills/Trills Take 1/Duduk_Trills_A_E3_rr2.wav"
           Duplicate="1" SampleStart="0" SampleEnd="29115"/>
-  <sample Root="65" LoKey="65" HiKey="66" LoVel="4" HiVel="5" RRGroup="1"
+  <sample Root="41" LoKey="41" HiKey="42" LoVel="4" HiVel="5" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Trills/Trills Take 1/Duduk_Trills_A_F3_rr1.wav"
           Duplicate="1" SampleStart="0" SampleEnd="26563"/>
-  <sample Root="65" LoKey="65" HiKey="66" LoVel="6" HiVel="7" RRGroup="1"
+  <sample Root="41" LoKey="41" HiKey="42" LoVel="6" HiVel="7" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Trills/Trills Take 1/Duduk_Trills_A_F3_rr2.wav"
           Duplicate="1" SampleStart="0" SampleEnd="28794"/>
-  <sample Root="67" LoKey="67" HiKey="68" LoVel="4" HiVel="5" RRGroup="1"
+  <sample Root="43" LoKey="43" HiKey="44" LoVel="4" HiVel="5" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Trills/Trills Take 1/Duduk_Trills_A_G3_rr1.wav"
           Duplicate="1" SampleStart="0" SampleEnd="21819"/>
-  <sample Root="67" LoKey="67" HiKey="68" LoVel="6" HiVel="7" RRGroup="1"
+  <sample Root="43" LoKey="43" HiKey="44" LoVel="6" HiVel="7" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Trills/Trills Take 1/Duduk_Trills_A_G3_rr2.wav"
           Duplicate="1" SampleStart="0" SampleEnd="28539"/>
 </samplemap>
