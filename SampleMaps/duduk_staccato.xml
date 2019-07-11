@@ -1,292 +1,388 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<samplemap ID="" RRGroupAmount="3" MicPositions=";">
+<samplemap ID="duduk_staccato" RRGroupAmount="3" MicPositions=";" SaveMode="2">
   <sample Root="57" LoKey="57" HiKey="58" LoVel="0" HiVel="1" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_A2_v1_rr1.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="0"
+          MonolithLength="77824"/>
   <sample Root="57" LoKey="57" HiKey="58" LoVel="2" HiVel="3" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_A2_v1_rr2.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="77824"
+          MonolithLength="77824"/>
   <sample Root="57" LoKey="57" HiKey="58" LoVel="4" HiVel="5" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_A2_v1_rr3.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="155648"
+          MonolithLength="73728"/>
   <sample Root="57" LoKey="57" HiKey="58" LoVel="6" HiVel="7" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_A2_v1_rr4.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="229376"
+          MonolithLength="77824"/>
   <sample Root="57" LoKey="57" HiKey="58" LoVel="0" HiVel="1" RRGroup="2"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_A2_v2_rr1.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="307200"
+          MonolithLength="73728"/>
   <sample Root="57" LoKey="57" HiKey="58" LoVel="2" HiVel="3" RRGroup="2"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_A2_v2_rr2.wav"
-          Duplicate="1" SampleStartMod="1547"/>
+          Duplicate="0" SampleStartMod="1547" SampleRate="48000" MonolithOffset="380928"
+          MonolithLength="73728"/>
   <sample Root="57" LoKey="57" HiKey="58" LoVel="4" HiVel="5" RRGroup="2"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_A2_v2_rr3.wav"
-          Duplicate="1" SampleStartMod="1547"/>
+          Duplicate="0" SampleStartMod="1547" SampleRate="48000" MonolithOffset="454656"
+          MonolithLength="69632"/>
   <sample Root="57" LoKey="57" HiKey="58" LoVel="6" HiVel="7" RRGroup="2"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_A2_v2_rr4.wav"
-          Duplicate="1" SampleStartMod="2143"/>
+          Duplicate="0" SampleStartMod="2143" SampleRate="48000" MonolithOffset="524288"
+          MonolithLength="69632"/>
   <sample Root="57" LoKey="57" HiKey="58" LoVel="0" HiVel="1" RRGroup="3"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_A2_v3_rr1.wav"
-          Duplicate="1" SampleStartMod="2143"/>
+          Duplicate="0" SampleStartMod="2143" SampleRate="48000" MonolithOffset="593920"
+          MonolithLength="73728"/>
   <sample Root="57" LoKey="57" HiKey="58" LoVel="2" HiVel="3" RRGroup="3"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_A2_v3_rr2.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="667648"
+          MonolithLength="77824"/>
   <sample Root="57" LoKey="57" HiKey="58" LoVel="4" HiVel="5" RRGroup="3"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_A2_v3_rr3.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="745472"
+          MonolithLength="77824"/>
   <sample Root="57" LoKey="57" HiKey="58" LoVel="6" HiVel="7" RRGroup="3"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_A2_v3_rr4.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="823296"
+          MonolithLength="65536"/>
   <sample Root="59" LoKey="59" HiKey="59" LoVel="0" HiVel="1" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_B2_v1_rr1.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="888832"
+          MonolithLength="65536"/>
   <sample Root="59" LoKey="59" HiKey="59" LoVel="2" HiVel="3" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_B2_v1_rr2.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="954368"
+          MonolithLength="61440"/>
   <sample Root="59" LoKey="59" HiKey="59" LoVel="4" HiVel="5" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_B2_v1_rr3.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="1015808"
+          MonolithLength="65536"/>
   <sample Root="59" LoKey="59" HiKey="59" LoVel="6" HiVel="7" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_B2_v1_rr4.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="1081344"
+          MonolithLength="65536"/>
   <sample Root="59" LoKey="59" HiKey="59" LoVel="0" HiVel="1" RRGroup="2"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_B2_v2_rr1.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="1146880"
+          MonolithLength="61440"/>
   <sample Root="59" LoKey="59" HiKey="59" LoVel="2" HiVel="3" RRGroup="2"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_B2_v2_rr2.wav"
-          Duplicate="1" SampleStartMod="1993"/>
+          Duplicate="0" SampleStartMod="1993" SampleRate="48000" MonolithOffset="1208320"
+          MonolithLength="65536"/>
   <sample Root="59" LoKey="59" HiKey="59" LoVel="4" HiVel="5" RRGroup="2"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_B2_v2_rr3.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="1273856"
+          MonolithLength="65536"/>
   <sample Root="59" LoKey="59" HiKey="59" LoVel="6" HiVel="7" RRGroup="2"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_B2_v2_rr4.wav"
-          Duplicate="1" SampleStartMod="1780"/>
+          Duplicate="0" SampleStartMod="1780" SampleRate="48000" MonolithOffset="1339392"
+          MonolithLength="65536"/>
   <sample Root="59" LoKey="59" HiKey="59" LoVel="0" HiVel="1" RRGroup="3"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_B2_v3_rr1.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="1404928"
+          MonolithLength="65536"/>
   <sample Root="59" LoKey="59" HiKey="59" LoVel="2" HiVel="3" RRGroup="3"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_B2_v3_rr2.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="1470464"
+          MonolithLength="69632"/>
   <sample Root="59" LoKey="59" HiKey="59" LoVel="4" HiVel="5" RRGroup="3"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_B2_v3_rr3.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="1540096"
+          MonolithLength="69632"/>
   <sample Root="59" LoKey="59" HiKey="59" LoVel="6" HiVel="7" RRGroup="3"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_B2_v3_rr4.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="1609728"
+          MonolithLength="65536"/>
   <sample Root="71" LoKey="71" HiKey="71" LoVel="0" HiVel="1" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_B3_v1_rr1.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="1675264"
+          MonolithLength="77824"/>
   <sample Root="71" LoKey="71" HiKey="71" LoVel="2" HiVel="3" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_B3_v1_rr2.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="1753088"
+          MonolithLength="77824"/>
   <sample Root="71" LoKey="71" HiKey="71" LoVel="4" HiVel="5" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_B3_v1_rr3.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="1830912"
+          MonolithLength="73728"/>
   <sample Root="71" LoKey="71" HiKey="71" LoVel="6" HiVel="7" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_B3_v1_rr4.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="1904640"
+          MonolithLength="77824"/>
   <sample Root="71" LoKey="71" HiKey="71" LoVel="0" HiVel="1" RRGroup="2"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_B3_v2_rr1.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="1982464"
+          MonolithLength="73728"/>
   <sample Root="71" LoKey="71" HiKey="71" LoVel="2" HiVel="3" RRGroup="2"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_B3_v2_rr2.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="2056192"
+          MonolithLength="69632"/>
   <sample Root="71" LoKey="71" HiKey="71" LoVel="4" HiVel="5" RRGroup="2"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_B3_v2_rr3.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="2125824"
+          MonolithLength="73728"/>
   <sample Root="71" LoKey="71" HiKey="71" LoVel="6" HiVel="7" RRGroup="2"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_B3_v2_rr4.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="2199552"
+          MonolithLength="73728"/>
   <sample Root="71" LoKey="71" HiKey="71" LoVel="0" HiVel="1" RRGroup="3"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_B3_v3_rr1.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="2273280"
+          MonolithLength="69632"/>
   <sample Root="71" LoKey="71" HiKey="71" LoVel="2" HiVel="3" RRGroup="3"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_B3_v3_rr2.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="2342912"
+          MonolithLength="69632"/>
   <sample Root="71" LoKey="71" HiKey="71" LoVel="4" HiVel="5" RRGroup="3"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_B3_v3_rr3.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="2412544"
+          MonolithLength="65536"/>
   <sample Root="71" LoKey="71" HiKey="71" LoVel="6" HiVel="7" RRGroup="3"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_B3_v3_rr4.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="2478080"
+          MonolithLength="69632"/>
   <sample Root="60" LoKey="60" HiKey="61" LoVel="0" HiVel="1" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_C3_v1_rr1.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="2547712"
+          MonolithLength="65536"/>
   <sample Root="60" LoKey="60" HiKey="61" LoVel="2" HiVel="3" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_C3_v1_rr2.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="2613248"
+          MonolithLength="65536"/>
   <sample Root="60" LoKey="60" HiKey="61" LoVel="4" HiVel="5" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_C3_v1_rr3.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="2678784"
+          MonolithLength="65536"/>
   <sample Root="60" LoKey="60" HiKey="61" LoVel="6" HiVel="7" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_C3_v1_rr4.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="2744320"
+          MonolithLength="65536"/>
   <sample Root="60" LoKey="60" HiKey="61" LoVel="0" HiVel="1" RRGroup="2"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_C3_v2_rr1.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="2809856"
+          MonolithLength="65536"/>
   <sample Root="60" LoKey="60" HiKey="61" LoVel="2" HiVel="3" RRGroup="2"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_C3_v2_rr2.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="2875392"
+          MonolithLength="65536"/>
   <sample Root="60" LoKey="60" HiKey="61" LoVel="4" HiVel="5" RRGroup="2"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_C3_v2_rr3.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="2940928"
+          MonolithLength="69632"/>
   <sample Root="60" LoKey="60" HiKey="61" LoVel="6" HiVel="7" RRGroup="2"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_C3_v2_rr4.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="3010560"
+          MonolithLength="65536"/>
   <sample Root="60" LoKey="60" HiKey="61" LoVel="0" HiVel="1" RRGroup="3"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_C3_v3_rr1.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="3076096"
+          MonolithLength="69632"/>
   <sample Root="60" LoKey="60" HiKey="61" LoVel="2" HiVel="3" RRGroup="3"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_C3_v3_rr2.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="3145728"
+          MonolithLength="69632"/>
   <sample Root="60" LoKey="60" HiKey="61" LoVel="4" HiVel="5" RRGroup="3"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_C3_v3_rr3.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="3215360"
+          MonolithLength="69632"/>
   <sample Root="60" LoKey="60" HiKey="61" LoVel="6" HiVel="7" RRGroup="3"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_C3_v3_rr4.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="3284992"
+          MonolithLength="69632"/>
   <sample Root="62" LoKey="62" HiKey="63" LoVel="0" HiVel="1" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_D3_v1_rr1.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="3354624"
+          MonolithLength="65536"/>
   <sample Root="62" LoKey="62" HiKey="63" LoVel="2" HiVel="3" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_D3_v1_rr2.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="3420160"
+          MonolithLength="69632"/>
   <sample Root="62" LoKey="62" HiKey="63" LoVel="4" HiVel="5" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_D3_v1_rr3.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="3489792"
+          MonolithLength="65536"/>
   <sample Root="62" LoKey="62" HiKey="63" LoVel="6" HiVel="7" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_D3_v1_rr4.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="3555328"
+          MonolithLength="65536"/>
   <sample Root="62" LoKey="62" HiKey="63" LoVel="0" HiVel="1" RRGroup="2"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_D3_v2_rr1.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="3620864"
+          MonolithLength="65536"/>
   <sample Root="62" LoKey="62" HiKey="63" LoVel="2" HiVel="3" RRGroup="2"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_D3_v2_rr2.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="3686400"
+          MonolithLength="69632"/>
   <sample Root="62" LoKey="62" HiKey="63" LoVel="4" HiVel="5" RRGroup="2"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_D3_v2_rr3.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="3756032"
+          MonolithLength="65536"/>
   <sample Root="62" LoKey="62" HiKey="63" LoVel="6" HiVel="7" RRGroup="2"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_D3_v2_rr4.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="3821568"
+          MonolithLength="65536"/>
   <sample Root="62" LoKey="62" HiKey="63" LoVel="0" HiVel="1" RRGroup="3"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_D3_v3_rr1.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="3887104"
+          MonolithLength="73728"/>
   <sample Root="62" LoKey="62" HiKey="63" LoVel="2" HiVel="3" RRGroup="3"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_D3_v3_rr2.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="3960832"
+          MonolithLength="69632"/>
   <sample Root="62" LoKey="62" HiKey="63" LoVel="4" HiVel="5" RRGroup="3"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_D3_v3_rr3.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="4030464"
+          MonolithLength="69632"/>
   <sample Root="62" LoKey="62" HiKey="63" LoVel="6" HiVel="7" RRGroup="3"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_D3_v3_rr4.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="4100096"
+          MonolithLength="65536"/>
   <sample Root="64" LoKey="64" HiKey="64" LoVel="0" HiVel="1" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_E3_v1_rr1.wav"
-          Duplicate="1" SampleStartMod="1377"/>
+          Duplicate="0" SampleStartMod="1377" SampleRate="48000" MonolithOffset="4165632"
+          MonolithLength="69632"/>
   <sample Root="64" LoKey="64" HiKey="64" LoVel="2" HiVel="3" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_E3_v1_rr2.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="4235264"
+          MonolithLength="73728"/>
   <sample Root="64" LoKey="64" HiKey="64" LoVel="4" HiVel="5" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_E3_v1_rr3.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="4308992"
+          MonolithLength="73728"/>
   <sample Root="64" LoKey="64" HiKey="64" LoVel="6" HiVel="7" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_E3_v1_rr4.wav"
-          Duplicate="1" SampleStartMod="1930"/>
+          Duplicate="0" SampleStartMod="1930" SampleRate="48000" MonolithOffset="4382720"
+          MonolithLength="73728"/>
   <sample Root="64" LoKey="64" HiKey="64" LoVel="0" HiVel="1" RRGroup="2"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_E3_v2_rr1.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="4456448"
+          MonolithLength="77824"/>
   <sample Root="64" LoKey="64" HiKey="64" LoVel="2" HiVel="3" RRGroup="2"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_E3_v2_rr2.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="4534272"
+          MonolithLength="81920"/>
   <sample Root="64" LoKey="64" HiKey="64" LoVel="4" HiVel="5" RRGroup="2"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_E3_v2_rr3.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="4616192"
+          MonolithLength="77824"/>
   <sample Root="64" LoKey="64" HiKey="64" LoVel="6" HiVel="7" RRGroup="2"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_E3_v2_rr4.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="4694016"
+          MonolithLength="69632"/>
   <sample Root="64" LoKey="64" HiKey="64" LoVel="0" HiVel="1" RRGroup="3"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_E3_v3_rr1.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="4763648"
+          MonolithLength="77824"/>
   <sample Root="64" LoKey="64" HiKey="64" LoVel="2" HiVel="3" RRGroup="3"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_E3_v3_rr2.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="4841472"
+          MonolithLength="65536"/>
   <sample Root="64" LoKey="64" HiKey="64" LoVel="4" HiVel="5" RRGroup="3"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_E3_v3_rr3.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="4907008"
+          MonolithLength="69632"/>
   <sample Root="64" LoKey="64" HiKey="64" LoVel="6" HiVel="7" RRGroup="3"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_E3_v3_rr4.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="4976640"
+          MonolithLength="65536"/>
   <sample Root="65" LoKey="65" HiKey="66" LoVel="0" HiVel="1" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_F3_v1_rr1.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="5042176"
+          MonolithLength="73728"/>
   <sample Root="65" LoKey="65" HiKey="66" LoVel="2" HiVel="3" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_F3_v1_rr2.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="5115904"
+          MonolithLength="73728"/>
   <sample Root="65" LoKey="65" HiKey="66" LoVel="4" HiVel="5" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_F3_v1_rr3.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="5189632"
+          MonolithLength="73728"/>
   <sample Root="65" LoKey="65" HiKey="66" LoVel="6" HiVel="7" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_F3_v1_rr4.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="5263360"
+          MonolithLength="73728"/>
   <sample Root="65" LoKey="65" HiKey="66" LoVel="0" HiVel="1" RRGroup="2"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_F3_v2_rr1.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="5337088"
+          MonolithLength="86016"/>
   <sample Root="65" LoKey="65" HiKey="66" LoVel="2" HiVel="3" RRGroup="2"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_F3_v2_rr2.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="5423104"
+          MonolithLength="77824"/>
   <sample Root="65" LoKey="65" HiKey="66" LoVel="4" HiVel="5" RRGroup="2"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_F3_v2_rr3.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="5500928"
+          MonolithLength="73728"/>
   <sample Root="65" LoKey="65" HiKey="66" LoVel="6" HiVel="7" RRGroup="2"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_F3_v2_rr4.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="5574656"
+          MonolithLength="73728"/>
   <sample Root="65" LoKey="65" HiKey="66" LoVel="0" HiVel="1" RRGroup="3"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_F3_v3_rr1.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="5648384"
+          MonolithLength="77824"/>
   <sample Root="65" LoKey="65" HiKey="66" LoVel="2" HiVel="3" RRGroup="3"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_F3_v3_rr2.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="5726208"
+          MonolithLength="69632"/>
   <sample Root="65" LoKey="65" HiKey="66" LoVel="4" HiVel="5" RRGroup="3"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_F3_v3_rr3.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="5795840"
+          MonolithLength="69632"/>
   <sample Root="65" LoKey="65" HiKey="66" LoVel="6" HiVel="7" RRGroup="3"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_F3_v3_rr4.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="5865472"
+          MonolithLength="69632"/>
   <sample Root="67" LoKey="67" HiKey="70" LoVel="0" HiVel="1" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_G3_v1_rr1.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="5935104"
+          MonolithLength="77824"/>
   <sample Root="67" LoKey="67" HiKey="70" LoVel="2" HiVel="3" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_G3_v1_rr2.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="6012928"
+          MonolithLength="73728"/>
   <sample Root="67" LoKey="67" HiKey="70" LoVel="4" HiVel="5" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_G3_v1_rr3.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="6086656"
+          MonolithLength="73728"/>
   <sample Root="67" LoKey="67" HiKey="70" LoVel="6" HiVel="7" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_G3_v1_rr4.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="6160384"
+          MonolithLength="73728"/>
   <sample Root="67" LoKey="67" HiKey="70" LoVel="0" HiVel="1" RRGroup="2"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_G3_v2_rr1.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="6234112"
+          MonolithLength="73728"/>
   <sample Root="67" LoKey="67" HiKey="70" LoVel="2" HiVel="3" RRGroup="2"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_G3_v2_rr2.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="6307840"
+          MonolithLength="73728"/>
   <sample Root="67" LoKey="67" HiKey="70" LoVel="4" HiVel="5" RRGroup="2"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_G3_v2_rr3.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="6381568"
+          MonolithLength="73728"/>
   <sample Root="67" LoKey="67" HiKey="70" LoVel="6" HiVel="7" RRGroup="2"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_G3_v2_rr4.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="6455296"
+          MonolithLength="77824"/>
   <sample Root="67" LoKey="67" HiKey="70" LoVel="0" HiVel="1" RRGroup="3"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_G3_v3_rr1.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="6533120"
+          MonolithLength="69632"/>
   <sample Root="67" LoKey="67" HiKey="70" LoVel="2" HiVel="3" RRGroup="3"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_G3_v3_rr2.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="6602752"
+          MonolithLength="69632"/>
   <sample Root="67" LoKey="67" HiKey="70" LoVel="4" HiVel="5" RRGroup="3"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_G3_v3_rr3.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="6672384"
+          MonolithLength="69632"/>
   <sample Root="67" LoKey="67" HiKey="70" LoVel="6" HiVel="7" RRGroup="3"
           FileName="{PROJECT_FOLDER}Duduk/Stacc/Duduk_Stacc_G3_v3_rr4.wav"
-          Duplicate="1" SampleStartMod="2986"/>
+          Duplicate="0" SampleStartMod="2986" SampleRate="48000" MonolithOffset="6742016"
+          MonolithLength="73728"/>
 </samplemap>
