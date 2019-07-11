@@ -7,7 +7,7 @@
     <Control type="ScriptSlider" id="knbExpression" value="127"/>
     <Control type="ScriptTable" id="tblExpression" value="0" data=""/>
     <Control type="ScriptLabel" id="lblVelDynamics" value="Velocity Control"/>
-    <Control type="ScriptButton" id="btnVelDynamics" value="1"/>
+    <Control type="ScriptButton" id="btnVelDynamics" value="0"/>
     <Control type="ScriptLabel" id="lblBreath" value="Breath Control"/>
     <Control type="ScriptButton" id="btnBreath" value="0"/>
     <Control type="ScriptSlider" id="knbDynamics" value="51.529999"/>
@@ -25,7 +25,7 @@
     <Control type="ScriptSlider" id="knbPan" value="0"/>
     <Control type="ScriptSlider" id="knbGain" value="1.4901161e-06"/>
     <Control type="ScriptPanel" id="pnlMenu" value="2"/>
-    <Control type="ScriptLabel" id="lblPreset" value="Duduk"/>
+    <Control type="ScriptLabel" id="lblPreset" value="Salamuri"/>
   </Content>
   <MidiAutomation>
     <Controller Controller="1" Processor="Interface" MacroIndex="-1" Start="0"

@@ -21,6 +21,8 @@ include("manifest.js");
 include("settings.js");
 include("preloadBar.js");
 
+Synth.deferCallbacks(true);
+
 //Fonts
 Engine.loadFontAs("{PROJECT_FOLDER}Fonts/oxygen.regular.ttf", "Oxygen-Regular");
 Engine.loadFontAs("{PROJECT_FOLDER}Fonts/oxygen.light.ttf", "Oxygen-Light");

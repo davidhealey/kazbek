@@ -7,7 +7,7 @@
     <Control type="ScriptSlider" id="knbExpression" value="127"/>
     <Control type="ScriptTable" id="tblExpression" value="0" data=""/>
     <Control type="ScriptLabel" id="lblVelDynamics" value="Velocity Control"/>
-    <Control type="ScriptButton" id="btnVelDynamics" value="1"/>
+    <Control type="ScriptButton" id="btnVelDynamics" value="0"/>
     <Control type="ScriptLabel" id="lblBreath" value="Breath Control"/>
     <Control type="ScriptButton" id="btnBreath" value="0"/>
     <Control type="ScriptSlider" id="knbDynamics" value="60.509998"/>

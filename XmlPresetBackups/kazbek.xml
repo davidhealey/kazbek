@@ -9,15 +9,15 @@
         <Processor Type="ScriptProcessor" ID="Interface" Bypassed="0">
           <ChildProcessors/>
           <Content>
-            <Control type="ScriptComboBox" id="cmbPatches" value="1"/>
+            <Control type="ScriptComboBox" id="cmbPatches" value="2"/>
             <Control type="ScriptTable" id="tblVelocity" value="0" data="24...............vO...f+....9C..nvO"/>
             <Control type="ScriptSlider" id="knbExpression" value="127"/>
             <Control type="ScriptTable" id="tblExpression" value="0" data=""/>
             <Control type="ScriptLabel" id="lblVelDynamics" value="Velocity Control"/>
-            <Control type="ScriptButton" id="btnVelDynamics" value="1"/>
+            <Control type="ScriptButton" id="btnVelDynamics" value="0"/>
             <Control type="ScriptLabel" id="lblBreath" value="Breath Control"/>
             <Control type="ScriptButton" id="btnBreath" value="0"/>
-            <Control type="ScriptSlider" id="knbDynamics" value="60.509998"/>
+            <Control type="ScriptSlider" id="knbDynamics" value="65"/>
             <Control type="ScriptTable" id="tblDynamics" value="0" data="24...............vO...f+....9C..HtO"/>
             <Control type="ScriptSlider" id="knbVibratoIntensity" value="0"/>
             <Control type="ScriptTable" id="tblVibratoIntensity" value="0" data="24...............vO...f+....9C..jwO"/>
@@ -31,8 +31,8 @@
             <Control type="ScriptSlider" id="knbFine" value="0"/>
             <Control type="ScriptSlider" id="knbPan" value="0"/>
             <Control type="ScriptSlider" id="knbGain" value="1.4901161e-06"/>
-            <Control type="ScriptPanel" id="pnlMenu" value="1"/>
-            <Control type="ScriptLabel" id="lblPreset" value="Duduk"/>
+            <Control type="ScriptPanel" id="pnlMenu" value="6"/>
+            <Control type="ScriptLabel" id="lblPreset" value="Salamuri"/>
           </Content>
           <UIData Source="kazbekUIData"/>
         </Processor>
@@ -54,8 +54,8 @@
         <Processor Type="ScriptProcessor" ID="velocityShaper" Bypassed="0">
           <ChildProcessors/>
           <Content>
-            <Control type="ScriptButton" id="btnDynamics" value="1"/>
-            <Control type="ScriptTable" id="tblVel" value="29" data="24...............vO...f+....9C..nvO"/>
+            <Control type="ScriptButton" id="btnDynamics" value="0"/>
+            <Control type="ScriptTable" id="tblVel" value="33" data="24...............vO...f+....9C..nvO"/>
           </Content>
           <UIData>
             <ContentProperties DeviceType="Desktop">
@@ -115,7 +115,7 @@
             </Processor>
             <Processor Type="MidiController" ID="dynamicsCC" Bypassed="0" Intensity="1"
                        UseTable="1" Inverted="0" ControllerNumber="94" SmoothTime="1000"
-                       DefaultValue="60.509998" ControllerTableData="24...............vO...f+....9C..HtO">
+                       DefaultValue="65" ControllerTableData="24...............vO...f+....9C..HtO">
               <ChildProcessors/>
             </Processor>
             <Processor Type="LFO" ID="vibratoLFO" Bypassed="0" Intensity="1" Frequency="6"
@@ -171,7 +171,7 @@
       </ChildProcessors>
       <RoutingMatrix NumSourceChannels="2" Channel0="0" Send0="-1" Channel1="1" Send1="-1"/>
     </Processor>
-    <Processor Type="SynthChain" ID="main" Bypassed="0" Gain="0.242661" Balance="0"
+    <Processor Type="SynthChain" ID="main" Bypassed="0" Gain="0.25118864" Balance="0"
                VoiceLimit="256" KillFadeTime="20" IconColour="0">
       <ChildProcessors>
         <Processor Type="MidiProcessorChain" ID="Midi Processor" Bypassed="0">
@@ -179,8 +179,8 @@
             <Processor Type="ScriptProcessor" ID="playableRange" Bypassed="0" Script="{EXTERNAL_SCRIPT}{PROJECT_FOLDER}HISE-Scripting-Framework/modules/limitPlayableRange.js">
               <ChildProcessors/>
               <Content>
-                <Control type="ScriptSlider" id="knbLow" value="57"/>
-                <Control type="ScriptSlider" id="knbHigh" value="72"/>
+                <Control type="ScriptSlider" id="knbLow" value="71"/>
+                <Control type="ScriptSlider" id="knbHigh" value="98"/>
               </Content>
               <UIData>
                 <ContentProperties DeviceType="Desktop">
@@ -216,7 +216,7 @@
                    Group1Table="60...............vOl3Te9....7C..3rO....+....9C..HyOEm5O+....7C..3rO...f+........jwO"
                    Group2Table="48...............vO2wJ.+.........vOIN0O+....7C..3rO...f+....9C..LxO"
                    Group3Table="" Group4Table="" Group5Table="" Group6Table="" Group7Table=""
-                   SampleMapID="duduk_sustain">
+                   SampleMapID="salamuri_sustain">
           <ChildProcessors>
             <Processor Type="MidiProcessorChain" ID="Midi Processor" Bypassed="0">
               <ChildProcessors>
@@ -227,14 +227,14 @@
                     <ContentProperties DeviceType="Desktop"/>
                   </UIData>
                 </Processor>
-                <Processor Type="ScriptProcessor" ID="legato" Bypassed="1" Script="{EXTERNAL_SCRIPT}{PROJECT_FOLDER}HISE-Scripting-Framework/modules/legato.js">
+                <Processor Type="ScriptProcessor" ID="legato" Bypassed="0" Script="{EXTERNAL_SCRIPT}{PROJECT_FOLDER}HISE-Scripting-Framework/modules/legato.js">
                   <ChildProcessors/>
                   <Content>
                     <Control type="ScriptButton" id="btnMute" value="0"/>
                     <Control type="ScriptSlider" id="knbOffset" value="20"/>
                     <Control type="ScriptButton" id="btnRetrigger" value="0"/>
                     <Control type="ScriptSlider" id="knbFadeMin" value="20"/>
-                    <Control type="ScriptSlider" id="knbFadeMax" value="63"/>
+                    <Control type="ScriptSlider" id="knbFadeMax" value="65"/>
                     <Control type="ScriptSlider" id="knbFadeIntensity" value="100"/>
                     <Control type="ScriptSlider" id="knbBendMin" value="10"/>
                     <Control type="ScriptSlider" id="knbBendMax" value="30"/>
@@ -244,7 +244,7 @@
                     <Control type="ScriptButton" id="btnWholeStep" value="0"/>
                     <Control type="ScriptSlider" id="knbMaxGlide" value="0"/>
                     <Control type="ScriptButton" id="btnBc" value="0"/>
-                    <Control type="ScriptSlider" id="knbBreath" value="60.509998"/>
+                    <Control type="ScriptSlider" id="knbBreath" value="65"/>
                     <Control type="ScriptSlider" id="knbThreshold" value="10"/>
                     <Control type="ScriptButton" id="btnBreathVel" value="0"/>
                   </Content>
@@ -289,9 +289,9 @@
                   <ChildProcessors/>
                   <Content>
                     <Control type="ScriptSlider" id="knbRRs" value="2"/>
-                    <Control type="ScriptSlider" id="knbOffset" value="17"/>
-                    <Control type="ScriptSlider" id="knbLow" value="57"/>
-                    <Control type="ScriptSlider" id="knbHigh" value="72"/>
+                    <Control type="ScriptSlider" id="knbOffset" value="-33"/>
+                    <Control type="ScriptSlider" id="knbLow" value="71"/>
+                    <Control type="ScriptSlider" id="knbHigh" value="98"/>
                   </Content>
                   <UIData>
                     <ContentProperties DeviceType="Desktop">
@@ -402,15 +402,15 @@
             <channelData enabled="1" level="0" suffix=""/>
           </channels>
         </Processor>
-        <Processor Type="StreamingSampler" ID="transitions" Bypassed="0" Gain="1"
+        <Processor Type="StreamingSampler" ID="transitions" Bypassed="0" Gain="0.50118721"
                    Balance="0" VoiceLimit="256" KillFadeTime="20" IconColour="0"
                    PreloadSize="4096" BufferSize="2048" VoiceAmount="256" SamplerRepeatMode="3"
-                   RRGroupAmount="3" PitchTracking="1" OneShot="0" CrossfadeGroups="1"
+                   RRGroupAmount="1" PitchTracking="1" OneShot="0" CrossfadeGroups="1"
                    Purged="0" Reversed="0" NumChannels="1" UseStaticMatrix="0" Group0Table="36..........9C...vO2wJ.+.........vO...f+.........vO"
                    Group1Table="36...............vOSbp+9....9C...vO...f+.........vO"
                    Group2Table="36...............vO6XE.+.........vO...f+....9C...vO"
                    Group3Table="" Group4Table="" Group5Table="" Group6Table="" Group7Table=""
-                   SampleMapID="duduk_staccato">
+                   SampleMapID="salamuri_staccato">
           <ChildProcessors>
             <Processor Type="MidiProcessorChain" ID="Midi Processor" Bypassed="0">
               <ChildProcessors>
@@ -497,13 +497,13 @@
         </Processor>
         <Processor Type="StreamingSampler" ID="staccato" Bypassed="0" Gain="1" Balance="0"
                    VoiceLimit="256" KillFadeTime="100" IconColour="0" PreloadSize="4096"
-                   BufferSize="2048" VoiceAmount="256" SamplerRepeatMode="3" RRGroupAmount="3"
+                   BufferSize="2048" VoiceAmount="256" SamplerRepeatMode="3" RRGroupAmount="1"
                    PitchTracking="1" OneShot="0" CrossfadeGroups="1" Purged="0"
                    Reversed="0" NumChannels="1" UseStaticMatrix="0" Group0Table="36..........9C...vOxJP.+.........vO...f+.........vO"
                    Group1Table="36...............vOxJP.+....9C...vO...f+.........vO"
                    Group2Table="36...............vOxJP.+.........vO...f+....9C...vO"
                    Group3Table="" Group4Table="" Group5Table="" Group6Table="" Group7Table=""
-                   SampleMapID="duduk_staccato">
+                   SampleMapID="salamuri_staccato">
           <ChildProcessors>
             <Processor Type="MidiProcessorChain" ID="Midi Processor" Bypassed="0">
               <ChildProcessors>
@@ -620,7 +620,7 @@
                    RRGroupAmount="1" PitchTracking="1" OneShot="0" CrossfadeGroups="0"
                    Purged="0" Reversed="0" NumChannels="1" UseStaticMatrix="0" Group0Table=""
                    Group1Table="" Group2Table="" Group3Table="" Group4Table="" Group5Table=""
-                   Group6Table="" Group7Table="" SampleMapID="duduk_ornaments">
+                   Group6Table="" Group7Table="" SampleMapID="salamuri_ornaments">
           <ChildProcessors>
             <Processor Type="MidiProcessorChain" ID="Midi Processor" Bypassed="0">
               <ChildProcessors>
