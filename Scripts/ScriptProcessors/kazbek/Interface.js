@@ -70,7 +70,7 @@ const var pnlMenu = Content.getComponent("pnlMenu");
 const var menuLabels = ["VELOCITY", "EXPRESSION", "DYNAMICS", "VIBRATO INTENSITY", "VIBRATO RATE", "LEGATO", "SETTINGS"];
 pnlMenu.data.itemHeight = 25;
 pnlMenu.data.numRows = menuLabels.length;
-pnlMenu.data.verticalOffset = 20;
+pnlMenu.data.verticalOffset = 15;
 
 //Add pages to array
 const var pages = [];
