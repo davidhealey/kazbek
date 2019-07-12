@@ -34,8 +34,6 @@ const var playableRange = Synth.getMidiProcessor("playableRange");
 const var sustainRoundRobin = Synth.getMidiProcessor("sustainRoundRobin");
 
 //Modulators
-const var vibratoIntensity = Synth.getModulator("vibratoIntensity");
-const var randIntensity = Synth.getModulator("randIntensity");
 const var dynamicsCC = Synth.getModulator("dynamicsCC");
 
 //Get samplers as child synths
@@ -55,15 +53,6 @@ inline function onknbDynamicsControl(component, value)
 }
 
 Content.getComponent("knbDynamics").setControlCallback(onknbDynamicsControl);
-
-//Vibrato intensity
-inline function onknbVibratoIntensityControl(component, value)
-{
-	vibratoIntensity.setAttribute(vibratoIntensity.DefaultValue, value);
-	randIntensity.setAttribute(randIntensity.DefaultValue, value);
-};
-
-Content.getComponent("knbVibratoIntensity").setControlCallback(onknbVibratoIntensityControl);
 
 //Menu and pages
 const var pnlMenu = Content.getComponent("pnlMenu");

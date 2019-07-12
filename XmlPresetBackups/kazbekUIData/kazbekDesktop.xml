@@ -57,12 +57,13 @@
   </Component>
   <Component type="ScriptPanel" id="page3" x="200" y="50" bgColour="0" itemColour="0"
              itemColour2="0" textColour="0" width="400" height="356" borderSize="0"
-             borderRadius="0" visible="0">
+             borderRadius="0">
     <Component type="ScriptSlider" id="knbVibratoIntensity" x="320" y="98" text="Vibrato Intensity"
                max="127" stepSize="1" middlePosition="64" isPluginParameter="1"
                pluginParameterName="Vibrato Intensity" parentComponent="page3"
                style="Vertical" width="8" height="150" showValuePopup="Right"
-               textColour="0" itemColour2="0" bgColour="4283653484" itemColour="4287864236"/>
+               textColour="0" itemColour2="0" bgColour="4283653484" itemColour="4287864236"
+               processorId="vibratoIntensity" parameterId="DefaultValue"/>
     <Component type="ScriptTable" id="tblVibratoIntensity" x="100" y="98" width="200"
                height="150" customColours="1" processorId="vibratoIntensity"
                parentComponent="page3" bgColour="0" itemColour="1406979533"
@@ -70,7 +71,7 @@
   </Component>
   <Component type="ScriptPanel" id="page4" x="200" y="50" bgColour="0" itemColour="0"
              itemColour2="0" textColour="0" width="400" height="356" borderSize="0"
-             borderRadius="0">
+             borderRadius="0" visible="0">
     <Component type="ScriptSlider" id="knbVibratoRate" x="320" y="98" text="Vibrato Rate"
                max="127" stepSize="1" middlePosition="64" defaultValue="90"
                processorId="vibratoRate" parameterId="DefaultValue" isPluginParameter="1"
