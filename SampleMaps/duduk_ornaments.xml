@@ -40,7 +40,7 @@
   <sample Root="40" LoKey="40" HiKey="40" LoVel="2" HiVel="3" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Trills/Trills Take 1/Duduk_Trills_A_E3_rr2.wav"
           Duplicate="0" SampleStart="0" SampleEnd="29115" SampleRate="48000"
-          MonolithOffset="679936" MonolithLength="73728"/>
+          MonolithOffset="679936" MonolithLength="73728" Pitch="30"/>
   <sample Root="41" LoKey="41" HiKey="42" LoVel="0" HiVel="1" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Trills/Trills Take 1/Duduk_Trills_A_F3_rr1.wav"
           Duplicate="0" SampleStart="0" SampleEnd="26563" SampleRate="48000"
@@ -56,61 +56,61 @@
   <sample Root="43" LoKey="43" HiKey="44" LoVel="2" HiVel="3" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Trills/Trills Take 1/Duduk_Trills_A_G3_rr2.wav"
           Duplicate="0" SampleStart="0" SampleEnd="28539" SampleRate="48000"
-          MonolithOffset="970752" MonolithLength="77824"/>
+          MonolithOffset="970752" MonolithLength="77824" Pitch="0"/>
   <sample Root="45" LoKey="45" HiKey="48" LoVel="4" HiVel="5" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Trills/Trills Take 1/Duduk_Trills_A_A3_rr1.wav"
-          Duplicate="0" SampleStart="0" SampleEnd="24226" SampleRate="48000"
+          Duplicate="1" SampleStart="0" SampleEnd="24226" SampleRate="48000"
           MonolithOffset="1048576" MonolithLength="73728"/>
   <sample Root="45" LoKey="45" HiKey="48" LoVel="6" HiVel="7" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Trills/Trills Take 1/Duduk_Trills_A_A3_rr2.wav"
-          Duplicate="0" SampleStart="0" SampleEnd="22012" SampleRate="48000"
+          Duplicate="1" SampleStart="0" SampleEnd="22012" SampleRate="48000"
           MonolithOffset="1122304" MonolithLength="69632"/>
   <sample Root="35" LoKey="33" HiKey="35" LoVel="4" HiVel="5" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Trills/Trills Take 1/Duduk_Trills_A_B2_rr1.wav"
-          Duplicate="0" SampleStart="0" SampleEnd="24688" SampleRate="48000"
+          Duplicate="1" SampleStart="0" SampleEnd="24688" SampleRate="48000"
           MonolithOffset="1191936" MonolithLength="73728"/>
   <sample Root="35" LoKey="33" HiKey="35" LoVel="6" HiVel="7" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Trills/Trills Take 1/Duduk_Trills_A_B2_rr2.wav"
-          Duplicate="0" SampleStart="0" SampleEnd="24894" SampleRate="48000"
+          Duplicate="1" SampleStart="0" SampleEnd="24894" SampleRate="48000"
           MonolithOffset="1265664" MonolithLength="73728"/>
   <sample Root="36" LoKey="36" HiKey="37" LoVel="4" HiVel="5" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Trills/Trills Take 1/Duduk_Trills_A_C3_rr1.wav"
-          Duplicate="0" SampleStart="0" SampleEnd="27573" SampleRate="48000"
+          Duplicate="1" SampleStart="0" SampleEnd="27573" SampleRate="48000"
           MonolithOffset="1339392" MonolithLength="77824"/>
   <sample Root="36" LoKey="36" HiKey="37" LoVel="6" HiVel="7" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Trills/Trills Take 1/Duduk_Trills_A_C3_rr2.wav"
-          Duplicate="0" SampleStart="0" SampleEnd="27167" SampleRate="48000"
+          Duplicate="1" SampleStart="0" SampleEnd="27167" SampleRate="48000"
           MonolithOffset="1417216" MonolithLength="77824"/>
   <sample Root="38" LoKey="38" HiKey="39" LoVel="4" HiVel="5" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Trills/Trills Take 1/Duduk_Trills_A_D3_rr1.wav"
-          Duplicate="0" SampleStart="0" SampleEnd="30197" SampleRate="48000"
+          Duplicate="1" SampleStart="0" SampleEnd="30197" SampleRate="48000"
           MonolithOffset="1495040" MonolithLength="77824"/>
   <sample Root="38" LoKey="38" HiKey="39" LoVel="6" HiVel="7" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Trills/Trills Take 1/Duduk_Trills_A_D3_rr2.wav"
-          Duplicate="0" SampleStart="0" SampleEnd="27928" SampleRate="48000"
+          Duplicate="1" SampleStart="0" SampleEnd="27928" SampleRate="48000"
           MonolithOffset="1572864" MonolithLength="77824"/>
   <sample Root="40" LoKey="40" HiKey="40" LoVel="4" HiVel="5" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Trills/Trills Take 1/Duduk_Trills_A_E3_rr1.wav"
-          Duplicate="0" SampleStart="0" SampleEnd="37510" SampleRate="48000"
+          Duplicate="1" SampleStart="0" SampleEnd="37510" SampleRate="48000"
           MonolithOffset="1650688" MonolithLength="77824"/>
   <sample Root="40" LoKey="40" HiKey="40" LoVel="6" HiVel="7" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Trills/Trills Take 1/Duduk_Trills_A_E3_rr2.wav"
-          Duplicate="0" SampleStart="0" SampleEnd="29115" SampleRate="48000"
-          MonolithOffset="1728512" MonolithLength="73728"/>
+          Duplicate="1" SampleStart="0" SampleEnd="29115" SampleRate="48000"
+          MonolithOffset="1728512" MonolithLength="73728" Pitch="30"/>
   <sample Root="41" LoKey="41" HiKey="42" LoVel="4" HiVel="5" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Trills/Trills Take 1/Duduk_Trills_A_F3_rr1.wav"
-          Duplicate="0" SampleStart="0" SampleEnd="26563" SampleRate="48000"
+          Duplicate="1" SampleStart="0" SampleEnd="26563" SampleRate="48000"
           MonolithOffset="1802240" MonolithLength="73728"/>
   <sample Root="41" LoKey="41" HiKey="42" LoVel="6" HiVel="7" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Trills/Trills Take 1/Duduk_Trills_A_F3_rr2.wav"
-          Duplicate="0" SampleStart="0" SampleEnd="28794" SampleRate="48000"
+          Duplicate="1" SampleStart="0" SampleEnd="28794" SampleRate="48000"
           MonolithOffset="1875968" MonolithLength="73728"/>
   <sample Root="43" LoKey="43" HiKey="44" LoVel="4" HiVel="5" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Trills/Trills Take 1/Duduk_Trills_A_G3_rr1.wav"
-          Duplicate="0" SampleStart="0" SampleEnd="21819" SampleRate="48000"
+          Duplicate="1" SampleStart="0" SampleEnd="21819" SampleRate="48000"
           MonolithOffset="1949696" MonolithLength="69632"/>
   <sample Root="43" LoKey="43" HiKey="44" LoVel="6" HiVel="7" RRGroup="1"
           FileName="{PROJECT_FOLDER}Duduk/Trills/Trills Take 1/Duduk_Trills_A_G3_rr2.wav"
-          Duplicate="0" SampleStart="0" SampleEnd="28539" SampleRate="48000"
-          MonolithOffset="2019328" MonolithLength="77824"/>
+          Duplicate="1" SampleStart="0" SampleEnd="28539" SampleRate="48000"
+          MonolithOffset="2019328" MonolithLength="77824" Pitch="0"/>
 </samplemap>

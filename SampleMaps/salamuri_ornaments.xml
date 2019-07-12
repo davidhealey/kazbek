@@ -1,256 +1,256 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <samplemap ID="salamuri_ornaments" RRGroupAmount="1" MicPositions=";" SaveMode="2">
-  <sample Root="45" LoKey="45" HiKey="46" LoVel="0" HiVel="1" RRGroup="1"
+  <sample Root="45" LoKey="45" HiKey="45" LoVel="0" HiVel="1" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_A4_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="0" MonolithLength="118784"/>
-  <sample Root="45" LoKey="45" HiKey="46" LoVel="2" HiVel="3" RRGroup="1"
+          Duplicate="1" SampleRate="48000" MonolithOffset="0" MonolithLength="118784"/>
+  <sample Root="45" LoKey="45" HiKey="45" LoVel="2" HiVel="3" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_A4_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="118784" MonolithLength="122880"/>
+          Duplicate="1" SampleRate="48000" MonolithOffset="118784" MonolithLength="122880"/>
   <sample Root="57" LoKey="57" HiKey="58" LoVel="0" HiVel="1" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_A5_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="241664" MonolithLength="122880"/>
+          Duplicate="1" SampleRate="48000" MonolithOffset="241664" MonolithLength="122880"/>
   <sample Root="57" LoKey="57" HiKey="58" LoVel="2" HiVel="3" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_A5_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="364544" MonolithLength="126976"/>
-  <sample Root="47" LoKey="47" HiKey="47" LoVel="0" HiVel="1" RRGroup="1"
+          Duplicate="1" SampleRate="48000" MonolithOffset="364544" MonolithLength="126976"/>
+  <sample Root="46" LoKey="46" HiKey="47" LoVel="0" HiVel="1" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_B4_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="491520" MonolithLength="118784"/>
-  <sample Root="47" LoKey="47" HiKey="47" LoVel="2" HiVel="3" RRGroup="1"
+          Duplicate="1" SampleRate="48000" MonolithOffset="491520" MonolithLength="118784"/>
+  <sample Root="46" LoKey="46" HiKey="47" LoVel="2" HiVel="3" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_B4_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="610304" MonolithLength="122880"/>
+          Duplicate="1" SampleRate="48000" MonolithOffset="610304" MonolithLength="122880"/>
   <sample Root="59" LoKey="59" HiKey="59" LoVel="0" HiVel="1" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_B5_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="733184" MonolithLength="118784"/>
+          Duplicate="1" SampleRate="48000" MonolithOffset="733184" MonolithLength="118784"/>
   <sample Root="59" LoKey="59" HiKey="59" LoVel="2" HiVel="3" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_B5_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="851968" MonolithLength="122880"/>
-  <sample Root="36" LoKey="35" HiKey="37" LoVel="0" HiVel="1" RRGroup="1"
+          Duplicate="1" SampleRate="48000" MonolithOffset="851968" MonolithLength="122880"/>
+  <sample Root="36" LoKey="35" HiKey="36" LoVel="0" HiVel="1" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_C4_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="974848" MonolithLength="126976"/>
-  <sample Root="36" LoKey="35" HiKey="37" LoVel="2" HiVel="3" RRGroup="1"
+          Duplicate="1" SampleRate="48000" MonolithOffset="974848" MonolithLength="126976"/>
+  <sample Root="36" LoKey="35" HiKey="36" LoVel="2" HiVel="3" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_C4_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="1101824" MonolithLength="122880"/>
+          Duplicate="1" SampleRate="48000" MonolithOffset="1101824" MonolithLength="122880"/>
   <sample Root="48" LoKey="48" HiKey="49" LoVel="0" HiVel="1" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_C5_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="1224704" MonolithLength="122880"/>
+          Duplicate="1" SampleRate="48000" MonolithOffset="1224704" MonolithLength="122880"/>
   <sample Root="48" LoKey="48" HiKey="49" LoVel="2" HiVel="3" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_C5_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="1347584" MonolithLength="118784"/>
+          Duplicate="1" SampleRate="48000" MonolithOffset="1347584" MonolithLength="118784"/>
   <sample Root="60" LoKey="60" HiKey="62" LoVel="0" HiVel="1" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_C6_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="1466368" MonolithLength="118784"/>
+          Duplicate="1" SampleRate="48000" MonolithOffset="1466368" MonolithLength="118784"/>
   <sample Root="60" LoKey="60" HiKey="62" LoVel="2" HiVel="3" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_C6_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="1585152" MonolithLength="122880"/>
-  <sample Root="38" LoKey="38" HiKey="39" LoVel="0" HiVel="1" RRGroup="1"
+          Duplicate="1" SampleRate="48000" MonolithOffset="1585152" MonolithLength="122880"/>
+  <sample Root="38" LoKey="37" HiKey="38" LoVel="0" HiVel="1" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_D4_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="1708032" MonolithLength="131072"/>
-  <sample Root="38" LoKey="38" HiKey="39" LoVel="2" HiVel="3" RRGroup="1"
+          Duplicate="1" SampleRate="48000" MonolithOffset="1708032" MonolithLength="131072"/>
+  <sample Root="38" LoKey="37" HiKey="38" LoVel="2" HiVel="3" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_D4_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="1839104" MonolithLength="122880"/>
-  <sample Root="50" LoKey="50" HiKey="51" LoVel="0" HiVel="1" RRGroup="1"
+          Duplicate="1" SampleRate="48000" MonolithOffset="1839104" MonolithLength="122880"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="0" HiVel="1" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_D5_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="1961984" MonolithLength="118784"/>
-  <sample Root="50" LoKey="50" HiKey="51" LoVel="2" HiVel="3" RRGroup="1"
+          Duplicate="1" SampleRate="48000" MonolithOffset="1961984" MonolithLength="118784"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="2" HiVel="3" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_D5_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="2080768" MonolithLength="122880"/>
-  <sample Root="40" LoKey="40" HiKey="40" LoVel="0" HiVel="1" RRGroup="1"
+          Duplicate="1" SampleRate="48000" MonolithOffset="2080768" MonolithLength="122880"/>
+  <sample Root="39" LoKey="39" HiKey="40" LoVel="0" HiVel="1" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_E4_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="2203648" MonolithLength="122880"/>
-  <sample Root="40" LoKey="40" HiKey="40" LoVel="2" HiVel="3" RRGroup="1"
+          Duplicate="1" SampleRate="48000" MonolithOffset="2203648" MonolithLength="122880"/>
+  <sample Root="39" LoKey="39" HiKey="40" LoVel="2" HiVel="3" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_E4_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="2326528" MonolithLength="122880"/>
-  <sample Root="52" LoKey="52" HiKey="52" LoVel="0" HiVel="1" RRGroup="1"
+          Duplicate="1" SampleRate="48000" MonolithOffset="2326528" MonolithLength="122880"/>
+  <sample Root="51" LoKey="51" HiKey="52" LoVel="0" HiVel="1" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_E5_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="2449408" MonolithLength="118784"/>
-  <sample Root="52" LoKey="52" HiKey="52" LoVel="2" HiVel="3" RRGroup="1"
+          Duplicate="1" SampleRate="48000" MonolithOffset="2449408" MonolithLength="118784"/>
+  <sample Root="51" LoKey="51" HiKey="52" LoVel="2" HiVel="3" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_E5_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="2568192" MonolithLength="126976"/>
+          Duplicate="1" SampleRate="48000" MonolithOffset="2568192" MonolithLength="126976"/>
   <sample Root="41" LoKey="41" HiKey="42" LoVel="0" HiVel="1" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_F4_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="2695168" MonolithLength="122880"/>
+          Duplicate="1" SampleRate="48000" MonolithOffset="2695168" MonolithLength="122880"/>
   <sample Root="41" LoKey="41" HiKey="42" LoVel="2" HiVel="3" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_F4_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="2818048" MonolithLength="122880"/>
+          Duplicate="1" SampleRate="48000" MonolithOffset="2818048" MonolithLength="122880"/>
   <sample Root="53" LoKey="53" HiKey="54" LoVel="0" HiVel="1" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_F5_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="2940928" MonolithLength="122880"/>
+          Duplicate="1" SampleRate="48000" MonolithOffset="2940928" MonolithLength="122880"/>
   <sample Root="53" LoKey="53" HiKey="54" LoVel="2" HiVel="3" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_F5_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="3063808" MonolithLength="126976"/>
+          Duplicate="1" SampleRate="48000" MonolithOffset="3063808" MonolithLength="126976"/>
   <sample Root="43" LoKey="43" HiKey="44" LoVel="0" HiVel="1" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_G4_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="3190784" MonolithLength="126976"/>
+          Duplicate="1" SampleRate="48000" MonolithOffset="3190784" MonolithLength="126976"/>
   <sample Root="43" LoKey="43" HiKey="44" LoVel="2" HiVel="3" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_G4_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="3317760" MonolithLength="122880"/>
+          Duplicate="1" SampleRate="48000" MonolithOffset="3317760" MonolithLength="122880"/>
   <sample Root="55" LoKey="55" HiKey="56" LoVel="0" HiVel="1" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_G5_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="3440640" MonolithLength="126976"/>
+          Duplicate="1" SampleRate="48000" MonolithOffset="3440640" MonolithLength="126976"/>
   <sample Root="55" LoKey="55" HiKey="56" LoVel="2" HiVel="3" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_G5_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="3567616" MonolithLength="126976"/>
+          Duplicate="1" SampleRate="48000" MonolithOffset="3567616" MonolithLength="126976"/>
   <sample Root="65" LoKey="64" HiKey="66" LoVel="0" HiVel="1" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Runs/Salamuri_Runs_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="3694592" MonolithLength="28672"/>
+          Duplicate="1" SampleRate="48000" MonolithOffset="3694592" MonolithLength="28672"/>
   <sample Root="65" LoKey="64" HiKey="66" LoVel="2" HiVel="3" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Runs/Salamuri_Runs_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="3723264" MonolithLength="45056"/>
+          Duplicate="1" SampleRate="48000" MonolithOffset="3723264" MonolithLength="45056"/>
   <sample Root="65" LoKey="64" HiKey="66" LoVel="4" HiVel="5" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Runs/Salamuri_Runs_rr3.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="3768320" MonolithLength="65536"/>
+          Duplicate="1" SampleRate="48000" MonolithOffset="3768320" MonolithLength="65536"/>
   <sample Root="68" LoKey="67" HiKey="69" LoVel="0" HiVel="1" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Runs/Salamuri_Runs_rr4.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="3833856" MonolithLength="28672"/>
+          Duplicate="1" SampleRate="48000" MonolithOffset="3833856" MonolithLength="28672"/>
   <sample Root="68" LoKey="67" HiKey="69" LoVel="2" HiVel="3" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Runs/Salamuri_Runs_rr5.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="3862528" MonolithLength="49152"/>
+          Duplicate="1" SampleRate="48000" MonolithOffset="3862528" MonolithLength="49152"/>
   <sample Root="68" LoKey="67" HiKey="69" LoVel="4" HiVel="5" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Runs/Salamuri_Runs_rr6.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="3911680" MonolithLength="77824"/>
+          Duplicate="1" SampleRate="48000" MonolithOffset="3911680" MonolithLength="77824"/>
   <sample Root="33" LoKey="33" HiKey="33" LoVel="0" HiVel="1" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Rips/Salamuri_Rips_Up_High_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="3989504" MonolithLength="24576"/>
+          Duplicate="1" SampleRate="48000" MonolithOffset="3989504" MonolithLength="24576"/>
   <sample Root="33" LoKey="33" HiKey="33" LoVel="2" HiVel="3" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Rips/Salamuri_Rips_Up_High_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="4014080" MonolithLength="28672"/>
+          Duplicate="1" SampleRate="48000" MonolithOffset="4014080" MonolithLength="28672"/>
   <sample Root="33" LoKey="33" HiKey="33" LoVel="4" HiVel="5" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Rips/Salamuri_Rips_Up_High_rr3.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="4042752" MonolithLength="28672"/>
+          Duplicate="1" SampleRate="48000" MonolithOffset="4042752" MonolithLength="28672"/>
   <sample Root="33" LoKey="33" HiKey="33" LoVel="6" HiVel="7" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Rips/Salamuri_Rips_Up_High_rr4.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="4071424" MonolithLength="32768"/>
+          Duplicate="1" SampleRate="48000" MonolithOffset="4071424" MonolithLength="32768"/>
   <sample Root="32" LoKey="32" HiKey="32" LoVel="0" HiVel="1" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Rips/Salamuri_Rips_Up_Low_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="4104192" MonolithLength="24576"/>
+          Duplicate="1" SampleRate="48000" MonolithOffset="4104192" MonolithLength="24576"/>
   <sample Root="32" LoKey="32" HiKey="32" LoVel="2" HiVel="3" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Rips/Salamuri_Rips_Up_Low_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="4128768" MonolithLength="28672"/>
+          Duplicate="1" SampleRate="48000" MonolithOffset="4128768" MonolithLength="28672"/>
   <sample Root="32" LoKey="32" HiKey="32" LoVel="4" HiVel="5" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Rips/Salamuri_Rips_Up_Low_rr3.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="4157440" MonolithLength="24576"/>
+          Duplicate="1" SampleRate="48000" MonolithOffset="4157440" MonolithLength="24576"/>
   <sample Root="32" LoKey="32" HiKey="32" LoVel="6" HiVel="7" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Rips/Salamuri_Rips_Up_Low_rr4.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="4182016" MonolithLength="24576"/>
+          Duplicate="1" SampleRate="48000" MonolithOffset="4182016" MonolithLength="24576"/>
   <sample Root="31" LoKey="31" HiKey="31" LoVel="0" HiVel="1" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Rips/Salamuri_Rirps_Down_High_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="4206592" MonolithLength="32768"/>
+          Duplicate="1" SampleRate="48000" MonolithOffset="4206592" MonolithLength="32768"/>
   <sample Root="31" LoKey="31" HiKey="31" LoVel="2" HiVel="3" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Rips/Salamuri_Rirps_Down_High_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="4239360" MonolithLength="36864"/>
+          Duplicate="1" SampleRate="48000" MonolithOffset="4239360" MonolithLength="36864"/>
   <sample Root="31" LoKey="31" HiKey="31" LoVel="4" HiVel="5" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Rips/Salamuri_Rirps_Down_High_rr3.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="4276224" MonolithLength="36864"/>
+          Duplicate="1" SampleRate="48000" MonolithOffset="4276224" MonolithLength="36864"/>
   <sample Root="31" LoKey="31" HiKey="31" LoVel="6" HiVel="7" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Rips/Salamuri_Rirps_Down_High_rr4.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="4313088" MonolithLength="32768"/>
+          Duplicate="1" SampleRate="48000" MonolithOffset="4313088" MonolithLength="32768"/>
   <sample Root="30" LoKey="29" HiKey="30" LoVel="0" HiVel="1" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Rips/Salamuri_Rirps_Down_Low_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="4345856" MonolithLength="32768"/>
+          Duplicate="1" SampleRate="48000" MonolithOffset="4345856" MonolithLength="32768"/>
   <sample Root="30" LoKey="29" HiKey="30" LoVel="2" HiVel="3" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Rips/Salamuri_Rirps_Down_Low_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="4378624" MonolithLength="28672"/>
+          Duplicate="1" SampleRate="48000" MonolithOffset="4378624" MonolithLength="28672"/>
   <sample Root="30" LoKey="29" HiKey="30" LoVel="4" HiVel="5" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Rips/Salamuri_Rirps_Down_Low_rr3.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="4407296" MonolithLength="28672"/>
+          Duplicate="1" SampleRate="48000" MonolithOffset="4407296" MonolithLength="28672"/>
   <sample Root="30" LoKey="29" HiKey="30" LoVel="6" HiVel="7" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Rips/Salamuri_Rirps_Down_Low_rr4.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="4435968" MonolithLength="32768"/>
-  <sample Root="45" LoKey="45" HiKey="46" LoVel="4" HiVel="5" RRGroup="1"
+          Duplicate="1" SampleRate="48000" MonolithOffset="4435968" MonolithLength="32768"/>
+  <sample Root="45" LoKey="45" HiKey="45" LoVel="4" HiVel="5" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_A4_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="4468736" MonolithLength="118784"/>
-  <sample Root="45" LoKey="45" HiKey="46" LoVel="6" HiVel="7" RRGroup="1"
+          Duplicate="1" SampleRate="48000" MonolithOffset="4468736" MonolithLength="118784"/>
+  <sample Root="45" LoKey="45" HiKey="45" LoVel="6" HiVel="7" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_A4_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="4587520" MonolithLength="122880"/>
+          Duplicate="1" SampleRate="48000" MonolithOffset="4587520" MonolithLength="122880"/>
   <sample Root="57" LoKey="57" HiKey="58" LoVel="4" HiVel="5" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_A5_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="4710400" MonolithLength="122880"/>
+          Duplicate="1" SampleRate="48000" MonolithOffset="4710400" MonolithLength="122880"/>
   <sample Root="57" LoKey="57" HiKey="58" LoVel="6" HiVel="7" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_A5_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="4833280" MonolithLength="126976"/>
-  <sample Root="47" LoKey="47" HiKey="47" LoVel="4" HiVel="5" RRGroup="1"
+          Duplicate="1" SampleRate="48000" MonolithOffset="4833280" MonolithLength="126976"/>
+  <sample Root="46" LoKey="46" HiKey="47" LoVel="4" HiVel="5" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_B4_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="4960256" MonolithLength="118784"/>
-  <sample Root="47" LoKey="47" HiKey="47" LoVel="6" HiVel="7" RRGroup="1"
+          Duplicate="1" SampleRate="48000" MonolithOffset="4960256" MonolithLength="118784"/>
+  <sample Root="46" LoKey="46" HiKey="47" LoVel="6" HiVel="7" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_B4_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="5079040" MonolithLength="122880"/>
+          Duplicate="1" SampleRate="48000" MonolithOffset="5079040" MonolithLength="122880"/>
   <sample Root="59" LoKey="59" HiKey="59" LoVel="4" HiVel="5" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_B5_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="5201920" MonolithLength="118784"/>
+          Duplicate="1" SampleRate="48000" MonolithOffset="5201920" MonolithLength="118784"/>
   <sample Root="59" LoKey="59" HiKey="59" LoVel="6" HiVel="7" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_B5_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="5320704" MonolithLength="122880"/>
-  <sample Root="36" LoKey="35" HiKey="37" LoVel="4" HiVel="5" RRGroup="1"
+          Duplicate="1" SampleRate="48000" MonolithOffset="5320704" MonolithLength="122880"/>
+  <sample Root="36" LoKey="35" HiKey="36" LoVel="4" HiVel="5" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_C4_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="5443584" MonolithLength="126976"/>
-  <sample Root="36" LoKey="35" HiKey="37" LoVel="6" HiVel="7" RRGroup="1"
+          Duplicate="1" SampleRate="48000" MonolithOffset="5443584" MonolithLength="126976"/>
+  <sample Root="36" LoKey="35" HiKey="36" LoVel="6" HiVel="7" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_C4_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="5570560" MonolithLength="122880"/>
+          Duplicate="1" SampleRate="48000" MonolithOffset="5570560" MonolithLength="122880"/>
   <sample Root="48" LoKey="48" HiKey="49" LoVel="4" HiVel="5" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_C5_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="5693440" MonolithLength="122880"/>
+          Duplicate="1" SampleRate="48000" MonolithOffset="5693440" MonolithLength="122880"/>
   <sample Root="48" LoKey="48" HiKey="49" LoVel="6" HiVel="7" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_C5_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="5816320" MonolithLength="118784"/>
+          Duplicate="1" SampleRate="48000" MonolithOffset="5816320" MonolithLength="118784"/>
   <sample Root="60" LoKey="60" HiKey="62" LoVel="4" HiVel="5" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_C6_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="5935104" MonolithLength="118784"/>
+          Duplicate="1" SampleRate="48000" MonolithOffset="5935104" MonolithLength="118784"/>
   <sample Root="60" LoKey="60" HiKey="62" LoVel="6" HiVel="7" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_C6_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="6053888" MonolithLength="122880"/>
-  <sample Root="38" LoKey="38" HiKey="39" LoVel="4" HiVel="5" RRGroup="1"
+          Duplicate="1" SampleRate="48000" MonolithOffset="6053888" MonolithLength="122880"/>
+  <sample Root="38" LoKey="37" HiKey="38" LoVel="4" HiVel="5" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_D4_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="6176768" MonolithLength="131072"/>
-  <sample Root="38" LoKey="38" HiKey="39" LoVel="6" HiVel="7" RRGroup="1"
+          Duplicate="1" SampleRate="48000" MonolithOffset="6176768" MonolithLength="131072"/>
+  <sample Root="38" LoKey="37" HiKey="38" LoVel="6" HiVel="7" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_D4_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="6307840" MonolithLength="122880"/>
-  <sample Root="50" LoKey="50" HiKey="51" LoVel="4" HiVel="5" RRGroup="1"
+          Duplicate="1" SampleRate="48000" MonolithOffset="6307840" MonolithLength="122880"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="4" HiVel="5" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_D5_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="6430720" MonolithLength="118784"/>
-  <sample Root="50" LoKey="50" HiKey="51" LoVel="6" HiVel="7" RRGroup="1"
+          Duplicate="1" SampleRate="48000" MonolithOffset="6430720" MonolithLength="118784"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="6" HiVel="7" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_D5_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="6549504" MonolithLength="122880"/>
-  <sample Root="40" LoKey="40" HiKey="40" LoVel="4" HiVel="5" RRGroup="1"
+          Duplicate="1" SampleRate="48000" MonolithOffset="6549504" MonolithLength="122880"/>
+  <sample Root="39" LoKey="39" HiKey="40" LoVel="4" HiVel="5" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_E4_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="6672384" MonolithLength="122880"/>
-  <sample Root="40" LoKey="40" HiKey="40" LoVel="6" HiVel="7" RRGroup="1"
+          Duplicate="1" SampleRate="48000" MonolithOffset="6672384" MonolithLength="122880"/>
+  <sample Root="39" LoKey="39" HiKey="40" LoVel="6" HiVel="7" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_E4_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="6795264" MonolithLength="122880"/>
-  <sample Root="52" LoKey="52" HiKey="52" LoVel="4" HiVel="5" RRGroup="1"
+          Duplicate="1" SampleRate="48000" MonolithOffset="6795264" MonolithLength="122880"/>
+  <sample Root="51" LoKey="51" HiKey="52" LoVel="4" HiVel="5" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_E5_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="6918144" MonolithLength="118784"/>
-  <sample Root="52" LoKey="52" HiKey="52" LoVel="6" HiVel="7" RRGroup="1"
+          Duplicate="1" SampleRate="48000" MonolithOffset="6918144" MonolithLength="118784"/>
+  <sample Root="51" LoKey="51" HiKey="52" LoVel="6" HiVel="7" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_E5_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="7036928" MonolithLength="126976"/>
+          Duplicate="1" SampleRate="48000" MonolithOffset="7036928" MonolithLength="126976"/>
   <sample Root="41" LoKey="41" HiKey="42" LoVel="4" HiVel="5" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_F4_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="7163904" MonolithLength="122880"/>
+          Duplicate="1" SampleRate="48000" MonolithOffset="7163904" MonolithLength="122880"/>
   <sample Root="41" LoKey="41" HiKey="42" LoVel="6" HiVel="7" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_F4_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="7286784" MonolithLength="122880"/>
+          Duplicate="1" SampleRate="48000" MonolithOffset="7286784" MonolithLength="122880"/>
   <sample Root="53" LoKey="53" HiKey="54" LoVel="4" HiVel="5" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_F5_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="7409664" MonolithLength="122880"/>
+          Duplicate="1" SampleRate="48000" MonolithOffset="7409664" MonolithLength="122880"/>
   <sample Root="53" LoKey="53" HiKey="54" LoVel="6" HiVel="7" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_F5_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="7532544" MonolithLength="126976"/>
+          Duplicate="1" SampleRate="48000" MonolithOffset="7532544" MonolithLength="126976"/>
   <sample Root="43" LoKey="43" HiKey="44" LoVel="4" HiVel="5" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_G4_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="7659520" MonolithLength="126976"/>
+          Duplicate="1" SampleRate="48000" MonolithOffset="7659520" MonolithLength="126976"/>
   <sample Root="43" LoKey="43" HiKey="44" LoVel="6" HiVel="7" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_G4_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="7786496" MonolithLength="122880"/>
+          Duplicate="1" SampleRate="48000" MonolithOffset="7786496" MonolithLength="122880"/>
   <sample Root="55" LoKey="55" HiKey="56" LoVel="4" HiVel="5" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_G5_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="7909376" MonolithLength="126976"/>
+          Duplicate="1" SampleRate="48000" MonolithOffset="7909376" MonolithLength="126976"/>
   <sample Root="55" LoKey="55" HiKey="56" LoVel="6" HiVel="7" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_G5_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="8036352" MonolithLength="126976"/>
+          Duplicate="1" SampleRate="48000" MonolithOffset="8036352" MonolithLength="126976"/>
   <sample Root="65" LoKey="64" HiKey="66" LoVel="6" HiVel="7" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Runs/Salamuri_Runs_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="8163328" MonolithLength="45056"/>
+          Duplicate="1" SampleRate="48000" MonolithOffset="8163328" MonolithLength="45056"/>
   <sample Root="68" LoKey="67" HiKey="69" LoVel="6" HiVel="7" RRGroup="1"
           FileName="{PROJECT_FOLDER}Salamuri/Runs/Salamuri_Runs_rr5.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="8208384" MonolithLength="49152"/>
+          Duplicate="1" SampleRate="48000" MonolithOffset="8208384" MonolithLength="49152"/>
 </samplemap>
