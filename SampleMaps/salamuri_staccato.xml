@@ -1,256 +1,820 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<samplemap ID="salamuri_staccato" RRGroupAmount="1" MicPositions=";" SaveMode="2">
-  <sample Root="45" LoKey="45" HiKey="46" LoVel="0" HiVel="1" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_A4_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="0" MonolithLength="118784"/>
-  <sample Root="45" LoKey="45" HiKey="46" LoVel="2" HiVel="3" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_A4_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="118784" MonolithLength="122880"/>
-  <sample Root="57" LoKey="57" HiKey="58" LoVel="0" HiVel="1" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_A5_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="241664" MonolithLength="122880"/>
-  <sample Root="57" LoKey="57" HiKey="58" LoVel="2" HiVel="3" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_A5_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="364544" MonolithLength="126976"/>
-  <sample Root="47" LoKey="47" HiKey="47" LoVel="0" HiVel="1" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_B4_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="491520" MonolithLength="118784"/>
-  <sample Root="47" LoKey="47" HiKey="47" LoVel="2" HiVel="3" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_B4_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="610304" MonolithLength="122880"/>
-  <sample Root="59" LoKey="59" HiKey="59" LoVel="0" HiVel="1" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_B5_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="733184" MonolithLength="118784"/>
-  <sample Root="59" LoKey="59" HiKey="59" LoVel="2" HiVel="3" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_B5_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="851968" MonolithLength="122880"/>
-  <sample Root="36" LoKey="35" HiKey="37" LoVel="0" HiVel="1" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_C4_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="974848" MonolithLength="126976"/>
-  <sample Root="36" LoKey="35" HiKey="37" LoVel="2" HiVel="3" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_C4_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="1101824" MonolithLength="122880"/>
-  <sample Root="48" LoKey="48" HiKey="49" LoVel="0" HiVel="1" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_C5_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="1224704" MonolithLength="122880"/>
-  <sample Root="48" LoKey="48" HiKey="49" LoVel="2" HiVel="3" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_C5_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="1347584" MonolithLength="118784"/>
-  <sample Root="60" LoKey="60" HiKey="62" LoVel="0" HiVel="1" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_C6_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="1466368" MonolithLength="118784"/>
-  <sample Root="60" LoKey="60" HiKey="62" LoVel="2" HiVel="3" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_C6_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="1585152" MonolithLength="122880"/>
-  <sample Root="38" LoKey="38" HiKey="39" LoVel="0" HiVel="1" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_D4_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="1708032" MonolithLength="131072"/>
-  <sample Root="38" LoKey="38" HiKey="39" LoVel="2" HiVel="3" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_D4_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="1839104" MonolithLength="122880"/>
-  <sample Root="50" LoKey="50" HiKey="51" LoVel="0" HiVel="1" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_D5_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="1961984" MonolithLength="118784"/>
-  <sample Root="50" LoKey="50" HiKey="51" LoVel="2" HiVel="3" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_D5_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="2080768" MonolithLength="122880"/>
-  <sample Root="40" LoKey="40" HiKey="40" LoVel="0" HiVel="1" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_E4_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="2203648" MonolithLength="122880"/>
-  <sample Root="40" LoKey="40" HiKey="40" LoVel="2" HiVel="3" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_E4_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="2326528" MonolithLength="122880"/>
-  <sample Root="52" LoKey="52" HiKey="52" LoVel="0" HiVel="1" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_E5_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="2449408" MonolithLength="118784"/>
-  <sample Root="52" LoKey="52" HiKey="52" LoVel="2" HiVel="3" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_E5_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="2568192" MonolithLength="126976"/>
-  <sample Root="41" LoKey="41" HiKey="42" LoVel="0" HiVel="1" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_F4_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="2695168" MonolithLength="122880"/>
-  <sample Root="41" LoKey="41" HiKey="42" LoVel="2" HiVel="3" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_F4_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="2818048" MonolithLength="122880"/>
-  <sample Root="53" LoKey="53" HiKey="54" LoVel="0" HiVel="1" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_F5_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="2940928" MonolithLength="122880"/>
-  <sample Root="53" LoKey="53" HiKey="54" LoVel="2" HiVel="3" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_F5_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="3063808" MonolithLength="126976"/>
-  <sample Root="43" LoKey="43" HiKey="44" LoVel="0" HiVel="1" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_G4_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="3190784" MonolithLength="126976"/>
-  <sample Root="43" LoKey="43" HiKey="44" LoVel="2" HiVel="3" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_G4_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="3317760" MonolithLength="122880"/>
-  <sample Root="55" LoKey="55" HiKey="56" LoVel="0" HiVel="1" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_G5_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="3440640" MonolithLength="126976"/>
-  <sample Root="55" LoKey="55" HiKey="56" LoVel="2" HiVel="3" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_G5_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="3567616" MonolithLength="126976"/>
-  <sample Root="65" LoKey="64" HiKey="66" LoVel="0" HiVel="1" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Runs/Salamuri_Runs_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="3694592" MonolithLength="28672"/>
-  <sample Root="65" LoKey="64" HiKey="66" LoVel="2" HiVel="3" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Runs/Salamuri_Runs_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="3723264" MonolithLength="45056"/>
-  <sample Root="65" LoKey="64" HiKey="66" LoVel="4" HiVel="5" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Runs/Salamuri_Runs_rr3.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="3768320" MonolithLength="65536"/>
-  <sample Root="68" LoKey="67" HiKey="69" LoVel="0" HiVel="1" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Runs/Salamuri_Runs_rr4.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="3833856" MonolithLength="28672"/>
-  <sample Root="68" LoKey="67" HiKey="69" LoVel="2" HiVel="3" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Runs/Salamuri_Runs_rr5.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="3862528" MonolithLength="49152"/>
-  <sample Root="68" LoKey="67" HiKey="69" LoVel="4" HiVel="5" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Runs/Salamuri_Runs_rr6.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="3911680" MonolithLength="77824"/>
-  <sample Root="33" LoKey="33" HiKey="33" LoVel="0" HiVel="1" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Rips/Salamuri_Rips_Up_High_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="3989504" MonolithLength="24576"/>
-  <sample Root="33" LoKey="33" HiKey="33" LoVel="2" HiVel="3" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Rips/Salamuri_Rips_Up_High_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="4014080" MonolithLength="28672"/>
-  <sample Root="33" LoKey="33" HiKey="33" LoVel="4" HiVel="5" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Rips/Salamuri_Rips_Up_High_rr3.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="4042752" MonolithLength="28672"/>
-  <sample Root="33" LoKey="33" HiKey="33" LoVel="6" HiVel="7" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Rips/Salamuri_Rips_Up_High_rr4.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="4071424" MonolithLength="32768"/>
-  <sample Root="32" LoKey="32" HiKey="32" LoVel="0" HiVel="1" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Rips/Salamuri_Rips_Up_Low_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="4104192" MonolithLength="24576"/>
-  <sample Root="32" LoKey="32" HiKey="32" LoVel="2" HiVel="3" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Rips/Salamuri_Rips_Up_Low_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="4128768" MonolithLength="28672"/>
-  <sample Root="32" LoKey="32" HiKey="32" LoVel="4" HiVel="5" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Rips/Salamuri_Rips_Up_Low_rr3.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="4157440" MonolithLength="24576"/>
-  <sample Root="32" LoKey="32" HiKey="32" LoVel="6" HiVel="7" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Rips/Salamuri_Rips_Up_Low_rr4.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="4182016" MonolithLength="24576"/>
-  <sample Root="31" LoKey="31" HiKey="31" LoVel="0" HiVel="1" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Rips/Salamuri_Rirps_Down_High_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="4206592" MonolithLength="32768"/>
-  <sample Root="31" LoKey="31" HiKey="31" LoVel="2" HiVel="3" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Rips/Salamuri_Rirps_Down_High_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="4239360" MonolithLength="36864"/>
-  <sample Root="31" LoKey="31" HiKey="31" LoVel="4" HiVel="5" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Rips/Salamuri_Rirps_Down_High_rr3.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="4276224" MonolithLength="36864"/>
-  <sample Root="31" LoKey="31" HiKey="31" LoVel="6" HiVel="7" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Rips/Salamuri_Rirps_Down_High_rr4.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="4313088" MonolithLength="32768"/>
-  <sample Root="30" LoKey="29" HiKey="30" LoVel="0" HiVel="1" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Rips/Salamuri_Rirps_Down_Low_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="4345856" MonolithLength="32768"/>
-  <sample Root="30" LoKey="29" HiKey="30" LoVel="2" HiVel="3" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Rips/Salamuri_Rirps_Down_Low_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="4378624" MonolithLength="28672"/>
-  <sample Root="30" LoKey="29" HiKey="30" LoVel="4" HiVel="5" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Rips/Salamuri_Rirps_Down_Low_rr3.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="4407296" MonolithLength="28672"/>
-  <sample Root="30" LoKey="29" HiKey="30" LoVel="6" HiVel="7" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Rips/Salamuri_Rirps_Down_Low_rr4.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="4435968" MonolithLength="32768"/>
-  <sample Root="45" LoKey="45" HiKey="46" LoVel="4" HiVel="5" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_A4_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="4468736" MonolithLength="118784"/>
-  <sample Root="45" LoKey="45" HiKey="46" LoVel="6" HiVel="7" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_A4_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="4587520" MonolithLength="122880"/>
-  <sample Root="57" LoKey="57" HiKey="58" LoVel="4" HiVel="5" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_A5_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="4710400" MonolithLength="122880"/>
-  <sample Root="57" LoKey="57" HiKey="58" LoVel="6" HiVel="7" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_A5_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="4833280" MonolithLength="126976"/>
-  <sample Root="47" LoKey="47" HiKey="47" LoVel="4" HiVel="5" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_B4_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="4960256" MonolithLength="118784"/>
-  <sample Root="47" LoKey="47" HiKey="47" LoVel="6" HiVel="7" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_B4_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="5079040" MonolithLength="122880"/>
-  <sample Root="59" LoKey="59" HiKey="59" LoVel="4" HiVel="5" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_B5_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="5201920" MonolithLength="118784"/>
-  <sample Root="59" LoKey="59" HiKey="59" LoVel="6" HiVel="7" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_B5_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="5320704" MonolithLength="122880"/>
-  <sample Root="36" LoKey="35" HiKey="37" LoVel="4" HiVel="5" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_C4_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="5443584" MonolithLength="126976"/>
-  <sample Root="36" LoKey="35" HiKey="37" LoVel="6" HiVel="7" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_C4_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="5570560" MonolithLength="122880"/>
-  <sample Root="48" LoKey="48" HiKey="49" LoVel="4" HiVel="5" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_C5_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="5693440" MonolithLength="122880"/>
-  <sample Root="48" LoKey="48" HiKey="49" LoVel="6" HiVel="7" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_C5_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="5816320" MonolithLength="118784"/>
-  <sample Root="60" LoKey="60" HiKey="62" LoVel="4" HiVel="5" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_C6_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="5935104" MonolithLength="118784"/>
-  <sample Root="60" LoKey="60" HiKey="62" LoVel="6" HiVel="7" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_C6_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="6053888" MonolithLength="122880"/>
-  <sample Root="38" LoKey="38" HiKey="39" LoVel="4" HiVel="5" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_D4_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="6176768" MonolithLength="131072"/>
-  <sample Root="38" LoKey="38" HiKey="39" LoVel="6" HiVel="7" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_D4_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="6307840" MonolithLength="122880"/>
-  <sample Root="50" LoKey="50" HiKey="51" LoVel="4" HiVel="5" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_D5_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="6430720" MonolithLength="118784"/>
-  <sample Root="50" LoKey="50" HiKey="51" LoVel="6" HiVel="7" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_D5_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="6549504" MonolithLength="122880"/>
-  <sample Root="40" LoKey="40" HiKey="40" LoVel="4" HiVel="5" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_E4_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="6672384" MonolithLength="122880"/>
-  <sample Root="40" LoKey="40" HiKey="40" LoVel="6" HiVel="7" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_E4_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="6795264" MonolithLength="122880"/>
-  <sample Root="52" LoKey="52" HiKey="52" LoVel="4" HiVel="5" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_E5_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="6918144" MonolithLength="118784"/>
-  <sample Root="52" LoKey="52" HiKey="52" LoVel="6" HiVel="7" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_E5_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="7036928" MonolithLength="126976"/>
-  <sample Root="41" LoKey="41" HiKey="42" LoVel="4" HiVel="5" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_F4_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="7163904" MonolithLength="122880"/>
-  <sample Root="41" LoKey="41" HiKey="42" LoVel="6" HiVel="7" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_F4_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="7286784" MonolithLength="122880"/>
-  <sample Root="53" LoKey="53" HiKey="54" LoVel="4" HiVel="5" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_F5_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="7409664" MonolithLength="122880"/>
-  <sample Root="53" LoKey="53" HiKey="54" LoVel="6" HiVel="7" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_F5_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="7532544" MonolithLength="126976"/>
-  <sample Root="43" LoKey="43" HiKey="44" LoVel="4" HiVel="5" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_G4_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="7659520" MonolithLength="126976"/>
-  <sample Root="43" LoKey="43" HiKey="44" LoVel="6" HiVel="7" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_G4_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="7786496" MonolithLength="122880"/>
-  <sample Root="55" LoKey="55" HiKey="56" LoVel="4" HiVel="5" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_G5_rr1.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="7909376" MonolithLength="126976"/>
-  <sample Root="55" LoKey="55" HiKey="56" LoVel="6" HiVel="7" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Bends/Salamuri_Bends_G5_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="8036352" MonolithLength="126976"/>
-  <sample Root="65" LoKey="64" HiKey="66" LoVel="6" HiVel="7" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Runs/Salamuri_Runs_rr2.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="8163328" MonolithLength="45056"/>
-  <sample Root="68" LoKey="67" HiKey="69" LoVel="6" HiVel="7" RRGroup="1"
-          FileName="{PROJECT_FOLDER}Salamuri/Runs/Salamuri_Runs_rr5.wav"
-          Duplicate="0" SampleRate="48000" MonolithOffset="8208384" MonolithLength="49152"/>
+<samplemap ID="salamuri_staccato" SaveMode="2" RRGroupAmount="3" MicPositions=";">
+  <sample Root="81" LoKey="81" HiKey="82" LoVel="0" HiVel="1" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_A4_v1_rr1.wav"
+          Duplicate="1" SampleStart="88" SampleEnd="11821" SampleStartMod="800"
+          MonolithOffset="0" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="81" LoKey="81" HiKey="82" LoVel="2" HiVel="3" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_A4_v1_rr2.wav"
+          Duplicate="1" SampleStart="158" SampleEnd="10129" SampleStartMod="800"
+          MonolithOffset="12288" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="81" LoKey="81" HiKey="82" LoVel="4" HiVel="5" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_A4_v1_rr3.wav"
+          Duplicate="1" SampleStart="113" SampleEnd="10063" SampleStartMod="800"
+          MonolithOffset="24576" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="81" LoKey="81" HiKey="82" LoVel="6" HiVel="7" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_A4_v1_rr4.wav"
+          Duplicate="1" SampleStart="110" SampleEnd="11787" SampleStartMod="800"
+          MonolithOffset="36864" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="81" LoKey="81" HiKey="82" LoVel="0" HiVel="1" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_A4_v2_rr1.wav"
+          Duplicate="1" SampleStart="250" SampleEnd="12768" SampleStartMod="800"
+          MonolithOffset="49152" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="81" LoKey="81" HiKey="82" LoVel="2" HiVel="3" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_A4_v2_rr2.wav"
+          Duplicate="1" SampleStart="153" SampleEnd="12777" SampleStartMod="1500"
+          MonolithOffset="65536" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="81" LoKey="81" HiKey="82" LoVel="4" HiVel="5" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_A4_v2_rr3.wav"
+          Duplicate="1" SampleStart="222" SampleEnd="11562" SampleStartMod="800"
+          MonolithOffset="81920" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="81" LoKey="81" HiKey="82" LoVel="6" HiVel="7" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_A4_v2_rr4.wav"
+          Duplicate="1" SampleStart="223" SampleEnd="12088" SampleStartMod="800"
+          MonolithOffset="94208" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="81" LoKey="81" HiKey="82" LoVel="0" HiVel="1" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_A4_v3_rr1.wav"
+          Duplicate="1" SampleStart="162" SampleEnd="11523" SampleStartMod="800"
+          MonolithOffset="106496" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="81" LoKey="81" HiKey="82" LoVel="2" HiVel="3" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_A4_v3_rr2.wav"
+          Duplicate="1" SampleStart="168" SampleEnd="11589" SampleStartMod="800"
+          MonolithOffset="118784" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="81" LoKey="81" HiKey="82" LoVel="4" HiVel="5" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_A4_v3_rr3.wav"
+          Duplicate="1" SampleStart="175" SampleEnd="12342" SampleStartMod="800"
+          MonolithOffset="131072" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="81" LoKey="81" HiKey="82" LoVel="6" HiVel="7" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_A4_v3_rr4.wav"
+          Duplicate="1" SampleStart="178" SampleEnd="12268" SampleStartMod="800"
+          MonolithOffset="147456" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="93" LoKey="93" HiKey="94" LoVel="0" HiVel="1" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_A5_v1_rr1.wav"
+          Duplicate="1" SampleStart="98" SampleEnd="16051" SampleStartMod="800"
+          MonolithOffset="159744" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="93" LoKey="93" HiKey="94" LoVel="2" HiVel="3" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_A5_v1_rr2.wav"
+          Duplicate="1" SampleStart="84" SampleEnd="12240" SampleStartMod="800"
+          MonolithOffset="176128" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="93" LoKey="93" HiKey="94" LoVel="4" HiVel="5" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_A5_v1_rr3.wav"
+          Duplicate="1" SampleStart="85" SampleEnd="12238" SampleStartMod="800"
+          MonolithOffset="188416" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="93" LoKey="93" HiKey="94" LoVel="6" HiVel="7" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_A5_v1_rr4.wav"
+          Duplicate="1" SampleStart="74" SampleEnd="12293" SampleStartMod="1500"
+          MonolithOffset="200704" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="93" LoKey="93" HiKey="94" LoVel="0" HiVel="1" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_A5_v2_rr1.wav"
+          Duplicate="1" SampleStart="181" SampleEnd="10726" SampleStartMod="1500"
+          MonolithOffset="217088" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="93" LoKey="93" HiKey="94" LoVel="2" HiVel="3" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_A5_v2_rr2.wav"
+          Duplicate="1" SampleStart="88" SampleEnd="13006" SampleStartMod="800"
+          MonolithOffset="229376" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="93" LoKey="93" HiKey="94" LoVel="4" HiVel="5" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_A5_v2_rr3.wav"
+          Duplicate="1" SampleStart="100" SampleEnd="13040" SampleStartMod="800"
+          MonolithOffset="245760" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="93" LoKey="93" HiKey="94" LoVel="6" HiVel="7" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_A5_v2_rr4.wav"
+          Duplicate="1" SampleStart="107" SampleEnd="16065" SampleStartMod="800"
+          MonolithOffset="262144" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="93" LoKey="93" HiKey="94" LoVel="0" HiVel="1" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_A5_v3_rr1.wav"
+          Duplicate="1" SampleStart="125" SampleEnd="16580" SampleStartMod="800"
+          MonolithOffset="278528" MonolithLength="20480" SampleRate="48000"/>
+  <sample Root="93" LoKey="93" HiKey="94" LoVel="2" HiVel="3" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_A5_v3_rr2.wav"
+          Duplicate="1" SampleStart="158" SampleEnd="13543" SampleStartMod="800"
+          MonolithOffset="299008" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="93" LoKey="93" HiKey="94" LoVel="4" HiVel="5" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_A5_v3_rr3.wav"
+          Duplicate="1" SampleStart="173" SampleEnd="10758" SampleStartMod="1500"
+          MonolithOffset="315392" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="93" LoKey="93" HiKey="94" LoVel="6" HiVel="7" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_A5_v3_rr4.wav"
+          Duplicate="1" SampleStart="274" SampleEnd="12385" SampleStartMod="800"
+          MonolithOffset="327680" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="0" HiVel="1" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B3_v1_rr1.wav"
+          Duplicate="1" SampleStart="157" SampleEnd="12967" SampleStartMod="1500"
+          MonolithOffset="344064" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="2" HiVel="3" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B3_v1_rr2.wav"
+          Duplicate="1" SampleStart="117" SampleEnd="12867" SampleStartMod="1500"
+          MonolithOffset="360448" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="4" HiVel="5" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B3_v1_rr3.wav"
+          Duplicate="1" SampleStart="156" SampleEnd="12757" SampleStartMod="1500"
+          MonolithOffset="376832" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="6" HiVel="7" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B3_v1_rr4.wav"
+          Duplicate="1" SampleStart="131" SampleEnd="12706" SampleStartMod="1500"
+          MonolithOffset="393216" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="0" HiVel="1" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B3_v2_rr1.wav"
+          Duplicate="1" SampleStart="586" SampleEnd="14328" SampleStartMod="1500"
+          MonolithOffset="409600" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="2" HiVel="3" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B3_v2_rr2.wav"
+          Duplicate="1" SampleStart="788" SampleEnd="14366" SampleStartMod="1200"
+          MonolithOffset="425984" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="4" HiVel="5" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B3_v2_rr3.wav"
+          Duplicate="1" SampleStart="556" SampleEnd="12254" SampleStartMod="1200"
+          MonolithOffset="442368" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="6" HiVel="7" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B3_v2_rr4.wav"
+          Duplicate="1" SampleStart="774" SampleEnd="14235" SampleStartMod="1200"
+          MonolithOffset="454656" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="0" HiVel="1" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B3_v3_rr1.wav"
+          Duplicate="1" SampleStart="164" SampleEnd="11500" SampleStartMod="1500"
+          MonolithOffset="471040" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="2" HiVel="3" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B3_v3_rr2.wav"
+          Duplicate="1" SampleStart="148" SampleEnd="11366" SampleStartMod="800"
+          MonolithOffset="483328" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="4" HiVel="5" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B3_v3_rr3.wav"
+          Duplicate="1" SampleStart="135" SampleEnd="13375" SampleStartMod="800"
+          MonolithOffset="495616" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="6" HiVel="7" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B3_v3_rr4.wav"
+          Duplicate="1" SampleStart="169" SampleEnd="11534" SampleStartMod="800"
+          MonolithOffset="512000" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="83" LoKey="83" HiKey="85" LoVel="0" HiVel="1" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B4_v1_rr1.wav"
+          Duplicate="1" SampleStart="130" SampleEnd="11927" SampleStartMod="800"
+          MonolithOffset="524288" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="83" LoKey="83" HiKey="85" LoVel="2" HiVel="3" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B4_v1_rr2.wav"
+          Duplicate="1" SampleStart="112" SampleEnd="10034" SampleStartMod="800"
+          MonolithOffset="536576" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="83" LoKey="83" HiKey="85" LoVel="4" HiVel="5" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B4_v1_rr3.wav"
+          Duplicate="1" SampleStart="106" SampleEnd="11753" SampleStartMod="800"
+          MonolithOffset="548864" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="83" LoKey="83" HiKey="85" LoVel="6" HiVel="7" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B4_v1_rr4.wav"
+          Duplicate="1" SampleStart="125" SampleEnd="10755" SampleStartMod="800"
+          MonolithOffset="561152" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="83" LoKey="83" HiKey="85" LoVel="0" HiVel="1" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B4_v2_rr1.wav"
+          Duplicate="1" SampleStart="150" SampleEnd="10847" SampleStartMod="800"
+          MonolithOffset="573440" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="83" LoKey="83" HiKey="85" LoVel="2" HiVel="3" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B4_v2_rr2.wav"
+          Duplicate="1" SampleStart="227" SampleEnd="11468" SampleStartMod="800"
+          MonolithOffset="585728" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="83" LoKey="83" HiKey="85" LoVel="4" HiVel="5" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B4_v2_rr3.wav"
+          Duplicate="1" SampleStart="300" SampleEnd="9380" SampleStartMod="800"
+          MonolithOffset="598016" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="83" LoKey="83" HiKey="85" LoVel="6" HiVel="7" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B4_v2_rr4.wav"
+          Duplicate="1" SampleStart="165" SampleEnd="12418" SampleStartMod="800"
+          MonolithOffset="610304" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="83" LoKey="83" HiKey="85" LoVel="0" HiVel="1" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B4_v3_rr1.wav"
+          Duplicate="1" SampleStart="208" SampleEnd="14272" SampleStartMod="500"
+          MonolithOffset="626688" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="83" LoKey="83" HiKey="85" LoVel="2" HiVel="3" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B4_v3_rr2.wav"
+          Duplicate="1" SampleStart="123" SampleEnd="12217" SampleStartMod="800"
+          MonolithOffset="643072" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="83" LoKey="83" HiKey="85" LoVel="4" HiVel="5" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B4_v3_rr3.wav"
+          Duplicate="1" SampleStart="493" SampleEnd="12803" SampleStartMod="800"
+          MonolithOffset="655360" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="83" LoKey="83" HiKey="85" LoVel="6" HiVel="7" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B4_v3_rr4.wav"
+          Duplicate="1" SampleStart="243" SampleEnd="11683" SampleStartMod="800"
+          MonolithOffset="671744" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="95" LoKey="95" HiKey="95" LoVel="0" HiVel="1" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B5_v1_rr1.wav"
+          Duplicate="1" SampleStart="101" SampleEnd="13072" SampleStartMod="800"
+          MonolithOffset="684032" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="95" LoKey="95" HiKey="95" LoVel="2" HiVel="3" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B5_v1_rr2.wav"
+          Duplicate="1" SampleStart="81" SampleEnd="12939" SampleStartMod="800"
+          MonolithOffset="700416" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="95" LoKey="95" HiKey="95" LoVel="4" HiVel="5" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B5_v1_rr3.wav"
+          Duplicate="1" SampleStart="102" SampleEnd="14458" SampleStartMod="800"
+          MonolithOffset="716800" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="95" LoKey="95" HiKey="95" LoVel="6" HiVel="7" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B5_v1_rr4.wav"
+          Duplicate="1" SampleStart="113" SampleEnd="14456" SampleStartMod="800"
+          MonolithOffset="733184" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="95" LoKey="95" HiKey="95" LoVel="0" HiVel="1" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B5_v2_rr1.wav"
+          Duplicate="1" SampleStart="95" SampleEnd="12554" SampleStartMod="800"
+          MonolithOffset="749568" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="95" LoKey="95" HiKey="95" LoVel="2" HiVel="3" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B5_v2_rr2.wav"
+          Duplicate="1" SampleStart="120" SampleEnd="12585" SampleStartMod="800"
+          MonolithOffset="765952" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="95" LoKey="95" HiKey="95" LoVel="4" HiVel="5" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B5_v2_rr3.wav"
+          Duplicate="1" SampleStart="161" SampleEnd="14392" SampleStartMod="800"
+          MonolithOffset="782336" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="95" LoKey="95" HiKey="95" LoVel="6" HiVel="7" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B5_v2_rr4.wav"
+          Duplicate="1" SampleStart="97" SampleEnd="14482" SampleStartMod="800"
+          MonolithOffset="798720" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="95" LoKey="95" HiKey="95" LoVel="0" HiVel="1" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B5_v3_rr1.wav"
+          Duplicate="1" SampleStart="86" SampleEnd="13830" SampleStartMod="800"
+          MonolithOffset="815104" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="95" LoKey="95" HiKey="95" LoVel="2" HiVel="3" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B5_v3_rr2.wav"
+          Duplicate="1" SampleStart="107" SampleEnd="14572" SampleStartMod="800"
+          MonolithOffset="831488" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="95" LoKey="95" HiKey="95" LoVel="4" HiVel="5" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B5_v3_rr3.wav"
+          Duplicate="1" SampleStart="128" SampleEnd="13098" SampleStartMod="800"
+          MonolithOffset="847872" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="95" LoKey="95" HiKey="95" LoVel="6" HiVel="7" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_B5_v3_rr4.wav"
+          Duplicate="1" SampleStart="126" SampleEnd="12783" SampleStartMod="800"
+          MonolithOffset="864256" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="72" LoKey="72" HiKey="73" LoVel="0" HiVel="1" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_C4_v1_rr1.wav"
+          Duplicate="1" SampleStart="604" SampleEnd="11817" SampleStartMod="1200"
+          MonolithOffset="880640" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="72" LoKey="72" HiKey="73" LoVel="2" HiVel="3" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_C4_v1_rr2.wav"
+          Duplicate="1" SampleStart="106" SampleEnd="12579" SampleStartMod="800"
+          MonolithOffset="892928" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="72" LoKey="72" HiKey="73" LoVel="4" HiVel="5" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_C4_v1_rr3.wav"
+          Duplicate="1" SampleStart="185" SampleEnd="13278" SampleStartMod="800"
+          MonolithOffset="909312" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="72" LoKey="72" HiKey="73" LoVel="6" HiVel="7" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_C4_v1_rr4.wav"
+          Duplicate="1" SampleStart="610" SampleEnd="14190" SampleStartMod="2793"
+          MonolithOffset="925696" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="72" LoKey="72" HiKey="73" LoVel="0" HiVel="1" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_C4_v2_rr1.wav"
+          Duplicate="1" SampleStart="574" SampleEnd="13243" SampleStartMod="1200"
+          MonolithOffset="942080" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="72" LoKey="72" HiKey="73" LoVel="2" HiVel="3" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_C4_v2_rr2.wav"
+          Duplicate="1" SampleStart="542" SampleEnd="13908" SampleStartMod="1500"
+          MonolithOffset="958464" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="72" LoKey="72" HiKey="73" LoVel="4" HiVel="5" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_C4_v2_rr3.wav"
+          Duplicate="1" SampleStart="904" SampleEnd="12609" SampleStartMod="1500"
+          MonolithOffset="974848" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="72" LoKey="72" HiKey="73" LoVel="6" HiVel="7" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_C4_v2_rr4.wav"
+          Duplicate="1" SampleStart="608" SampleEnd="13209" SampleStartMod="1500"
+          MonolithOffset="991232" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="72" LoKey="72" HiKey="73" LoVel="0" HiVel="1" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_C4_v3_rr1.wav"
+          Duplicate="1" SampleStart="730" SampleEnd="15918" SampleStartMod="2000"
+          MonolithOffset="1007616" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="72" LoKey="72" HiKey="73" LoVel="2" HiVel="3" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_C4_v3_rr2.wav"
+          Duplicate="1" SampleStart="928" SampleEnd="14648" SampleStartMod="1500"
+          MonolithOffset="1024000" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="72" LoKey="72" HiKey="73" LoVel="4" HiVel="5" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_C4_v3_rr3.wav"
+          Duplicate="1" SampleStart="864" SampleEnd="12299" SampleStartMod="1200"
+          MonolithOffset="1040384" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="72" LoKey="72" HiKey="73" LoVel="6" HiVel="7" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_C4_v3_rr4.wav"
+          Duplicate="1" SampleStart="823" SampleEnd="11629" SampleStartMod="1000"
+          MonolithOffset="1056768" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="96" LoKey="96" HiKey="97" LoVel="0" HiVel="1" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_C6_v1_rr1.wav"
+          Duplicate="1" SampleStart="72" SampleEnd="15378" SampleStartMod="800"
+          MonolithOffset="1069056" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="96" LoKey="96" HiKey="97" LoVel="2" HiVel="3" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_C6_v1_rr2.wav"
+          Duplicate="1" SampleStart="68" SampleEnd="15574" SampleStartMod="800"
+          MonolithOffset="1085440" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="96" LoKey="96" HiKey="97" LoVel="4" HiVel="5" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_C6_v1_rr3.wav"
+          Duplicate="1" SampleStart="163" SampleEnd="15557" SampleStartMod="800"
+          MonolithOffset="1101824" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="96" LoKey="96" HiKey="97" LoVel="6" HiVel="7" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_C6_v1_rr4.wav"
+          Duplicate="1" SampleStart="138" SampleEnd="15602" SampleStartMod="800"
+          MonolithOffset="1118208" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="96" LoKey="96" HiKey="97" LoVel="0" HiVel="1" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_C6_v2_rr1.wav"
+          Duplicate="1" SampleStart="108" SampleEnd="17163" SampleStartMod="800"
+          MonolithOffset="1134592" MonolithLength="20480" SampleRate="48000"/>
+  <sample Root="96" LoKey="96" HiKey="97" LoVel="2" HiVel="3" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_C6_v2_rr2.wav"
+          Duplicate="1" SampleStart="121" SampleEnd="17179" SampleStartMod="800"
+          MonolithOffset="1155072" MonolithLength="20480" SampleRate="48000"/>
+  <sample Root="96" LoKey="96" HiKey="97" LoVel="4" HiVel="5" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_C6_v2_rr3.wav"
+          Duplicate="1" SampleStart="514" SampleEnd="15363" SampleStartMod="800"
+          MonolithOffset="1175552" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="96" LoKey="96" HiKey="97" LoVel="6" HiVel="7" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_C6_v2_rr4.wav"
+          Duplicate="1" SampleStart="158" SampleEnd="12648" SampleStartMod="800"
+          MonolithOffset="1191936" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="96" LoKey="96" HiKey="97" LoVel="0" HiVel="1" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_C6_v3_rr1.wav"
+          Duplicate="1" SampleStart="524" SampleEnd="21630" SampleStartMod="800"
+          MonolithOffset="1208320" MonolithLength="24576" SampleRate="48000"/>
+  <sample Root="96" LoKey="96" HiKey="97" LoVel="2" HiVel="3" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_C6_v3_rr2.wav"
+          Duplicate="1" SampleStart="148" SampleEnd="16787" SampleStartMod="800"
+          MonolithOffset="1232896" MonolithLength="20480" SampleRate="48000"/>
+  <sample Root="96" LoKey="96" HiKey="97" LoVel="4" HiVel="5" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_C6_v3_rr3.wav"
+          Duplicate="1" SampleStart="137" SampleEnd="15567" SampleStartMod="800"
+          MonolithOffset="1253376" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="96" LoKey="96" HiKey="97" LoVel="6" HiVel="7" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_C6_v3_rr4.wav"
+          Duplicate="1" SampleStart="78" SampleEnd="15252" SampleStartMod="800"
+          MonolithOffset="1269760" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="74" LoKey="74" HiKey="75" LoVel="0" HiVel="1" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D4_v1_rr1.wav"
+          Duplicate="1" SampleStart="892" SampleEnd="11165" SampleStartMod="2000"
+          MonolithOffset="1286144" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="74" LoKey="74" HiKey="75" LoVel="2" HiVel="3" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D4_v1_rr2.wav"
+          Duplicate="1" SampleStart="556" SampleEnd="11054" SampleStartMod="2000"
+          MonolithOffset="1298432" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="74" LoKey="74" HiKey="75" LoVel="4" HiVel="5" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D4_v1_rr3.wav"
+          Duplicate="1" SampleStart="824" SampleEnd="12799" SampleStartMod="1200"
+          MonolithOffset="1310720" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="74" LoKey="74" HiKey="75" LoVel="6" HiVel="7" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D4_v1_rr4.wav"
+          Duplicate="1" SampleStart="556" SampleEnd="11054" SampleStartMod="1500"
+          MonolithOffset="1327104" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="74" LoKey="74" HiKey="75" LoVel="0" HiVel="1" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D4_v2_rr1.wav"
+          Duplicate="1" SampleStart="577" SampleEnd="12346" SampleStartMod="800"
+          MonolithOffset="1339392" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="74" LoKey="74" HiKey="75" LoVel="2" HiVel="3" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D4_v2_rr2.wav"
+          Duplicate="1" SampleStart="577" SampleEnd="11914" SampleStartMod="800"
+          MonolithOffset="1355776" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="74" LoKey="74" HiKey="75" LoVel="4" HiVel="5" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D4_v2_rr3.wav"
+          Duplicate="1" SampleStart="544" SampleEnd="12327" SampleStartMod="800"
+          MonolithOffset="1368064" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="74" LoKey="74" HiKey="75" LoVel="6" HiVel="7" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D4_v2_rr4.wav"
+          Duplicate="1" SampleStart="569" SampleEnd="11608" SampleStartMod="800"
+          MonolithOffset="1384448" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="74" LoKey="74" HiKey="75" LoVel="0" HiVel="1" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D4_v3_rr1.wav"
+          Duplicate="1" SampleStart="902" SampleEnd="13562" SampleStartMod="1200"
+          MonolithOffset="1396736" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="74" LoKey="74" HiKey="75" LoVel="2" HiVel="3" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D4_v3_rr2.wav"
+          Duplicate="1" SampleStart="940" SampleEnd="12228" SampleStartMod="1200"
+          MonolithOffset="1413120" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="74" LoKey="74" HiKey="75" LoVel="4" HiVel="5" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D4_v3_rr3.wav"
+          Duplicate="1" SampleStart="860" SampleEnd="11529" SampleStartMod="800"
+          MonolithOffset="1425408" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="74" LoKey="74" HiKey="75" LoVel="6" HiVel="7" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D4_v3_rr4.wav"
+          Duplicate="1" SampleStart="934" SampleEnd="12158" SampleStartMod="800"
+          MonolithOffset="1437696" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="86" LoKey="86" HiKey="87" LoVel="0" HiVel="1" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D5_v1_rr1.wav"
+          Duplicate="1" SampleStart="215" SampleEnd="12731" SampleStartMod="800"
+          MonolithOffset="1449984" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="86" LoKey="86" HiKey="87" LoVel="2" HiVel="3" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D5_v1_rr2.wav"
+          Duplicate="1" SampleStart="83" SampleEnd="12766" SampleStartMod="800"
+          MonolithOffset="1466368" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="86" LoKey="86" HiKey="87" LoVel="4" HiVel="5" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D5_v1_rr3.wav"
+          Duplicate="1" SampleStart="326" SampleEnd="12805" SampleStartMod="800"
+          MonolithOffset="1482752" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="86" LoKey="86" HiKey="87" LoVel="6" HiVel="7" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D5_v1_rr4.wav"
+          Duplicate="1" SampleStart="138" SampleEnd="11600" SampleStartMod="800"
+          MonolithOffset="1499136" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="86" LoKey="86" HiKey="87" LoVel="0" HiVel="1" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D5_v2_rr1.wav"
+          Duplicate="1" SampleStart="100" SampleEnd="14703" SampleStartMod="800"
+          MonolithOffset="1511424" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="86" LoKey="86" HiKey="87" LoVel="2" HiVel="3" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D5_v2_rr2.wav"
+          Duplicate="1" SampleStart="278" SampleEnd="14704" SampleStartMod="800"
+          MonolithOffset="1527808" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="86" LoKey="86" HiKey="87" LoVel="4" HiVel="5" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D5_v2_rr3.wav"
+          Duplicate="1" SampleStart="149" SampleEnd="10193" SampleStartMod="800"
+          MonolithOffset="1544192" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="86" LoKey="86" HiKey="87" LoVel="6" HiVel="7" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D5_v2_rr4.wav"
+          Duplicate="1" SampleStart="145" SampleEnd="10743" SampleStartMod="800"
+          MonolithOffset="1556480" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="86" LoKey="86" HiKey="87" LoVel="0" HiVel="1" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D5_v3_rr1.wav"
+          Duplicate="1" SampleStart="94" SampleEnd="11649" SampleStartMod="1000"
+          MonolithOffset="1568768" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="86" LoKey="86" HiKey="87" LoVel="2" HiVel="3" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D5_v3_rr2.wav"
+          Duplicate="1" SampleStart="251" SampleEnd="9780" SampleStartMod="800"
+          MonolithOffset="1581056" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="86" LoKey="86" HiKey="87" LoVel="4" HiVel="5" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D5_v3_rr3.wav"
+          Duplicate="1" SampleStart="455" SampleEnd="13801" SampleStartMod="800"
+          MonolithOffset="1593344" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="86" LoKey="86" HiKey="87" LoVel="6" HiVel="7" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D5_v3_rr4.wav"
+          Duplicate="1" SampleStart="465" SampleEnd="13809" SampleStartMod="800"
+          MonolithOffset="1609728" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="98" LoKey="98" HiKey="98" LoVel="0" HiVel="1" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D6_v1_rr1.wav"
+          Duplicate="1" SampleStart="70" SampleEnd="14986" SampleStartMod="800"
+          MonolithOffset="1626112" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="98" LoKey="98" HiKey="98" LoVel="2" HiVel="3" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D6_v1_rr2.wav"
+          Duplicate="1" SampleStart="112" SampleEnd="14982" SampleStartMod="800"
+          MonolithOffset="1642496" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="98" LoKey="98" HiKey="98" LoVel="4" HiVel="5" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D6_v1_rr3.wav"
+          Duplicate="1" SampleStart="117" SampleEnd="14811" SampleStartMod="800"
+          MonolithOffset="1658880" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="98" LoKey="98" HiKey="98" LoVel="6" HiVel="7" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D6_v1_rr4.wav"
+          Duplicate="1" SampleStart="126" SampleEnd="14809" SampleStartMod="800"
+          MonolithOffset="1675264" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="98" LoKey="98" HiKey="98" LoVel="0" HiVel="1" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D6_v2_rr1.wav"
+          Duplicate="1" SampleStart="165" SampleEnd="11786" SampleStartMod="800"
+          MonolithOffset="1691648" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="98" LoKey="98" HiKey="98" LoVel="2" HiVel="3" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D6_v2_rr2.wav"
+          Duplicate="1" SampleStart="131" SampleEnd="12475" SampleStartMod="800"
+          MonolithOffset="1703936" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="98" LoKey="98" HiKey="98" LoVel="4" HiVel="5" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D6_v2_rr3.wav"
+          Duplicate="1" SampleStart="161" SampleEnd="11568" SampleStartMod="800"
+          MonolithOffset="1720320" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="98" LoKey="98" HiKey="98" LoVel="6" HiVel="7" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D6_v2_rr4.wav"
+          Duplicate="1" SampleStart="111" SampleEnd="14849" SampleStartMod="800"
+          MonolithOffset="1732608" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="98" LoKey="98" HiKey="98" LoVel="0" HiVel="1" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D6_v3_rr1.wav"
+          Duplicate="1" SampleStart="138" SampleEnd="18685" SampleStartMod="800"
+          MonolithOffset="1748992" MonolithLength="20480" SampleRate="48000"/>
+  <sample Root="98" LoKey="98" HiKey="98" LoVel="2" HiVel="3" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D6_v3_rr2.wav"
+          Duplicate="1" SampleStart="115" SampleEnd="18741" SampleStartMod="800"
+          MonolithOffset="1769472" MonolithLength="20480" SampleRate="48000"/>
+  <sample Root="98" LoKey="98" HiKey="98" LoVel="4" HiVel="5" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D6_v3_rr3.wav"
+          Duplicate="1" SampleStart="126" SampleEnd="18794" SampleStartMod="800"
+          MonolithOffset="1789952" MonolithLength="20480" SampleRate="48000"/>
+  <sample Root="98" LoKey="98" HiKey="98" LoVel="6" HiVel="7" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_D6_v3_rr4.wav"
+          Duplicate="1" SampleStart="111" SampleEnd="18782" SampleStartMod="800"
+          MonolithOffset="1810432" MonolithLength="20480" SampleRate="48000"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="0" HiVel="1" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_E4_v1_rr1.wav"
+          Duplicate="1" SampleStart="977" SampleEnd="11230" SampleStartMod="1000"
+          MonolithOffset="1830912" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="2" HiVel="3" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_E4_v1_rr2.wav"
+          Duplicate="1" SampleStart="924" SampleEnd="12873" SampleStartMod="800"
+          MonolithOffset="1843200" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="4" HiVel="5" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_E4_v1_rr3.wav"
+          Duplicate="1" SampleStart="924" SampleEnd="12873" SampleStartMod="800"
+          MonolithOffset="1859584" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="6" HiVel="7" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_E4_v1_rr4.wav"
+          Duplicate="1" SampleStart="457" SampleEnd="12968" SampleStartMod="800"
+          MonolithOffset="1875968" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="0" HiVel="1" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_E4_v2_rr1.wav"
+          Duplicate="1" SampleStart="979" SampleEnd="11583" SampleStartMod="800"
+          MonolithOffset="1892352" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="2" HiVel="3" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_E4_v2_rr2.wav"
+          Duplicate="1" SampleStart="565" SampleEnd="10787" SampleStartMod="800"
+          MonolithOffset="1904640" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="4" HiVel="5" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_E4_v2_rr3.wav"
+          Duplicate="1" SampleStart="616" SampleEnd="12221" SampleStartMod="800"
+          MonolithOffset="1916928" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="6" HiVel="7" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_E4_v2_rr4.wav"
+          Duplicate="1" SampleStart="542" SampleEnd="11475" SampleStartMod="1500"
+          MonolithOffset="1929216" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="0" HiVel="1" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_E4_v3_rr1.wav"
+          Duplicate="1" SampleStart="544" SampleEnd="12379" SampleStartMod="800"
+          MonolithOffset="1941504" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="2" HiVel="3" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_E4_v3_rr2.wav"
+          Duplicate="1" SampleStart="534" SampleEnd="11767" SampleStartMod="800"
+          MonolithOffset="1957888" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="4" HiVel="5" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_E4_v3_rr3.wav"
+          Duplicate="1" SampleStart="567" SampleEnd="10525" SampleStartMod="800"
+          MonolithOffset="1970176" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="6" HiVel="7" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_E4_v3_rr4.wav"
+          Duplicate="1" SampleStart="377" SampleEnd="10812" SampleStartMod="800"
+          MonolithOffset="1982464" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="88" LoKey="88" HiKey="88" LoVel="0" HiVel="1" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_E5_v1_rr1.wav"
+          Duplicate="1" SampleStart="203" SampleEnd="11664" SampleStartMod="800"
+          MonolithOffset="1994752" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="88" LoKey="88" HiKey="88" LoVel="2" HiVel="3" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_E5_v1_rr2.wav"
+          Duplicate="1" SampleStart="765" SampleEnd="10804" SampleStartMod="800"
+          MonolithOffset="2007040" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="88" LoKey="88" HiKey="88" LoVel="4" HiVel="5" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_E5_v1_rr3.wav"
+          Duplicate="1" SampleStart="461" SampleEnd="11606" SampleStartMod="500"
+          MonolithOffset="2019328" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="88" LoKey="88" HiKey="88" LoVel="6" HiVel="7" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_E5_v1_rr4.wav"
+          Duplicate="1" SampleStart="205" SampleEnd="11634" SampleStartMod="800"
+          MonolithOffset="2031616" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="88" LoKey="88" HiKey="88" LoVel="0" HiVel="1" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_E5_v2_rr1.wav"
+          Duplicate="1" SampleStart="146" SampleEnd="9553" SampleStartMod="800"
+          MonolithOffset="2043904" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="88" LoKey="88" HiKey="88" LoVel="2" HiVel="3" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_E5_v2_rr2.wav"
+          Duplicate="1" SampleStart="149" SampleEnd="9509" SampleStartMod="800"
+          MonolithOffset="2056192" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="88" LoKey="88" HiKey="88" LoVel="4" HiVel="5" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_E5_v2_rr3.wav"
+          Duplicate="1" SampleStart="75" SampleEnd="8799" SampleStartMod="800"
+          MonolithOffset="2068480" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="88" LoKey="88" HiKey="88" LoVel="6" HiVel="7" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_E5_v2_rr4.wav"
+          Duplicate="1" SampleStart="145" SampleEnd="9525" SampleStartMod="800"
+          MonolithOffset="2080768" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="88" LoKey="88" HiKey="88" LoVel="0" HiVel="1" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_E5_v3_rr1.wav"
+          Duplicate="1" SampleStart="218" SampleEnd="13801" SampleStartMod="800"
+          MonolithOffset="2093056" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="88" LoKey="88" HiKey="88" LoVel="2" HiVel="3" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_E5_v3_rr2.wav"
+          Duplicate="1" SampleStart="249" SampleEnd="13844" SampleStartMod="800"
+          MonolithOffset="2109440" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="88" LoKey="88" HiKey="88" LoVel="4" HiVel="5" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_E5_v3_rr3.wav"
+          Duplicate="1" SampleStart="214" SampleEnd="13841" SampleStartMod="800"
+          MonolithOffset="2125824" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="88" LoKey="88" HiKey="88" LoVel="6" HiVel="7" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_E5_v3_rr4.wav"
+          Duplicate="1" SampleStart="210" SampleEnd="13849" SampleStartMod="800"
+          MonolithOffset="2142208" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="77" LoKey="77" HiKey="78" LoVel="0" HiVel="1" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_F4_v1_rr1.wav"
+          Duplicate="1" SampleStart="437" SampleEnd="12138" SampleStartMod="800"
+          MonolithOffset="2158592" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="77" LoKey="77" HiKey="78" LoVel="2" HiVel="3" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_F4_v1_rr2.wav"
+          Duplicate="1" SampleStart="465" SampleEnd="12246" SampleStartMod="800"
+          MonolithOffset="2170880" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="77" LoKey="77" HiKey="78" LoVel="4" HiVel="5" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_F4_v1_rr3.wav"
+          Duplicate="1" SampleStart="519" SampleEnd="11270" SampleStartMod="800"
+          MonolithOffset="2183168" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="77" LoKey="77" HiKey="78" LoVel="6" HiVel="7" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_F4_v1_rr4.wav"
+          Duplicate="1" SampleStart="400" SampleEnd="11342" SampleStartMod="800"
+          MonolithOffset="2195456" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="77" LoKey="77" HiKey="78" LoVel="0" HiVel="1" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_F4_v2_rr1.wav"
+          Duplicate="1" SampleStart="540" SampleEnd="10993" SampleStartMod="800"
+          MonolithOffset="2207744" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="77" LoKey="77" HiKey="78" LoVel="2" HiVel="3" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_F4_v2_rr2.wav"
+          Duplicate="1" SampleStart="428" SampleEnd="12983" SampleStartMod="800"
+          MonolithOffset="2220032" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="77" LoKey="77" HiKey="78" LoVel="4" HiVel="5" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_F4_v2_rr3.wav"
+          Duplicate="1" SampleStart="137" SampleEnd="12764" SampleStartMod="800"
+          MonolithOffset="2236416" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="77" LoKey="77" HiKey="78" LoVel="6" HiVel="7" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_F4_v2_rr4.wav"
+          Duplicate="1" SampleStart="414" SampleEnd="12996" SampleStartMod="800"
+          MonolithOffset="2252800" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="77" LoKey="77" HiKey="78" LoVel="0" HiVel="1" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_F4_v3_rr1.wav"
+          Duplicate="1" SampleStart="490" SampleEnd="14357" SampleStartMod="800"
+          MonolithOffset="2269184" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="77" LoKey="77" HiKey="78" LoVel="2" HiVel="3" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_F4_v3_rr2.wav"
+          Duplicate="1" SampleStart="613" SampleEnd="14292" SampleStartMod="800"
+          MonolithOffset="2285568" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="77" LoKey="77" HiKey="78" LoVel="4" HiVel="5" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_F4_v3_rr3.wav"
+          Duplicate="1" SampleStart="505" SampleEnd="13386" SampleStartMod="800"
+          MonolithOffset="2301952" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="77" LoKey="77" HiKey="78" LoVel="6" HiVel="7" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_F4_v3_rr4.wav"
+          Duplicate="1" SampleStart="443" SampleEnd="14298" SampleStartMod="800"
+          MonolithOffset="2318336" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="89" LoKey="89" HiKey="90" LoVel="0" HiVel="1" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_F5_v1_rr1.wav"
+          Duplicate="1" SampleStart="100" SampleEnd="12517" SampleStartMod="800"
+          MonolithOffset="2334720" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="89" LoKey="89" HiKey="90" LoVel="2" HiVel="3" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_F5_v1_rr2.wav"
+          Duplicate="1" SampleStart="66" SampleEnd="12517" SampleStartMod="800"
+          MonolithOffset="2351104" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="89" LoKey="89" HiKey="90" LoVel="4" HiVel="5" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_F5_v1_rr3.wav"
+          Duplicate="1" SampleStart="200" SampleEnd="11572" SampleStartMod="800"
+          MonolithOffset="2367488" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="89" LoKey="89" HiKey="90" LoVel="6" HiVel="7" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_F5_v1_rr4.wav"
+          Duplicate="1" SampleStart="194" SampleEnd="11600" SampleStartMod="800"
+          MonolithOffset="2379776" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="89" LoKey="89" HiKey="90" LoVel="0" HiVel="1" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_F5_v2_rr1.wav"
+          Duplicate="1" SampleStart="145" SampleEnd="12695" SampleStartMod="800"
+          MonolithOffset="2392064" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="89" LoKey="89" HiKey="90" LoVel="2" HiVel="3" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_F5_v2_rr2.wav"
+          Duplicate="1" SampleStart="112" SampleEnd="10986" SampleStartMod="800"
+          MonolithOffset="2408448" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="89" LoKey="89" HiKey="90" LoVel="4" HiVel="5" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_F5_v2_rr3.wav"
+          Duplicate="1" SampleStart="165" SampleEnd="11995" SampleStartMod="800"
+          MonolithOffset="2420736" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="89" LoKey="89" HiKey="90" LoVel="6" HiVel="7" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_F5_v2_rr4.wav"
+          Duplicate="1" SampleStart="156" SampleEnd="13378" SampleStartMod="800"
+          MonolithOffset="2433024" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="89" LoKey="89" HiKey="90" LoVel="0" HiVel="1" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_F5_v3_rr1.wav"
+          Duplicate="1" SampleStart="487" SampleEnd="13469" SampleStartMod="800"
+          MonolithOffset="2449408" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="89" LoKey="89" HiKey="90" LoVel="2" HiVel="3" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_F5_v3_rr2.wav"
+          Duplicate="1" SampleStart="171" SampleEnd="13017" SampleStartMod="800"
+          MonolithOffset="2465792" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="89" LoKey="89" HiKey="90" LoVel="4" HiVel="5" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_F5_v3_rr3.wav"
+          Duplicate="1" SampleStart="113" SampleEnd="17404" SampleStartMod="800"
+          MonolithOffset="2482176" MonolithLength="20480" SampleRate="48000"/>
+  <sample Root="89" LoKey="89" HiKey="90" LoVel="6" HiVel="7" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_F5_v3_rr4.wav"
+          Duplicate="1" SampleStart="198" SampleEnd="16801" SampleStartMod="800"
+          MonolithOffset="2502656" MonolithLength="20480" SampleRate="48000"/>
+  <sample Root="79" LoKey="79" HiKey="80" LoVel="0" HiVel="1" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_G4_v1_rr1.wav"
+          Duplicate="1" SampleStart="592" SampleEnd="11303" SampleStartMod="800"
+          MonolithOffset="2523136" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="79" LoKey="79" HiKey="80" LoVel="2" HiVel="3" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_G4_v1_rr2.wav"
+          Duplicate="1" SampleStart="471" SampleEnd="11310" SampleStartMod="800"
+          MonolithOffset="2535424" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="79" LoKey="79" HiKey="80" LoVel="4" HiVel="5" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_G4_v1_rr3.wav"
+          Duplicate="1" SampleStart="409" SampleEnd="11359" SampleStartMod="800"
+          MonolithOffset="2547712" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="79" LoKey="79" HiKey="80" LoVel="6" HiVel="7" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_G4_v1_rr4.wav"
+          Duplicate="1" SampleStart="501" SampleEnd="11337" SampleStartMod="800"
+          MonolithOffset="2560000" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="79" LoKey="79" HiKey="80" LoVel="0" HiVel="1" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_G4_v2_rr1.wav"
+          Duplicate="1" SampleStart="540" SampleEnd="12223" SampleStartMod="800"
+          MonolithOffset="2572288" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="79" LoKey="79" HiKey="80" LoVel="2" HiVel="3" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_G4_v2_rr2.wav"
+          Duplicate="1" SampleStart="505" SampleEnd="11839" SampleStartMod="800"
+          MonolithOffset="2584576" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="79" LoKey="79" HiKey="80" LoVel="4" HiVel="5" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_G4_v2_rr3.wav"
+          Duplicate="1" SampleStart="182" SampleEnd="12070" SampleStartMod="800"
+          MonolithOffset="2596864" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="79" LoKey="79" HiKey="80" LoVel="6" HiVel="7" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_G4_v2_rr4.wav"
+          Duplicate="1" SampleStart="406" SampleEnd="11823" SampleStartMod="800"
+          MonolithOffset="2609152" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="79" LoKey="79" HiKey="80" LoVel="0" HiVel="1" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_G4_v3_rr1.wav"
+          Duplicate="1" SampleStart="510" SampleEnd="11984" SampleStartMod="800"
+          MonolithOffset="2621440" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="79" LoKey="79" HiKey="80" LoVel="2" HiVel="3" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_G4_v3_rr2.wav"
+          Duplicate="1" SampleStart="186" SampleEnd="11747" SampleStartMod="800"
+          MonolithOffset="2633728" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="79" LoKey="79" HiKey="80" LoVel="4" HiVel="5" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_G4_v3_rr3.wav"
+          Duplicate="1" SampleStart="561" SampleEnd="11849" SampleStartMod="800"
+          MonolithOffset="2646016" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="79" LoKey="79" HiKey="80" LoVel="6" HiVel="7" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_G4_v3_rr4.wav"
+          Duplicate="1" SampleStart="234" SampleEnd="11890" SampleStartMod="800"
+          MonolithOffset="2658304" MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="91" LoKey="91" HiKey="92" LoVel="0" HiVel="1" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_G5_v1_rr1.wav"
+          Duplicate="1" SampleStart="168" SampleEnd="13977" SampleStartMod="800"
+          MonolithOffset="2670592" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="91" LoKey="91" HiKey="92" LoVel="2" HiVel="3" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_G5_v1_rr2.wav"
+          Duplicate="1" SampleStart="223" SampleEnd="13887" SampleStartMod="800"
+          MonolithOffset="2686976" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="91" LoKey="91" HiKey="92" LoVel="4" HiVel="5" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_G5_v1_rr3.wav"
+          Duplicate="1" SampleStart="139" SampleEnd="13944" SampleStartMod="800"
+          MonolithOffset="2703360" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="91" LoKey="91" HiKey="92" LoVel="6" HiVel="7" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_G5_v1_rr4.wav"
+          Duplicate="1" SampleStart="168" SampleEnd="13977" SampleStartMod="800"
+          MonolithOffset="2719744" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="91" LoKey="91" HiKey="91" LoVel="-32" HiVel="-1" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_G5_v1_rr5.wav"
+          Duplicate="1" SampleStartMod="800" MonolithOffset="2736128" MonolithLength="16384"
+          SampleRate="48000"/>
+  <sample Root="91" LoKey="91" HiKey="91" LoVel="-32" HiVel="-1" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_G5_v1_rr6.wav"
+          Duplicate="1" SampleStartMod="800" MonolithOffset="2752512" MonolithLength="16384"
+          SampleRate="48000"/>
+  <sample Root="91" LoKey="91" HiKey="91" LoVel="-32" HiVel="-1" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_G5_v1_rr7.wav"
+          Duplicate="1" SampleStartMod="800" MonolithOffset="2768896" MonolithLength="16384"
+          SampleRate="48000"/>
+  <sample Root="91" LoKey="91" HiKey="91" LoVel="-32" HiVel="-1" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_G5_v1_rr8.wav"
+          Duplicate="1" SampleStartMod="800" MonolithOffset="2785280" MonolithLength="12288"
+          SampleRate="48000"/>
+  <sample Root="91" LoKey="91" HiKey="92" LoVel="0" HiVel="1" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_G5_v2_rr1.wav"
+          Duplicate="1" SampleStart="164" SampleEnd="14342" SampleStartMod="800"
+          MonolithOffset="2797568" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="91" LoKey="91" HiKey="92" LoVel="2" HiVel="3" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_G5_v2_rr2.wav"
+          Duplicate="1" SampleStart="174" SampleEnd="12866" SampleStartMod="800"
+          MonolithOffset="2813952" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="91" LoKey="91" HiKey="92" LoVel="4" HiVel="5" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_G5_v2_rr3.wav"
+          Duplicate="1" SampleStart="178" SampleEnd="12902" SampleStartMod="800"
+          MonolithOffset="2830336" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="91" LoKey="91" HiKey="92" LoVel="6" HiVel="7" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_G5_v2_rr4.wav"
+          Duplicate="1" SampleStart="198" SampleEnd="12872" SampleStartMod="800"
+          MonolithOffset="2846720" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="91" LoKey="91" HiKey="91" LoVel="-32" HiVel="-1" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_G5_v2_rr5.wav"
+          Duplicate="1" SampleStartMod="800" MonolithOffset="2863104" MonolithLength="12288"
+          SampleRate="48000"/>
+  <sample Root="91" LoKey="91" HiKey="91" LoVel="-32" HiVel="-1" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_G5_v2_rr6.wav"
+          Duplicate="1" SampleStartMod="800" MonolithOffset="2875392" MonolithLength="12288"
+          SampleRate="48000"/>
+  <sample Root="91" LoKey="91" HiKey="91" LoVel="-32" HiVel="-1" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_G5_v2_rr7.wav"
+          Duplicate="1" SampleStartMod="800" MonolithOffset="2887680" MonolithLength="12288"
+          SampleRate="48000"/>
+  <sample Root="91" LoKey="91" HiKey="91" LoVel="-32" HiVel="-1" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_G5_v2_rr8.wav"
+          Duplicate="1" SampleStartMod="800" MonolithOffset="2899968" MonolithLength="12288"
+          SampleRate="48000"/>
+  <sample Root="91" LoKey="91" HiKey="92" LoVel="0" HiVel="1" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_G5_v3_rr1.wav"
+          Duplicate="1" SampleStart="251" SampleEnd="14468" SampleStartMod="800"
+          MonolithOffset="2912256" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="91" LoKey="91" HiKey="92" LoVel="2" HiVel="3" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_G5_v3_rr2.wav"
+          Duplicate="1" SampleStart="217" SampleEnd="14466" SampleStartMod="800"
+          MonolithOffset="2928640" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="91" LoKey="91" HiKey="92" LoVel="4" HiVel="5" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_G5_v3_rr3.wav"
+          Duplicate="1" SampleStart="226" SampleEnd="14262" SampleStartMod="800"
+          MonolithOffset="2945024" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="91" LoKey="91" HiKey="92" LoVel="6" HiVel="7" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_G5_v3_rr4.wav"
+          Duplicate="1" SampleStart="122" SampleEnd="14367" SampleStartMod="800"
+          MonolithOffset="2961408" MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="91" LoKey="91" HiKey="91" LoVel="-32" HiVel="-1" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_G5_v3_rr5.wav"
+          Duplicate="1" SampleStartMod="800" SampleStart="126" MonolithOffset="2977792"
+          MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="91" LoKey="91" HiKey="91" LoVel="-32" HiVel="-1" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_G5_v3_rr6.wav"
+          Duplicate="1" SampleStartMod="800" SampleStart="177" MonolithOffset="2990080"
+          MonolithLength="16384" SampleRate="48000"/>
+  <sample Root="91" LoKey="91" HiKey="91" LoVel="-32" HiVel="-1" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_G5_v3_rr7.wav"
+          Duplicate="1" SampleStartMod="800" SampleStart="108" MonolithOffset="3006464"
+          MonolithLength="12288" SampleRate="48000"/>
+  <sample Root="91" LoKey="91" HiKey="91" LoVel="-32" HiVel="-1" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Salamuri/Stacc/Salamuri_Stacc_G5_v3_rr8.wav"
+          Duplicate="1" SampleStartMod="800" SampleStart="108" MonolithOffset="3018752"
+          MonolithLength="16384" SampleRate="48000"/>
 </samplemap>

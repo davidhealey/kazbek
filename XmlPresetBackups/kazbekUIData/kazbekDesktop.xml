@@ -153,7 +153,7 @@
                parentComponent="pnlPreset" textColour="4279175986" itemColour3="16711680"/>
   </Component>
   <Component type="ScriptLabel" id="lblPreset" x="434" y="11" width="156"
-             height="27" text="Duduk" itemColour2="0" fontName="Oxygen-Bold"
+             height="27" text="Salamuri" itemColour2="0" fontName="Oxygen-Bold"
              fontSize="18" editable="0" alignment="left"/>
   <Component type="ScriptButton" id="btnPreset0" x="399" y="20" filmstripImage="{PROJECT_FOLDER}previous_preset.png"
              width="9" height="10" scaleFactor="0.5" isMomentary="1" saveInPreset="0"/>
