@@ -27,8 +27,8 @@ namespace Settings
         {
             "bgColour": 0x0,
             "itemColour": 0xFF373E48,
-            "itemColour1": 0x55373E48,
-            "textColour": 0xFF373E48
+            "itemColour1": 0x77ACA793,
+            "textColour": 0xFF625A49
         },
     "Content": [],
     "CurrentTab": 0
@@ -42,7 +42,7 @@ namespace Settings
         "ColourData":
             {
                 "bgColour": 0x0,
-                "textColour": 0xFF373E48
+                "textColour": 0xFF625A49
             },
         "Font": "Oxygen-Bold",
         "FontSize": 16,
@@ -81,7 +81,7 @@ namespace Settings
             "FontSize": 16,
             "ColourData": {
                 "bgColour": 0x00000000,
-                "textColour": 0xFF373E48
+                "textColour": 0xFF625A49
             }
         });
     }
@@ -95,7 +95,7 @@ namespace Settings
         "FontSize": 16,
         "ColourData": {
             "bgColour": 0x00000000,
-            "textColour": 0xFF373E48
+            "textColour": 0xFF625A49
         }
     });
 
@@ -107,8 +107,8 @@ namespace Settings
         "ColourData":
         {
             "bgColour": 0x00000000,
-            "textColour": 0xFF373E48,
-            "itemColour1": 0x55373E48
+            "textColour": 0xFF625A49,
+            "itemColour1": 0x33625A49
         }
     });
     
@@ -120,8 +120,8 @@ namespace Settings
         "ColourData":
         {
             "bgColour": 0x00000000,
-            "itemColour1": 0xFF373E48,
-            "textColour": 0xFF373E48,
+            "itemColour1": 0xFF625A49,
+            "textColour": 0xFF625A49
         },
         "CopyrightNotice": "\u00a9 2019, David Healey",
         "ShowLicensedEmail": false,

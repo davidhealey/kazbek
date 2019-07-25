@@ -10,13 +10,13 @@
     <Control type="ScriptButton" id="btnVelDynamics" value="0"/>
     <Control type="ScriptLabel" id="lblBreath" value="Breath Control"/>
     <Control type="ScriptButton" id="btnBreath" value="0"/>
-    <Control type="ScriptSlider" id="knbDynamics" value="64"/>
+    <Control type="ScriptSlider" id="knbDynamics" value="0"/>
     <Control type="ScriptTable" id="tblDynamics" value="0" data="24...............vO...f+....9C..HtO"/>
     <Control type="ScriptSlider" id="knbVibratoIntensity" value="0"/>
     <Control type="ScriptTable" id="tblVibratoIntensity" value="0" data="24...............vO...f+....9C..jwO"/>
     <Control type="ScriptSlider" id="knbVibratoRate" value="90"/>
     <Control type="ScriptTable" id="tblVibratoRate" value="0" data=""/>
-    <Control type="ScriptSlider" id="knbTransition" value="-8.999999"/>
+    <Control type="ScriptSlider" id="knbTransition" value="-6"/>
     <Control type="ScriptLabel" id="lblTransitionGain" value="Transition Gain"/>
     <Control type="ScriptLabel" id="lblTune" value="TUNE"/>
     <Control type="ScriptLabel" id="lblPan" value="PAN"/>
@@ -24,22 +24,22 @@
     <Control type="ScriptSlider" id="knbFine" value="0"/>
     <Control type="ScriptSlider" id="knbPan" value="0"/>
     <Control type="ScriptSlider" id="knbGain" value="1.4901161e-06"/>
-    <Control type="ScriptPanel" id="pnlMenu" value="0"/>
+    <Control type="ScriptPanel" id="pnlMenu" value="5"/>
     <Control type="ScriptLabel" id="lblPreset" value="Salamuri"/>
   </Content>
   <MidiAutomation>
     <Controller Controller="1" Processor="Interface" MacroIndex="-1" Start="0"
                 End="127" FullStart="0" FullEnd="127" Skew="1.0114448" Interval="0.01"
                 Attribute="knbDynamics" Inverted="0"/>
+    <Controller Controller="11" Processor="Interface" MacroIndex="-1" Start="0"
+                End="127" FullStart="0" FullEnd="127" Skew="1.0114448" Interval="0.01"
+                Attribute="knbExpression" Inverted="0"/>
     <Controller Controller="20" Processor="Interface" MacroIndex="-1" Start="0"
                 End="127" FullStart="0" FullEnd="127" Skew="1.0114448" Interval="0.01"
                 Attribute="knbVibratoIntensity" Inverted="0"/>
     <Controller Controller="21" Processor="Interface" MacroIndex="-1" Start="20"
                 End="127" FullStart="0" FullEnd="127" Skew="1.0114448" Interval="0.01"
                 Attribute="knbVibratoRate" Inverted="0"/>
-    <Controller Controller="11" Processor="Interface" MacroIndex="-1" Start="0"
-                End="127" FullStart="0" FullEnd="127" Skew="1.0114448" Interval="0.01"
-                Attribute="knbExpression" Inverted="0"/>
   </MidiAutomation>
   <MPEData Enabled="0"/>
 </Preset>

@@ -19,6 +19,7 @@ preloadBar.setLoadingCallback(function(isPreloading)
 {
     this.data.progress = 0.0;
     this.set("visible", isPreloading);
+    
 	if(isPreloading)
         this.startTimer(30);
     else

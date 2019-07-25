@@ -15,7 +15,7 @@
     along with this program. If not, see <http://www.gnu.org/licenses/>.
 */
 
-Content.makeFrontInterface(600, 500);
+Content.makeFrontInterface(650, 570);
 
 include("manifest.js");
 include("settings.js");
@@ -27,6 +27,17 @@ Synth.deferCallbacks(true);
 Engine.loadFontAs("{PROJECT_FOLDER}Fonts/oxygen.regular.ttf", "Oxygen-Regular");
 Engine.loadFontAs("{PROJECT_FOLDER}Fonts/oxygen.light.ttf", "Oxygen-Light");
 Engine.loadFontAs("{PROJECT_FOLDER}Fonts/oxygen.bold.ttf", "Oxygen-Bold");
+
+//Value popup styling
+Content.setValuePopupData(
+{
+    "fontName": "Oxygen-Bold",
+    "fontSize": 18,
+    "itemColour": 0xFFE3E2DB,
+    "itemColour2": 0xFFE3E2DB,
+    "textColour": 0xFF6C5C1E,
+    "borderSize": 0
+});
 
 //Script processors
 const var legato = Synth.getMidiProcessor("legato");
@@ -56,10 +67,10 @@ Content.getComponent("knbDynamics").setControlCallback(onknbDynamicsControl);
 
 //Menu and pages
 const var pnlMenu = Content.getComponent("pnlMenu");
-const var menuLabels = ["VELOCITY", "EXPRESSION", "DYNAMICS", "VIBRATO INTENSITY", "VIBRATO RATE", "LEGATO", "SETTINGS"];
-pnlMenu.data.itemHeight = 25;
+const var menuLabels = ["MIXER", "VELOCITY", "EXPRESSION", "DYNAMICS", "VIBRATO INTENSITY", "VIBRATO RATE", "LEGATO", "SETTINGS"];
+pnlMenu.data.itemHeight = 22;
 pnlMenu.data.numRows = menuLabels.length;
-pnlMenu.data.verticalOffset = 15;
+pnlMenu.data.verticalOffset = 23;
 
 //Add pages to array
 const var pages = [];
@@ -71,16 +82,15 @@ for (i = 0; i < menuLabels.length; i++)
 //Menu paint routine
 pnlMenu.setPaintRoutine(function(g){
     
-    g.fillAll(0x446f7C91);
+    g.fillAll(0x00);
     
     var voffset = this.data.verticalOffset;
     
     for (i = 0; i < menuLabels.length; i++)
     {
-        i == this.getValue() ? g.setColour(0xFF373E48) : g.setColour(0xFF535d6C);
-        i == this.getValue() ? g.setFont("Oxygen-Bold", 22) : g.setFont("Oxygen-Regular", 22);    
-        
-        g.drawAlignedText(menuLabels[i], [10, voffset+((this.data.itemHeight*2)*i), this.getWidth(), this.data.itemHeight], "left");
+        i == this.getValue() ? g.setColour(0xFF746E58) : g.setColour(0xFF918A6F);
+        i == this.getValue() ? g.setFont("Oxygen-Bold", 20) : g.setFont("Oxygen-Regular", 20);    
+        g.drawAlignedText(menuLabels[i], [0, voffset+((this.data.itemHeight*2)*i), this.getWidth(), this.data.itemHeight], "left");
     }
 });
 
