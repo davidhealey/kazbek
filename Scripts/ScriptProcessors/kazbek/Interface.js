@@ -8,7 +8,7 @@
 
     This program is distributed in the hope that it will be useful,
     but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
     GNU General Public License for more details.
 
     You should have received a copy of the GNU General Public License
@@ -67,10 +67,10 @@ Content.getComponent("knbDynamics").setControlCallback(onknbDynamicsControl);
 
 //Menu and pages
 const var pnlMenu = Content.getComponent("pnlMenu");
-const var menuLabels = ["MIXER", "VELOCITY", "EXPRESSION", "DYNAMICS", "VIBRATO INTENSITY", "VIBRATO RATE", "LEGATO", "SETTINGS"];
-pnlMenu.data.itemHeight = 22;
+const var menuLabels = ["MIXER", "VELOCITY", "EXPRESSION", "DYNAMICS", "VIBRATO", "LEGATO", "SETTINGS"];
+pnlMenu.data.itemHeight = 25;
 pnlMenu.data.numRows = menuLabels.length;
-pnlMenu.data.verticalOffset = 23;
+pnlMenu.data.verticalOffset = 25;
 
 //Add pages to array
 const var pages = [];
