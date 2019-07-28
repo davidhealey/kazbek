@@ -56,15 +56,6 @@ for (id in samplerIds)
     childSynths[id] = Synth.getChildSynth(id);
 }  
 
-//Dynamics && breath control
-inline function onknbDynamicsControl(component, value)
-{
-    dynamicsCC.setAttribute(dynamicsCC.DefaultValue, value);
-    legato.setAttribute(legato.knbBreath, value);
-}
-
-Content.getComponent("knbDynamics").setControlCallback(onknbDynamicsControl);
-
 //Menu and pages
 const var pnlMenu = Content.getComponent("pnlMenu");
 const var menuLabels = ["MIXER", "VELOCITY", "EXPRESSION", "DYNAMICS", "VIBRATO", "LEGATO", "SETTINGS"];
@@ -116,6 +107,76 @@ inline function changePage(p)
         pages[i].showControl(i == p);
     }
 }
+
+//Dynamics && breath control
+inline function onknbDynamicsControl(component, value)
+{
+    dynamicsCC.setAttribute(dynamicsCC.DefaultValue, value);
+    legato.setAttribute(legato.knbBreath, value);
+}
+
+Content.getComponent("knbDynamics").setControlCallback(onknbDynamicsControl);
+
+//Vibrato UI
+const var pnlXY = Content.getComponent("pnlXY"); //XY Pad
+const var vibMods = []; //CC Modulators
+const var knbVibrato = []; //Sliders
+
+for (i = 0; i < 2; i++)
+{
+    vibMods[i] = Synth.getModulator("vibratoMod"+i);
+    knbVibrato[i] = Content.getComponent("knbVibrato"+i);
+    knbVibrato[i].setControlCallback(onVibratoSlider);
+}
+
+inline function onVibratoSlider(component, value)
+{
+    //Set modulator value
+    for (i = 0; i < vibMods.length; i++)
+    {
+        vibMods[i].setAttribute(vibMods[i].DefaultValue, knbVibrato[i].getValue());
+    }
+    
+    //Update XY pad
+    pnlXY.changed();
+    pnlXY.repaint();
+}
+
+pnlXY.setPaintRoutine(function(g){   
+    
+    //Background
+    g.fillAll(0x33ACA793);
+    
+    //Get knob values as normalized percentage
+    var intensity = knbVibrato[0].getValue() / 127;
+    var rate = 1 - (knbVibrato[1].getValue() / 127);
+   
+    //Calculate dot position
+    var x = Math.range(intensity * (this.getWidth()-10), 0, this.getWidth()-10);
+    var y = Math.range(rate * (this.getHeight()-10), 0, this.getHeight()-10);
+           
+    //Draw dot
+    g.setColour(0xFF817E6A);
+    g.fillEllipse([x, y, 10, 10]);
+});
+
+pnlXY.setMouseCallback(function(event)
+{
+    if (event.clicked || event.drag)
+    {       
+        //Calculate new knob value normalized percentage
+        var x = Math.range(event.x / this.getWidth(), 0, 1);
+        var y = Math.range(event.y / this.getHeight(), 0, 1);
+        
+        //Update knob values
+        knbVibrato[0].setValue(127 * x);
+        knbVibrato[1].setValue(127-(127 * y));
+        
+        //Trigger knob callback to update modulators and repaint panel
+        knbVibrato[0].changed();
+        knbVibrato[1].changed();
+    }
+});
 
 //Patch selector
 reg patch;

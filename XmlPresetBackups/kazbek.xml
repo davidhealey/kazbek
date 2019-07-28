@@ -22,11 +22,10 @@
             <Control type="ScriptButton" id="btnBreath" value="0"/>
             <Control type="ScriptSlider" id="knbDynamics" value="64"/>
             <Control type="ScriptTable" id="tblDynamics" value="0" data="24...............vO...f+....9C..HtO"/>
-            <Control type="ScriptSlider" id="knbVibratoIntensity" value="0"/>
-            <Control type="ScriptSlider" id="knbVibratoRate" value="90"/>
-            <Control type="ScriptTable" id="tblVibratoIntensity" value="0" data="24...............vO...f+....9C..jwO"/>
+            <Control type="ScriptSlider" id="knbVibrato0" value="40.64"/>
+            <Control type="ScriptSlider" id="knbVibrato1" value="29.633333"/>
             <Control type="ScriptSlider" id="knbTransition" value="-8.999999"/>
-            <Control type="ScriptPanel" id="pnlMenu" value="0"/>
+            <Control type="ScriptPanel" id="pnlMenu" value="4"/>
             <Control type="ScriptLabel" id="lblPreset" value="Duduk"/>
           </Content>
           <UIData Source="kazbekUIData"/>
@@ -50,7 +49,7 @@
           <ChildProcessors/>
           <Content>
             <Control type="ScriptButton" id="btnDynamics" value="0"/>
-            <Control type="ScriptTable" id="tblVel" value="67" data="24...............vO...f+....9C..nvO"/>
+            <Control type="ScriptTable" id="tblVel" value="43" data="24...............vO...f+....9C..nvO"/>
           </Content>
           <UIData>
             <ContentProperties DeviceType="Desktop">
@@ -119,9 +118,9 @@
               <ChildProcessors>
                 <Processor Type="ModulatorChain" ID="LFO Intensity Mod" Bypassed="0" Intensity="1">
                   <ChildProcessors>
-                    <Processor Type="MidiController" ID="vibratoIntensity" Bypassed="0" Intensity="1"
+                    <Processor Type="MidiController" ID="vibratoMod0" Bypassed="0" Intensity="1"
                                UseTable="1" Inverted="0" ControllerNumber="94" SmoothTime="500"
-                               DefaultValue="0" ControllerTableData="24...............vO...f+....9C..jwO">
+                               DefaultValue="40.639999" ControllerTableData="24...............vO...f+....9C..nqO">
                       <ChildProcessors/>
                     </Processor>
                     <Processor Type="LFO" ID="vibratoIntensityRand" Bypassed="0" Intensity="0.2"
@@ -140,9 +139,9 @@
                 </Processor>
                 <Processor Type="ModulatorChain" ID="LFO Frequency Mod" Bypassed="0" Intensity="1">
                   <ChildProcessors>
-                    <Processor Type="MidiController" ID="vibratoRate" Bypassed="0" Intensity="1"
-                               UseTable="1" Inverted="0" ControllerNumber="94" SmoothTime="200"
-                               DefaultValue="90" ControllerTableData="24...............vO...f+....9C..jwO">
+                    <Processor Type="MidiController" ID="vibratoMod1" Bypassed="0" Intensity="1"
+                               UseTable="0" Inverted="0" ControllerNumber="94" SmoothTime="200"
+                               DefaultValue="29.633333">
                       <ChildProcessors/>
                     </Processor>
                     <Processor Type="LFO" ID="vibratoRateRand" Bypassed="0" Intensity="0.2"
@@ -685,10 +684,10 @@
                 Attribute="knbExpression" Inverted="0"/>
     <Controller Controller="20" Processor="Interface" MacroIndex="-1" Start="0"
                 End="127" FullStart="0" FullEnd="127" Skew="1.0114448" Interval="0.01"
-                Attribute="knbVibratoIntensity" Inverted="0"/>
+                Attribute="" Inverted="0"/>
     <Controller Controller="21" Processor="Interface" MacroIndex="-1" Start="20"
                 End="127" FullStart="0" FullEnd="127" Skew="1.0114448" Interval="0.01"
-                Attribute="knbVibratoRate" Inverted="0"/>
+                Attribute="" Inverted="0"/>
   </MidiAutomation>
   <MPEData Enabled="0"/>
 </Processor>
