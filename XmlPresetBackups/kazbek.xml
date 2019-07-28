@@ -22,10 +22,10 @@
             <Control type="ScriptButton" id="btnBreath" value="0"/>
             <Control type="ScriptSlider" id="knbDynamics" value="64"/>
             <Control type="ScriptTable" id="tblDynamics" value="0" data="24...............vO...f+....9C..HtO"/>
-            <Control type="ScriptSlider" id="knbVibrato0" value="40.64"/>
-            <Control type="ScriptSlider" id="knbVibrato1" value="29.633333"/>
+            <Control type="ScriptSlider" id="knbVibrato0" value="0"/>
+            <Control type="ScriptSlider" id="knbVibrato1" value="90"/>
             <Control type="ScriptSlider" id="knbTransition" value="-8.999999"/>
-            <Control type="ScriptPanel" id="pnlMenu" value="4"/>
+            <Control type="ScriptPanel" id="pnlMenu" value="3"/>
             <Control type="ScriptLabel" id="lblPreset" value="Duduk"/>
           </Content>
           <UIData Source="kazbekUIData"/>
@@ -120,7 +120,7 @@
                   <ChildProcessors>
                     <Processor Type="MidiController" ID="vibratoMod0" Bypassed="0" Intensity="1"
                                UseTable="1" Inverted="0" ControllerNumber="94" SmoothTime="500"
-                               DefaultValue="40.639999" ControllerTableData="24...............vO...f+....9C..nqO">
+                               DefaultValue="0" ControllerTableData="24...............vO...f+....9C..nqO">
                       <ChildProcessors/>
                     </Processor>
                     <Processor Type="LFO" ID="vibratoIntensityRand" Bypassed="0" Intensity="0.2"
@@ -141,7 +141,7 @@
                   <ChildProcessors>
                     <Processor Type="MidiController" ID="vibratoMod1" Bypassed="0" Intensity="1"
                                UseTable="0" Inverted="0" ControllerNumber="94" SmoothTime="200"
-                               DefaultValue="29.633333">
+                               DefaultValue="90">
                       <ChildProcessors/>
                     </Processor>
                     <Processor Type="LFO" ID="vibratoRateRand" Bypassed="0" Intensity="0.2"
