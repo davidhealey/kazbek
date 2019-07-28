@@ -46,7 +46,7 @@
   </Component>
   <Component type="ScriptPanel" id="page1" x="237" y="68" bgColour="0" itemColour="0"
              itemColour2="0" textColour="0" width="400" height="356" borderSize="0"
-             borderRadius="0" visible="0">
+             borderRadius="0">
     <Component type="ScriptTable" id="tblVelocity" x="86" y="103" width="200"
                height="150" customColours="1" processorId="globalVelocity" parentComponent="page1"
                bgColour="0" itemColour="1437378451" itemColour2="4289505171"/>
@@ -67,7 +67,7 @@
   </Component>
   <Component type="ScriptPanel" id="page3" x="237" y="68" bgColour="0" itemColour="0"
              itemColour2="0" textColour="0" width="388" height="380" borderSize="0"
-             borderRadius="0">
+             borderRadius="0" visible="0">
     <Component type="ScriptLabel" id="lblVelDynamics" x="94" y="64" width="106"
                height="25" parentComponent="page3" text="Velocity Control" textColour="4284635721"
                itemColour2="0" fontName="Oxygen-Bold" fontSize="16" alignment="left"
@@ -140,7 +140,8 @@
              width="650" height="72"/>
   <Component type="ScriptPanel" id="pnlMenu" x="40" y="68" width="180" height="380"
              popupOnRightClick="0" allowCallbacks="Clicks Only" saveInPreset="1"
-             itemColour="0" itemColour2="0" textColour="0" bgColour="0"/>
+             itemColour="0" itemColour2="0" textColour="0" bgColour="0" tooltip="MIXER"
+             borderRadius="0" borderSize="0" max="100"/>
   <Component type="ScriptPanel" id="pnlPreset" x="0" y="60" width="650" height="399"
              itemColour="0" itemColour2="0" bgColour="0" textColour="0" visible="0">
     <Component type="ScriptImage" id="imgPresetBg" x="0" y="0" width="650" height="416"
