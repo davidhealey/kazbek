@@ -25,7 +25,7 @@
             <Control type="ScriptSlider" id="knbVibrato0" value="0"/>
             <Control type="ScriptSlider" id="knbVibrato1" value="90"/>
             <Control type="ScriptSlider" id="knbTransition" value="-8.999999"/>
-            <Control type="ScriptPanel" id="pnlMenu" value="1"/>
+            <Control type="ScriptPanel" id="pnlMenu" value="0"/>
             <Control type="ScriptLabel" id="lblPreset" value="Duduk"/>
           </Content>
           <UIData Source="kazbekUIData"/>
@@ -49,7 +49,7 @@
           <ChildProcessors/>
           <Content>
             <Control type="ScriptButton" id="btnDynamics" value="0"/>
-            <Control type="ScriptTable" id="tblVel" value="43" data="24...............vO...f+....9C..nvO"/>
+            <Control type="ScriptTable" id="tblVel" value="67" data="24...............vO...f+....9C..nvO"/>
           </Content>
           <UIData>
             <ContentProperties DeviceType="Desktop">
