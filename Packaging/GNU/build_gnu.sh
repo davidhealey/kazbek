@@ -3,7 +3,7 @@
 project=Kazbek
 version=1.0.0
 xmlFile=kazbek
-workspace=/media/john/SHARED/HISEProjects/Kazbek
+workspace=/media/john/SHARED/HISEProjects/Woodwinds/Kazbek/HISE
 
 build_standalone=0
 build_plugin=1
@@ -17,6 +17,7 @@ makeself=/media/john/SHARED/makeself
 package="$workspace"/Packaging/GNU/temp
 mkdir -p "$package"
 
+mkdir -p "$workspace"/Binaries
 cd "$workspace"/Binaries
 
 # STEP 1: BUILDING THE BINARIES
@@ -24,7 +25,7 @@ cd "$workspace"/Binaries
 if (($build_standalone == 1 || $build_plugin == 1))
 then
 
-  "$hise_path" set_project_folder -p:$workspace
+  "$hise_path" set_project_folder -p:"$workspace"
   "$hise_path" set_version -v:$version
 
   echo Making the Projucer accessible for this project
@@ -33,8 +34,8 @@ then
   if (($build_standalone==1))
   then
     echo Building the standalone app
-    "$hise_path" clean -p:$workspace --all
-    "$hise_path" export_ci XmlPresetBackups/$xmlFile.xml -t:standalone -a:x64
+    "$hise_path" clean -p:"$workspace" --all
+    "$hise_path" export_ci XmlPresetBackups/$xmlFile.xml -t:standalone -a:x86x64
     chmod +x "$workspace"/Binaries/batchCompileLinux.sh
     sh "$workspace"/Binaries/batchCompileLinux.sh
     cp "$workspace"/Binaries/Builds/LinuxMakefile/build/"$project" "$package"
@@ -43,8 +44,8 @@ then
   if (($build_plugin==1))
   then
     echo Building the plugins
-    "$hise_path" clean -p:$workspace --all
-    "$hise_path" export_ci XmlPresetBackups/$xmlFile.xml -t:instrument -p:VST -a:x64
+    "$hise_path" clean -p:"$workspace" --all
+    "$hise_path" export_ci XmlPresetBackups/$xmlFile.xml -t:instrument -p:VST -a:x86x64
     chmod +x "$workspace"/Binaries/batchCompileLinux.sh
     sh "$workspace"/Binaries/batchCompileLinux.sh
     cp "$workspace"/Binaries/Builds/LinuxMakefile/build/"$project".so "$package"
@@ -58,6 +59,7 @@ if (($build_installer==1))
 then
   echo "Build Installer"
 
+  mkdir -p "$workspace"/Installer
   cp "$workspace"/License.txt "$package"
   cp "$workspace"/Packaging/GNU/GNUInstaller.sh "$package"
 

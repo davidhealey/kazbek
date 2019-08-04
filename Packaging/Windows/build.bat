@@ -2,7 +2,7 @@
 
 set project=Kazbek
 set xmlFile=kazbek
-set workspace=D:\HISEProjects\Kazbek
+set workspace=D:\HISEProjects\Woodwinds\Kazbek\HISE
 
 set build_standalone=1
 set build_plugin=1
@@ -64,3 +64,4 @@ if %build_installer%==1 (
 )
 
 :end
+cmd /k
