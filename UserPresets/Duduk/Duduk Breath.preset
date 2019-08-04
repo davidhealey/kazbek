@@ -33,10 +33,10 @@
                 Attribute="knbDynamics" Inverted="0"/>
     <Controller Controller="1" Processor="Interface" MacroIndex="-1" Start="0"
                 End="127" FullStart="0" FullEnd="127" Skew="1.0114448" Interval="0.01"
-                Attribute="knbVibratoIntensity" Inverted="0"/>
+                Attribute="knbVibrato0" Inverted="0"/>
     <Controller Controller="21" Processor="Interface" MacroIndex="-1" Start="20"
                 End="127" FullStart="0" FullEnd="127" Skew="1.0114448" Interval="0.01"
-                Attribute="knbVibratoRate" Inverted="0"/>
+                Attribute="knbVibrato1" Inverted="0"/>
     <Controller Controller="2" Processor="Interface" MacroIndex="-1" Start="20"
                 End="127" FullStart="0" FullEnd="127" Skew="1.0114448" Interval="0.01"
                 Attribute="knbExpression" Inverted="0"/>
