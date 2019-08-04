@@ -49,7 +49,7 @@
           <ChildProcessors/>
           <Content>
             <Control type="ScriptButton" id="btnDynamics" value="0"/>
-            <Control type="ScriptTable" id="tblVel" value="67" data="24...............vO...f+....9C..nvO"/>
+            <Control type="ScriptTable" id="tblVel" value="56" data="24...............vO...f+....9C..nvO"/>
           </Content>
           <UIData>
             <ContentProperties DeviceType="Desktop">
@@ -239,8 +239,8 @@
                     <Control type="ScriptSlider" id="knbBendMin" value="10"/>
                     <Control type="ScriptSlider" id="knbBendMax" value="30"/>
                     <Control type="ScriptSlider" id="knbBendIntensity" value="100"/>
-                    <Control type="ScriptSlider" id="knbRate" value="0"/>
-                    <Control type="ScriptButton" id="btnGlideVel" value="0"/>
+                    <Control type="ScriptSlider" id="knbRate" value="8.503937"/>
+                    <Control type="ScriptButton" id="btnGlideVel" value="1"/>
                     <Control type="ScriptButton" id="btnWholeStep" value="0"/>
                     <Control type="ScriptSlider" id="knbMaxGlide" value="0"/>
                     <Control type="ScriptButton" id="btnBc" value="0"/>
