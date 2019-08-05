@@ -25,7 +25,7 @@
             <Control type="ScriptSlider" id="knbVibrato0" value="0"/>
             <Control type="ScriptSlider" id="knbVibrato1" value="90"/>
             <Control type="ScriptSlider" id="knbTransition" value="-8.999999"/>
-            <Control type="ScriptPanel" id="pnlMenu" value="0"/>
+            <Control type="ScriptPanel" id="pnlMenu" value="1"/>
             <Control type="ScriptLabel" id="lblPreset" value="Duduk"/>
           </Content>
           <UIData Source="kazbekUIData"/>
@@ -239,7 +239,7 @@
                     <Control type="ScriptSlider" id="knbBendMin" value="10"/>
                     <Control type="ScriptSlider" id="knbBendMax" value="30"/>
                     <Control type="ScriptSlider" id="knbBendIntensity" value="100"/>
-                    <Control type="ScriptSlider" id="knbRate" value="8.503937"/>
+                    <Control type="ScriptSlider" id="knbRate" value="8.5039368"/>
                     <Control type="ScriptButton" id="btnGlideVel" value="1"/>
                     <Control type="ScriptButton" id="btnWholeStep" value="0"/>
                     <Control type="ScriptSlider" id="knbMaxGlide" value="0"/>

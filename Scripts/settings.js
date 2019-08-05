@@ -42,6 +42,7 @@ namespace Settings
         "ColourData":
             {
                 "bgColour": 0x0,
+                "itemColour3": 0xFF625A49,
                 "textColour": 0xFF625A49
             },
         "Font": "Oxygen-Bold",
@@ -57,7 +58,7 @@ namespace Settings
         "ScaleFactor": true,
         "SustainCC": false,
         "ClearMidiCC": false,
-        "SampleLocation": false,
+        "SampleLocation": true,
         "DebugMode": false,
         "ScaleFactorList": [
             0.5,
