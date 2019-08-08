@@ -11,6 +11,7 @@
           <Content>
             <Control type="ScriptComboBox" id="cmbPatches" value="1"/>
             <Control type="ScriptSlider" id="knbGain" value="1.4901161e-06"/>
+            <Control type="ScriptSlider" id="knbDelay" value="50"/>
             <Control type="ScriptSlider" id="knbPan" value="0"/>
             <Control type="ScriptSlider" id="knbFine" value="0"/>
             <Control type="ScriptTable" id="tblVelocity" value="0" data="24...............vO...f+....9C..nvO"/>
@@ -25,7 +26,7 @@
             <Control type="ScriptSlider" id="knbVibrato0" value="0"/>
             <Control type="ScriptSlider" id="knbVibrato1" value="90"/>
             <Control type="ScriptSlider" id="knbTransition" value="-8.999999"/>
-            <Control type="ScriptPanel" id="pnlMenu" value="1"/>
+            <Control type="ScriptPanel" id="pnlMenu" value="0"/>
             <Control type="ScriptLabel" id="lblPreset" value="Duduk"/>
           </Content>
           <UIData Source="kazbekUIData"/>
@@ -49,7 +50,7 @@
           <ChildProcessors/>
           <Content>
             <Control type="ScriptButton" id="btnDynamics" value="0"/>
-            <Control type="ScriptTable" id="tblVel" value="56" data="24...............vO...f+....9C..nvO"/>
+            <Control type="ScriptTable" id="tblVel" value="54" data="24...............vO...f+....9C..nvO"/>
           </Content>
           <UIData>
             <ContentProperties DeviceType="Desktop">
@@ -75,7 +76,7 @@
     <Processor Type="EffectChain" ID="FX" Bypassed="0">
       <ChildProcessors>
         <Processor Type="SimpleGain" ID="Simple Gain1" Bypassed="0" Gain="1.0354387e-06"
-                   Delay="0" Width="100" Balance="0">
+                   Delay="50" Width="100" Balance="0">
           <ChildProcessors>
             <Processor Type="ModulatorChain" ID="Gain Modulation" Bypassed="0" Intensity="1">
               <ChildProcessors/>
@@ -232,14 +233,14 @@
                   <Content>
                     <Control type="ScriptButton" id="btnMute" value="0"/>
                     <Control type="ScriptSlider" id="knbOffset" value="20"/>
-                    <Control type="ScriptButton" id="btnRetrigger" value="0"/>
+                    <Control type="ScriptButton" id="btnRetrigger" value="1"/>
                     <Control type="ScriptSlider" id="knbFadeMin" value="20"/>
                     <Control type="ScriptSlider" id="knbFadeMax" value="65"/>
                     <Control type="ScriptSlider" id="knbFadeIntensity" value="100"/>
                     <Control type="ScriptSlider" id="knbBendMin" value="10"/>
                     <Control type="ScriptSlider" id="knbBendMax" value="30"/>
                     <Control type="ScriptSlider" id="knbBendIntensity" value="100"/>
-                    <Control type="ScriptSlider" id="knbRate" value="8.5039368"/>
+                    <Control type="ScriptSlider" id="knbRate" value="9.7795276"/>
                     <Control type="ScriptButton" id="btnGlideVel" value="1"/>
                     <Control type="ScriptButton" id="btnWholeStep" value="0"/>
                     <Control type="ScriptSlider" id="knbMaxGlide" value="0"/>
@@ -684,10 +685,10 @@
                 Attribute="knbExpression" Inverted="0"/>
     <Controller Controller="20" Processor="Interface" MacroIndex="-1" Start="0"
                 End="127" FullStart="0" FullEnd="127" Skew="1.0114448" Interval="0.01"
-                Attribute="imgSkin" Inverted="0"/>
+                Attribute="knbVibrato0" Inverted="0"/>
     <Controller Controller="21" Processor="Interface" MacroIndex="-1" Start="20"
                 End="127" FullStart="0" FullEnd="127" Skew="1.0114448" Interval="0.01"
-                Attribute="imgSkin" Inverted="0"/>
+                Attribute="knbVibrato1" Inverted="0"/>
   </MidiAutomation>
   <MPEData Enabled="0"/>
 </Processor>

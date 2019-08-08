@@ -10,32 +10,43 @@
   </Component>
   <Component type="ScriptPanel" id="page0" x="237" y="68" bgColour="0" itemColour="0"
              itemColour2="0" textColour="0" width="388" height="380" borderSize="0"
-             borderRadius="0" visible="0">
-    <Component type="ScriptLabel" id="lblGain" x="41" y="204" width="69" height="30"
+             borderRadius="0">
+    <Component type="ScriptLabel" id="lblGain" x="21" y="204" width="69" height="30"
                parentComponent="page0" text="Volume" textColour="4284635721"
                itemColour2="0" fontName="Oxygen-Bold" fontSize="18" editable="0"
                saveInPreset="0"/>
-    <Component type="ScriptLabel" id="lblPan" x="151" y="204" width="73" height="30"
+    <Component type="ScriptLabel" id="lblDelay" x="107" y="204" width="69" height="30"
+               parentComponent="page0" text="Delay" textColour="4284635721"
+               itemColour2="0" fontName="Oxygen-Bold" fontSize="18" editable="0"
+               saveInPreset="0"/>
+    <Component type="ScriptLabel" id="lblPan" x="194" y="204" width="73" height="30"
                parentComponent="page0" text="Balance" textColour="4284635721"
                itemColour2="0" fontName="Oxygen-Bold" fontSize="18" editable="0"
                saveInPreset="0"/>
-    <Component type="ScriptLabel" id="lblTune" x="261" y="204" width="79" height="30"
+    <Component type="ScriptLabel" id="lblTune" x="281" y="204" width="79" height="30"
                parentComponent="page0" text="Fine Tune" textColour="4284635721"
                itemColour2="0" fontName="Oxygen-Bold" fontSize="18" editable="0"
                saveInPreset="0"/>
-    <Component type="ScriptSlider" id="knbGain" x="51" y="145" middlePosition="-18"
+    <Component type="ScriptSlider" id="knbGain" x="31" y="145" middlePosition="-18"
                stepSize="0.1" min="-100" max="3" suffix=" dB" mode="Decibel"
                pluginParameterName="Gain" text="Gain" processorId="Simple Gain1"
                parameterId="Gain" showValuePopup="Above" scaleFactor="0.5" numStrips="128"
                width="50" height="50" showTextBox="0" parentComponent="page0"
                isPluginParameter="1" bgColour="4289505171" itemColour="4293124827"
                filmstripImage="{PROJECT_FOLDER}knob-small.png" defaultValue="-3"/>
-    <Component type="ScriptSlider" id="knbPan" x="162" y="145" mode="Pan" min="-100"
+    <Component type="ScriptSlider" id="knbDelay" x="118" y="145" middlePosition="100"
+               stepSize="1.0" max="500" suffix=" dB" mode="Time" pluginParameterName="Gain"
+               text="Gain" processorId="Simple Gain1" parameterId="Delay" showValuePopup="Above"
+               scaleFactor="0.5" numStrips="128" width="50" height="50" showTextBox="0"
+               parentComponent="page0" isPluginParameter="1" bgColour="4289505171"
+               itemColour="4293124827" filmstripImage="{PROJECT_FOLDER}knob-small.png"
+               defaultValue="50"/>
+    <Component type="ScriptSlider" id="knbPan" x="206" y="145" mode="Pan" min="-100"
                max="100" stepSize="1" suffix="L" middlePosition="0" pluginParameterName="Pan"
                text="Pan" processorId="Simple Gain1" parameterId="Balance" showValuePopup="Above"
                scaleFactor="0.5" numStrips="128" width="50" height="50" showTextBox="0"
                parentComponent="page0" isPluginParameter="1" filmstripImage="{PROJECT_FOLDER}knob-small.png"/>
-    <Component type="ScriptSlider" id="knbFine" x="274" y="145" middlePosition="0"
+    <Component type="ScriptSlider" id="knbFine" x="294" y="145" middlePosition="0"
                min="-100" max="100" suffix=" ct" text="Fine Tuning" pluginParameterName="Tuning"
                processorId="coarseFineTune" parameterId="knbFine" stepSize="1"
                showValuePopup="Above" scaleFactor="0.5" numStrips="128" width="50"
@@ -44,7 +55,7 @@
   </Component>
   <Component type="ScriptPanel" id="page1" x="237" y="68" bgColour="0" itemColour="0"
              itemColour2="0" textColour="0" width="400" height="356" borderSize="0"
-             borderRadius="0">
+             borderRadius="0" visible="0">
     <Component type="ScriptTable" id="tblVelocity" x="86" y="103" width="200"
                height="150" customColours="1" processorId="globalVelocity" parentComponent="page1"
                bgColour="0" itemColour="1437378451" itemColour2="4289505171"/>

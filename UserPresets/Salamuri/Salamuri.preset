@@ -3,6 +3,10 @@
 <Preset Version="1.0.0">
   <Content Processor="Interface">
     <Control type="ScriptComboBox" id="cmbPatches" value="2"/>
+    <Control type="ScriptSlider" id="knbGain" value="1.4901161e-06"/>
+    <Control type="ScriptSlider" id="knbDelay" value="50"/>
+    <Control type="ScriptSlider" id="knbPan" value="0"/>
+    <Control type="ScriptSlider" id="knbFine" value="0"/>
     <Control type="ScriptTable" id="tblVelocity" value="0" data="24...............vO...f+....9C..nvO"/>
     <Control type="ScriptSlider" id="knbExpression" value="127"/>
     <Control type="ScriptTable" id="tblExpression" value="0" data=""/>
@@ -12,18 +16,9 @@
     <Control type="ScriptButton" id="btnBreath" value="0"/>
     <Control type="ScriptSlider" id="knbDynamics" value="0"/>
     <Control type="ScriptTable" id="tblDynamics" value="0" data="24...............vO...f+....9C..HtO"/>
-    <Control type="ScriptSlider" id="knbVibratoIntensity" value="0"/>
-    <Control type="ScriptTable" id="tblVibratoIntensity" value="0" data="24...............vO...f+....9C..jwO"/>
-    <Control type="ScriptSlider" id="knbVibratoRate" value="90"/>
-    <Control type="ScriptTable" id="tblVibratoRate" value="0" data=""/>
+    <Control type="ScriptSlider" id="knbVibrato0" value="0"/>
+    <Control type="ScriptSlider" id="knbVibrato1" value="90"/>
     <Control type="ScriptSlider" id="knbTransition" value="-6"/>
-    <Control type="ScriptLabel" id="lblTransitionGain" value="Transition Gain"/>
-    <Control type="ScriptLabel" id="lblTune" value="TUNE"/>
-    <Control type="ScriptLabel" id="lblPan" value="PAN"/>
-    <Control type="ScriptLabel" id="lblVol" value="VOL"/>
-    <Control type="ScriptSlider" id="knbFine" value="0"/>
-    <Control type="ScriptSlider" id="knbPan" value="0"/>
-    <Control type="ScriptSlider" id="knbGain" value="1.4901161e-06"/>
     <Control type="ScriptPanel" id="pnlMenu" value="5"/>
     <Control type="ScriptLabel" id="lblPreset" value="Salamuri"/>
   </Content>
