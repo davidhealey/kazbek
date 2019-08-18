@@ -1,7 +1,6 @@
 # GNU BUILD SCRIPT
 
 project=Kazbek
-version=1.0.0
 xmlFile=kazbek
 workspace=/media/john/SHARED/HISEProjects/Woodwinds/Kazbek/HISE
 
@@ -26,7 +25,6 @@ if (($build_standalone == 1 || $build_plugin == 1))
 then
 
   "$hise_path" set_project_folder -p:"$workspace"
-  "$hise_path" set_version -v:$version
 
   echo Making the Projucer accessible for this project
   chmod +x "$projucer_path"
@@ -64,7 +62,9 @@ then
   cp "$workspace"/Packaging/GNU/GNUInstaller.sh "$package"
 
   #Run makeself
-  sh "$makeself"/makeself.sh --license "$workspace"/License.txt "$workspace"/Packaging/GNU/temp "$workspace"/Installer/"$project"\ $version.sh "$project" ./GNUInstaller.sh
+  sh "$makeself"/makeself.sh --license "$workspace"/License.txt "$workspace"/Packaging/GNU/temp "$workspace"/Installer/"$project".sh "$project" ./GNUInstaller.sh
+  
+  cp "$workspace"/Installer/"$project".sh /media/john/SHARED/installers
 
 else
   echo "Skip Building Installer"

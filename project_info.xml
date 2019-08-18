@@ -2,7 +2,7 @@
 
 <ProjectSettings>
   <Name value="Kazbek"/>
-  <Version value="1.0.0"/>
+  <Version value="1.0.1"/>
   <Description value="Duduk and Salamuri"/>
   <BundleIdentifier value="com.librewave.kazbek"/>
   <PluginCode value="Abcd"/>
@@ -19,4 +19,6 @@
   <AAXCategoryFX value="AAX_ePlugInCategory_Modulation"/>
   <SupportMonoFX value="No"/>
   <UseRawFrontend value="No"/>
+  <EmbedImageFiles value="Yes"/>
+  <VST3Support value="No"/>
 </ProjectSettings>

@@ -13,20 +13,16 @@
              borderRadius="0">
     <Component type="ScriptLabel" id="lblGain" x="21" y="204" width="69" height="30"
                parentComponent="page0" text="Volume" textColour="4284635721"
-               itemColour2="0" fontName="Oxygen-Bold" fontSize="18" editable="0"
-               saveInPreset="0"/>
+               itemColour2="0" fontName="Oxygen-Bold" fontSize="18" editable="0"/>
     <Component type="ScriptLabel" id="lblDelay" x="107" y="204" width="69" height="30"
                parentComponent="page0" text="Delay" textColour="4284635721"
-               itemColour2="0" fontName="Oxygen-Bold" fontSize="18" editable="0"
-               saveInPreset="0"/>
+               itemColour2="0" fontName="Oxygen-Bold" fontSize="18" editable="0"/>
     <Component type="ScriptLabel" id="lblPan" x="194" y="204" width="73" height="30"
                parentComponent="page0" text="Balance" textColour="4284635721"
-               itemColour2="0" fontName="Oxygen-Bold" fontSize="18" editable="0"
-               saveInPreset="0"/>
+               itemColour2="0" fontName="Oxygen-Bold" fontSize="18" editable="0"/>
     <Component type="ScriptLabel" id="lblTune" x="281" y="204" width="79" height="30"
                parentComponent="page0" text="Fine Tune" textColour="4284635721"
-               itemColour2="0" fontName="Oxygen-Bold" fontSize="18" editable="0"
-               saveInPreset="0"/>
+               itemColour2="0" fontName="Oxygen-Bold" fontSize="18" editable="0"/>
     <Component type="ScriptSlider" id="knbGain" x="31" y="145" middlePosition="-18"
                stepSize="0.1" min="-100" max="3" suffix=" dB" mode="Decibel"
                pluginParameterName="Gain" text="Gain" processorId="Simple Gain1"
@@ -35,7 +31,7 @@
                isPluginParameter="1" bgColour="4289505171" itemColour="4293124827"
                filmstripImage="{PROJECT_FOLDER}knob-small.png" defaultValue="-3"/>
     <Component type="ScriptSlider" id="knbDelay" x="118" y="145" middlePosition="100"
-               stepSize="1.0" max="500" suffix=" dB" mode="Time" pluginParameterName="Gain"
+               stepSize="1" max="500" suffix=" dB" mode="Time" pluginParameterName="Gain"
                text="Gain" processorId="Simple Gain1" parameterId="Delay" showValuePopup="Above"
                scaleFactor="0.5" numStrips="128" width="50" height="50" showTextBox="0"
                parentComponent="page0" isPluginParameter="1" bgColour="4289505171"
@@ -131,8 +127,7 @@
                pluginParameterName="Transition Gain"/>
     <Component type="ScriptLabel" id="lblTransitionGain" x="114" y="204" width="150"
                height="30" parentComponent="page5" text="Transition Gain" textColour="4284635721"
-               itemColour2="0" fontName="Oxygen-Bold" fontSize="18" editable="0"
-               saveInPreset="0"/>
+               itemColour2="0" fontName="Oxygen-Bold" fontSize="18" editable="0"/>
   </Component>
   <Component type="ScriptPanel" id="page6" x="237" y="68" bgColour="0" itemColour="0"
              itemColour2="0" textColour="0" width="388" height="380" borderSize="0"
