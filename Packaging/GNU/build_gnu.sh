@@ -4,7 +4,7 @@ project=Kazbek
 xmlFile=kazbek
 workspace=/media/john/SHARED/HISEProjects/Woodwinds/Kazbek/HISE
 
-build_standalone=0
+build_standalone=1
 build_plugin=1
 build_installer=1
 
