@@ -10,7 +10,7 @@
   </Component>
   <Component type="ScriptPanel" id="page0" x="237" y="68" bgColour="0" itemColour="0"
              itemColour2="0" textColour="0" width="388" height="380" borderSize="0"
-             borderRadius="0">
+             borderRadius="0" visible="0">
     <Component type="ScriptLabel" id="lblGain" x="21" y="204" width="69" height="30"
                parentComponent="page0" text="Volume" textColour="4284635721"
                itemColour2="0" fontName="Oxygen-Bold" fontSize="18" editable="0"/>
@@ -71,7 +71,7 @@
   </Component>
   <Component type="ScriptPanel" id="page3" x="237" y="68" bgColour="0" itemColour="0"
              itemColour2="0" textColour="0" width="388" height="380" borderSize="0"
-             borderRadius="0" visible="0">
+             borderRadius="0">
     <Component type="ScriptLabel" id="lblVelDynamics" x="94" y="64" width="106"
                height="25" parentComponent="page3" text="Velocity Control" textColour="4284635721"
                itemColour2="0" fontName="Oxygen-Bold" fontSize="16" alignment="left"
@@ -174,9 +174,9 @@
              width="25" height="25" bgColour="4286608736" itemColour="4288910716"/>
   <Component type="ScriptPanel" id="pnlDocs" x="25" y="68" width="600" height="380"
              visible="0">
-    <Component type="ScriptFloatingTile" id="fltDocs" x="0" y="0" parentComponent="pnlDocs"
-               ContentType="MarkdownPanel" bgColour="0" itemColour="4287692721"
-               itemColour2="4285563024" Data="{&#13;&#10;  &quot;ShowBack&quot;: false,&#13;&#10;  &quot;ShowSearch&quot;: false,&#13;&#10;  &quot;ShowToc&quot;: true,&#13;&#10;  &quot;BoldFontName&quot;: &quot;&quot;,&#13;&#10;  &quot;FixTocWidth&quot;: 200,&#13;&#10;  &quot;StartURL&quot;: &quot;/&quot;,&#13;&#10;  &quot;ServerUpdateURL&quot;: &quot;&quot;&#13;&#10;}"
-               width="650" height="400" textColour="4278190080"/>
+    <Component type="ScriptFloatingTile" id="fltDocs" x="5" y="5" parentComponent="pnlDocs"
+               ContentType="MarkdownPanel" bgColour="0" itemColour="4282927176"
+               itemColour2="4285563024" Data="{&#13;&#10;  &quot;ShowBack&quot;: false,&#13;&#10;  &quot;ShowSearch&quot;: false,&#13;&#10;  &quot;ShowToc&quot;: true,&#13;&#10;  &quot;BoldFontName&quot;: &quot;&quot;,&#13;&#10;  &quot;FixTocWidth&quot;: 195,&#13;&#10;  &quot;StartURL&quot;: &quot;/&quot;,&#13;&#10;  &quot;ServerUpdateURL&quot;: &quot;&quot;&#13;&#10;}"
+               width="600" height="375" textColour="4278190080"/>
   </Component>
 </ContentProperties>

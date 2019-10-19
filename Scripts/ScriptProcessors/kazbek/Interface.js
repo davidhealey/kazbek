@@ -327,6 +327,9 @@ pnlDocs.setPaintRoutine(function(g)
 {
     g.setGradientFill([0xFFE3E2DB, 0, 0, 0xFFE3DDCC, this.getWidth(), this.getHeight()]);
     g.fillRect([0, 0, this.getWidth(), this.getHeight()]);    
+    
+    g.setColour(0xFF222222);    
+    g.fillRect([0, 0, 200, this.getHeight()]);
 });
 
 
