@@ -20,6 +20,7 @@ Content.makeFrontInterface(650, 570);
 include("manifest.js");
 include("settings.js");
 include("preloadBar.js");
+include("HISE-Scripting-Framework/libraries/paths.js");
 
 Synth.deferCallbacks(true);
 
@@ -275,10 +276,61 @@ const var btnPreset2 = Content.getComponent("btnPreset2");
 btnPreset2.setControlCallback(openPresetBrowser);
 const var pnlPreset = Content.getComponent("pnlPreset");
 
+pnlPreset.setPaintRoutine(function(g)
+{
+    g.setGradientFill([0xFFE3E2DB, 150, 150, 0xFFE3DDCC, this.getWidth(), this.getHeight()]);
+    g.fillRect([0, 0, this.getWidth(), this.getHeight()]);   
+});
+
 inline function openPresetBrowser(component, value)
 {
+    pnlDocs.showControl(false);
+    btnHelp.setValue(0);
     pnlPreset.showControl(value);
-}function onNoteOn()
+}
+
+//Help Button
+const var btnHelp = Content.getComponent("btnHelp");
+
+btnHelp.setPaintRoutine(function(g)
+{
+    this.data.hover ? g.setColour(this.get("itemColour")) : g.setColour(this.get("bgColour"));
+    g.fillPath(Paths.fontawesome.solid["question-circle"], [0, 0, this.getWidth(), this.getHeight()]);
+});
+
+btnHelp.setMouseCallback(function(e)
+{    
+    if (e.mouseUp)
+    {
+        this.setValue(1-this.getValue());
+        this.changed();
+    }        
+    else
+    {
+        this.data.hover = e.hover;
+        this.repaint();
+    }
+});
+
+btnHelp.setControlCallback(onbtnHelpControl);
+inline function onbtnHelpControl(component, value)
+{
+    pnlPreset.showControl(false);
+    btnPreset2.setValue(0);
+	pnlDocs.showControl(value);
+};
+
+//Documentation panel
+const var pnlDocs = Content.getComponent("pnlDocs");
+
+pnlDocs.setPaintRoutine(function(g)
+{
+    g.setGradientFill([0xFFE3E2DB, 0, 0, 0xFFE3DDCC, this.getWidth(), this.getHeight()]);
+    g.fillRect([0, 0, this.getWidth(), this.getHeight()]);    
+});
+
+
+function onNoteOn()
 {
 	
 }

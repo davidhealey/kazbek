@@ -15,7 +15,7 @@
             <Control type="ScriptSlider" id="knbPan" value="0"/>
             <Control type="ScriptSlider" id="knbFine" value="0"/>
             <Control type="ScriptTable" id="tblVelocity" value="0" data="24...............vO...f+....9C..nvO"/>
-            <Control type="ScriptSlider" id="knbExpression" value="127"/>
+            <Control type="ScriptSlider" id="knbExpression" value="98.29"/>
             <Control type="ScriptTable" id="tblExpression" value="0" data=""/>
             <Control type="ScriptButton" id="btnVelDynamics" value="0"/>
             <Control type="ScriptButton" id="btnBreath" value="0"/>
@@ -47,7 +47,7 @@
           <ChildProcessors/>
           <Content>
             <Control type="ScriptButton" id="btnDynamics" value="0"/>
-            <Control type="ScriptTable" id="tblVel" value="54" data="24...............vO...f+....9C..nvO"/>
+            <Control type="ScriptTable" id="tblVel" value="33" data="24...............vO...f+....9C..nvO"/>
           </Content>
           <UIData>
             <ContentProperties DeviceType="Desktop">
@@ -62,7 +62,7 @@
       <ChildProcessors>
         <Processor Type="MidiController" ID="expression" Bypassed="0" Intensity="1"
                    UseTable="1" Inverted="0" ControllerNumber="94" SmoothTime="200"
-                   DefaultValue="127" ControllerTableData="">
+                   DefaultValue="98.29" ControllerTableData="">
           <ChildProcessors/>
         </Processor>
       </ChildProcessors>
