@@ -332,6 +332,14 @@ pnlDocs.setPaintRoutine(function(g)
     g.fillRect([0, 0, 200, this.getHeight()]);
 });
 
+//URL button
+
+inline function onbtnURLControl(component, value)
+{
+	Engine.openWebsite("https://librewave.com");
+};
+
+Content.getComponent("btnURL").setControlCallback(onbtnURLControl);
 
 function onNoteOn()
 {

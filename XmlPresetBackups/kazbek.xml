@@ -24,7 +24,7 @@
             <Control type="ScriptSlider" id="knbVibrato0" value="0"/>
             <Control type="ScriptSlider" id="knbVibrato1" value="90"/>
             <Control type="ScriptSlider" id="knbTransition" value="-9"/>
-            <Control type="ScriptPanel" id="pnlMenu" value="3"/>
+            <Control type="ScriptPanel" id="pnlMenu" value="0"/>
           </Content>
           <UIData Source="kazbekUIData"/>
         </Processor>
